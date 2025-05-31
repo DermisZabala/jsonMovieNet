@@ -1,0 +1,266 @@
+[
+  {
+    "id": "serie_001",
+    "titulo": "The Boys",
+    "sinopsis": "A group of vigilantes sets out to take down corrupt superheroes who abuse their superpowers.",
+    "elenco": [
+      "Karl Urban",
+      "Jack Quaid",
+      "Antony Starr"
+    ],
+    "anio": 2019,
+    "genero": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "calificacion": 8.7,
+    "poster": "",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - The Name of the Game",
+            "sinopsis": "When a superhero carelessly kills his girlfriend, Hughie Campbell joins Billy Butcher's clandestine group to expose the truth and seek justice.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Cherry",
+            "sinopsis": "Butcher visits an old friend to get information about a superhero. Hughie infiltrates Vought.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Get Some",
+            "sinopsis": "The Boys try to capture Translucent, while Hughie struggles with the consequences of his actions.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - The Female of the Species",
+            "sinopsis": "The team discovers a mysterious woman with lethal abilities and decides to help her.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Good for the Soul",
+            "sinopsis": "Starlight begins to question The Seven's methods while participating in a Christian convention.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - The Innocents",
+            "sinopsis": "Butcher and Hughie investigate Compound V's past, uncovering dark secrets.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - The Self-Preservation Society",
+            "sinopsis": "The Boys face devastating consequences as they get closer to the truth about Vought.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - You Found Me",
+            "sinopsis": "The final showdown between The Boys and Homelander reveals shocking truths.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/1/8"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "titulo": "T2:E1 - The Big Ride",
+            "sinopsis": "The Boys are on the run and must adapt to their new situation while Vought introduces Stormfront.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/2/1"
+            ]
+          },
+          {
+            "titulo": "T2:E2 - Proper Preparation and Planning",
+            "synopsis": "Butcher returns with the team, but tensions rise. Homelander spends time with his new 'son'.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/2/2"
+            ]
+          },
+          {
+            "titulo": "T2:E3 - Over the Hill with the Swords of a Thousand Men",
+            "sinopsis": "A mission to capture a supervillain gets complicated, revealing more about Stormfront.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/2/3"
+            ]
+          },
+          {
+            "titulo": "T2:E4 - Nothing Like It in the World",
+            "sinopsis": "Butcher searches for his wife while Hughie and Starlight investigate Liberty's past.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/2/4"
+            ]
+          },
+          {
+            "titulo": "T2:E5 - We Gotta Go Now",
+            "sinopsis": "The Boys infiltrate a Vought movie to get crucial information.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/2/5"
+            ]
+          },
+          {
+            "titulo": "T2:E6 - The Bloody Doors Off",
+            "sinopsis": "The team discovers a secret hospital where Vought experiments with Compound V.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/2/6"
+            ]
+          },
+          {
+            "titulo": "T2:E7 - Butcher, Baker, Candlestick Maker",
+            "sinopsis": "Butcher's backstory is revealed as the team faces new threats.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/2/7"
+            ]
+          },
+          {
+            "titulo": "T2:E8 - What I Know",
+            "sinopsis": "In the season's climax, The Boys confront Stormfront and Homelander in a decisive battle.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/2/8"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "episodios": [
+          {
+            "titulo": "T3:E1 - Payback",
+            "sinopsis": "The Boys try to adapt to a new status quo while investigating Soldier Boy.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/3/1"
+            ]
+          },
+          {
+            "titulo": "T3:E2 - The Only Man in the Sky",
+            "sinopsis": "Homelander celebrates his birthday while tensions rise within Vought.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/3/2"
+            ]
+          },
+          {
+            "titulo": "T3:E3 - Barbary Coast",
+            "sinopsis": "The investigation into Soldier Boy leads the team to discover secrets from the past.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/3/3"
+            ]
+          },
+          {
+            "titulo": "T3:E4 - Glorious Five Year Plan",
+            "sinopsis": "Butcher takes extreme measures to level the playing field against the Supes.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/3/4"
+            ]
+          },
+          {
+            "titulo": "T3:E5 - The Last Time to Look on This World of Lies",
+            "sinopsis": "The Boys face obstacles while Homelander consolidates his power in Vought.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/3/5"
+            ]
+          },
+          {
+            "titulo": "T3:E6 - Herogasm",
+            "sinopsis": "A secret superhero party reveals shocking truths and leads to an epic confrontation.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/3/6"
+            ]
+          },
+          {
+            "titulo": "T3:E7 - Here Comes a Candle to Light You to Bed",
+            "synopsis": "Loyalties are tested as the team prepares for the final confrontation.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/3/7"
+            ]
+          },
+          {
+            "titulo": "T3:E8 - The Instant White-Hot Wild",
+            "sinopsis": "The culminating confrontation between The Boys and Homelander changes the course of their lives.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/3/8"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "episodios": [
+          {
+            "titulo": "T4:E1 - Department of Dirty Tricks",
+            "sinopsis": "Homelander faces his trial while The Boys plan their next move.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/4/1"
+            ]
+          },
+          {
+            "titulo": "T4:E2 - Life Among the Septics",
+            "sinopsis": "The team infiltrates a suspicious community while discovering new secrets.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/4/2"
+            ]
+          },
+          {
+            "titulo": "T4:E3 - We'll Keep the Red Flag Flying Here",
+            "sinopsis": "Annie discovers the reason for Firecracker's hatred towards her. Hughie escapes death with unexpected help.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/4/3"
+            ]
+          },
+          {
+            "titulo": "T4:E4 - Wisdom of the Ages",
+            "sinopsis": "Homelander visits the place where he grew up, reliving dark memories.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/4/4"
+            ]
+          },
+          {
+            "titulo": "T4:E5 - Beware the Jabberwock, My Son",
+            "sinopsis": "While Hughie cares for his dying father, The Boys free Stan to obtain an anti-Supe virus.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/4/5"
+            ]
+          },
+          {
+            "titulo": "T4:E6 - Dirty Business",
+            "sinopsis": "Vought's secrets come to light as the team faces new threats.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/4/6"
+            ]
+          },
+          {
+            "titulo": "T4:E7 - The Insider",
+            "sinopsis": "An internal betrayal jeopardizes The Boys' mission.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/4/7"
+            ]
+          },
+          {
+            "titulo": "T4:E8 - Season Four Finale",
+            "synopsis": "The season's climax leads to irreversible consequences for all involved.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt1190634/4/8"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

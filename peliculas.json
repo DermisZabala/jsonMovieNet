@@ -1,0 +1,2292 @@
+[
+  {
+    "id": "pelicula_001",
+    "titulo": "Dune: Part Two",
+    "sinopsis": "Paul Atreides unites with the Fremen and begins a spiritual and martial journey to become Muad'dib...",
+    "elenco": ["Timothée Chalamet", "Zendaya", "Rebecca Ferguson"],
+    "anio": 2024,
+    "genero": ["Science Fiction", "Adventure", "Drama"],
+    "calificacion": 8.9,
+    "poster": "https://es.web.img3.acsta.net/pictures/24/02/20/17/42/2385575.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt15239678"
+    ]
+  },
+  {
+    "id": "pelicula_002",
+    "titulo": "Oppenheimer",
+    "sinopsis": "The story of scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "elenco": ["Cillian Murphy", "Emily Blunt", "Matt Damon"],
+    "anio": 2023,
+    "genero": ["Biography", "Drama", "History"],
+    "calificacion": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt15239678"
+    ]
+  },
+  {
+    "id": "pelicula_003",
+    "titulo": "Hi Nanna",
+    "sinopsis": "A doting father and his six-year-old daughter find their lives taking a dramatic turn when the mother, who was separated from them, inadvertently re-enters their world.",
+    "elenco": ["Nani", "Mrunal Thakur", "Kiara Khanna", "Jayaram", "Priyamani"],
+    "anio": 2023,
+    "genero": ["Drama", "Romance", "Family"],
+    "calificacion": 7.6,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hhMLtq9m1aK0dpY9Wcq26XeDH2z.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt25433734"
+    ]
+  },
+  {
+    "id": "pelicula_004",
+    "titulo": "Roadkill",
+    "sinopsis": "A female race car driver, is pushed to her limits when a deranged fanboy, who is obsessed with her, begins to stalk and torment her after she rejects him.",
+    "elenco": ["Caitlin Carmichael", "Ryan Knudson", "Warren Fast", "Danielle Mathers", "Trey Byers"],
+    "anio": 2024,
+    "genero": ["Thriller", "Horror"],
+    "calificacion": 4.9,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/rPkHaGP7hahvRuWs0Ckpzqt070E.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt4029940"
+    ]
+  },
+  {
+    "id": "pelicula_005",
+    "titulo": "Dangerous Waters",
+    "sinopsis": "A sailing holiday spirals out of control when a teenage daughter uncovers the dark past of her mother's new boyfriend.",
+    "elenco": ["Odeya Rush", "Eric Dane", "Saffron Burrows", "Ray Liotta", "Sala Baker"],
+    "anio": 2023,
+    "genero": ["Thriller"],
+    "calificacion": 6.0,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/3Lg8E5rJ9VsK0qitfCljro7BrP0.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt20024428"
+    ]
+  },
+  {
+    "id": "pelicula_006",
+    "titulo": "Good Grief",
+    "sinopsis": "An artist grieving the loss of his famous writer husband takes his two best friends on a trip to Paris, where they unpack messy secrets and hard truths.",
+    "elenco": ["Dan Levy", "Ruth Negga", "Himesh Patel", "Luke Evans", "Arnaud Valois"],
+    "anio": 2023,
+    "genero": ["Comedy", "Drama", "Romance"],
+    "calificacion": 6.4,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/9Xr2PiUlJeDdSHLxSiXQZruygVg.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt19887550"
+    ]
+  },
+  {
+    "id": "pelicula_007",
+    "titulo": "The Bricklayer",
+    "sinopsis": "Someone is blackmailing the CIA by assassinating foreign journalists and making it look like the agency is responsible. As the world begins to unite against the U.S., the CIA must lure its most brilliant – and rebellious – operative out of retirement, forcing him to confront his checkered past while unraveling an international conspiracy.",
+    "elenco": ["Aaron Eckhart", "Nina Dobrev", "Tim Blake Nelson", "Ilfenesh Hadera", "Clifton Collins Jr."],
+    "anio": 2023,
+    "genero": ["Action", "Thriller"],
+    "calificacion": 5.9,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/czBaPIWYuTdPvAh6TNh5bKOG4ty.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt2016303"
+    ]
+  },
+  {
+    "id": "pelicula_008",
+    "titulo": "The Passionate Friends",
+    "sinopsis": "The chance meeting in Switzerland of a woman and a former lover after a nine-year separation rekindles their romance.",
+    "elenco": ["Ann Todd", "Claude Rains", "Trevor Howard", "Betty Ann Davies", "Isabel Dean"],
+    "anio": 1949,
+    "genero": ["Drama", "Romance"],
+    "calificacion": 6.9,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/ocjfsIO7zf2DKYVzVELfLOAAHqi.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0041735"
+    ]
+  },
+  {
+    "id": "pelicula_009",
+    "titulo": "Race for Glory: Audi vs Lancia",
+    "sinopsis": "Inspired by true events that occurred during the fierce rivalry between Germany (Audi) and Italy (Lancia) at the 1983 Rally World Championships.",
+    "elenco": ["Riccardo Scamarcio", "Daniel Brühl", "Volker Bruch", "Katie Clarkson-Hill", "Esther Garrel"],
+    "anio": 2024,
+    "genero": ["Drama", "History", "Sport"],
+    "calificacion": 6.5,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/rwu27eJfUbuHa8zubVXMRWptiZ8.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt20112600"
+    ]
+  },
+  {
+    "id": "pelicula_010",
+    "titulo": "The Curse of Sleeping Beauty",
+    "sinopsis": "Thomas Kaiser inherits an ancestral mansion that has been in his family for generations - only to learn that he has also inherited an ancient curse stemming back to the Crusades. Forced into his new role as 'protector', the guardian appointed to keep the evil demons in the house at bay, Thomas must unravel the mystery of the house, while struggling to awaken the beautiful Briar Rose, held captive in a terrifying netherworld seen previously in his dreams.",
+    "elenco": ["Ethan Peck", "India Eisley", "Natalie Hall", "Bruce Davison", "James Adam Lim"],
+    "anio": 2016,
+    "genero": ["Fantasy", "Horror", "Mystery", "Thriller"],
+    "calificacion": 4.7,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/fUyVUMVaZyEauIjjdkcEx4AU9p2.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt4118606"
+    ]
+  },
+  {
+    "id": "pelicula_011",
+    "titulo": "Caravaggio's Shadow",
+    "sinopsis": "Italy 1609. Michelangelo Merisi, better known as Caravaggio, is on the run after being sentenced to death for the murder of a rival in love. Pope Paul V orders a secret Vatican investigation into Caravaggio to decide whether to grant him the clemency for which he has petitioned. The Investigator, known as The Shadow, begins his inquiry which will lead him to discover the conflicting vices and virtues of the great painter whose life - or death - lies in his hands.",
+    "elenco": ["Riccardo Scamarcio", "Louis Garrel", "Isabelle Huppert", "Micaela Ramazzotti", "Michele Placido"],
+    "anio": 2022,
+    "genero": ["Drama", "History"],
+    "calificacion": 6.3,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/1KaabeFvsgK7spSZaKDaPe04x0G.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt11877386"
+    ]
+  },
+  {
+    "id": "pelicula_012",
+    "titulo": "Out on a Limb",
+    "sinopsis": "A financial whiz (Matthew Broderick) goes to Buzzsaw, Calif., to get his stepsister's (Jennifer Jason Leigh) money back from two con men.",
+    "elenco": ["Matthew Broderick", "Jeffrey Jones", "Heidi Kling", "John C. Reilly", "Marian Mercer"],
+    "anio": 1992,
+    "genero": ["Comedy", "Family"],
+    "calificacion": 5.4,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/y2El6Z9vlsLcOjtcawNESpAzDb3.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0105078"
+    ]
+  },
+  {
+    "id": "pelicula_013",
+    "titulo": "Society of the Snow",
+    "sinopsis": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to fly a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+    "elenco": ["Enzo Vogrincic", "Agustín Pardella", "Matías Recalt", "Esteban Bigliardi", "Diego Vegezzi"],
+    "anio": 2023,
+    "genero": ["Drama", "History"],
+    "calificacion": 8.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt16277242"
+    ]
+  },
+  {
+    "id": "pelicula_014",
+    "titulo": "The Wog Boy",
+    "sinopsis": "Steve liked his job, his car, his friends and his girlfriend. Then his unemployment benefits were cut, the government cracked-down on hoon driving and tax evasion, he lost his girl and his best friend... what else could go wrong?! Plenty!",
+    "elenco": ["Nick Giannopoulos", "Vince Colosimo", "Lucy Bell", "John Barresi", "Abi Tucker"],
+    "anio": 2000,
+    "genero": ["Comedy"],
+    "calificacion": 5.8,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0216417"
+    ]
+  },
+  {
+    "id": "pelicula_015",
+    "titulo": "Pippa",
+    "sinopsis": "The story of Captain Balram Singh Mehta of India's 45 Cavalry regiment who, along with his siblings, fought on the eastern front during the Indo-Pakistani War of 1971.",
+    "elenco": ["Ishaan Khatter", "Mrunal Thakur", "Priyanshu Painyuli", "Soni Razdan", "Inaamulhaq"],
+    "anio": 2023,
+    "genero": ["Action", "Drama", "War", "History"],
+    "calificacion": 6.7,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt12887208"
+    ]
+  },
+  {
+    "id": "pelicula_016",
+    "titulo": "Two Much",
+    "sinopsis": "An art dealer wants to get married to a young woman. The problem is, her sister wants him too. To solve the problem, he invents his own twin brother.",
+    "elenco": ["Antonio Banderas", "Melanie Griffith", "Daryl Hannah", "Danny Aiello", "Joan Cusack"],
+    "anio": 1995,
+    "genero": ["Comedy", "Romance"],
+    "calificacion": 5.5,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0118001"
+    ]
+  },
+  {
+    "id": "pelicula_017",
+    "titulo": "And Starring Pancho Villa as Himself",
+    "sinopsis": "In 1914, the Mexican revolutionary Pancho Villa invites studios to shoot his battles to raise funds for the war. He works with Frank Thayer of the Mutual Film Company and they make the movie \"The Life of General Villa\".",
+    "elenco": ["Antonio Banderas", "Eion Bailey", "Alan Arkin", "Jim Broadbent", "Matt Day"],
+    "anio": 2003,
+    "genero": ["Western", "Drama", "War", "History"],
+    "calificacion": 6.6,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0337824"
+    ]
+  },
+  {
+    "id": "pelicula_018",
+    "titulo": "Cabin Tales",
+    "sinopsis": "A writer, haunted by his past, retreats to a remote cabin in the woods where he hopes to find inspiration but instead uncovers a dark secret that threatens his sanity and his life.",
+    "elenco": ["David Ogrodowski", "Alex Galick", "Adam Lowder", "Robert Gerard"],
+    "anio": 2023,
+    "genero": ["Horror", "Thriller"],
+    "calificacion": 2.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21110216"
+    ]
+  },
+  {
+    "id": "pelicula_019",
+    "titulo": "Steeds Ridge",
+    "sinopsis": "An American backpacker travels to Ireland where she finds herself immersed in an ancient pagan ritual and a fight for her life.",
+    "elenco": ["Saoirse Ronan", "Paul Mescal", "LaKeith Stanfield"],
+    "anio": 2023,
+    "genero": ["Horror"],
+    "calificacion": 0.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt28234508"
+    ]
+  },
+  {
+    "id": "pelicula_020",
+    "titulo": "Cherry Bomb",
+    "sinopsis": "A group of teenage girls in a small town form a rock band and navigate the challenges of adolescence, friendship, and fame.",
+    "elenco": ["Isabella Crovetti", "Madeline McGraw", "Lidya Jewett", "Lexy Kolker", "Jacob Tremblay"],
+    "anio": 2024,
+    "genero": ["Drama", "Music", "Coming-of-Age"],
+    "calificacion": 0.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt24408496"
+    ]
+  },
+  {
+    "id": "pelicula_021",
+    "titulo": "The Group Chat",
+    "sinopsis": "A comedy about a group of friends whose lives are intertwined through their endless and often hilarious group chat conversations.",
+    "elenco": ["Stephanie Nogueras", "Ray Buffer", "Cole Allen", "Chelsea Alden", "Michelle Farrah Huang"],
+    "anio": 2019,
+    "genero": ["Comedy", "Drama"],
+    "calificacion": 3.3,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt8660682"
+    ]
+  },
+  {
+    "id": "pelicula_022",
+    "titulo": "Breaking All the Rules",
+    "sinopsis": "During a summer vacation, three boys and a girl search for a lost treasure. The reward has been offered by an old man, who needs the money to save a boy's life.",
+    "elenco": ["Carl Marotte", "Thor Bishopric", "Carolyn Dunn", "Rachel Hayward", "Michael Rudder"],
+    "anio": 1985,
+    "genero": ["Comedy", "Drama"],
+    "calificacion": 5.8,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0088848"
+    ]
+  },
+  {
+    "id": "pelicula_023",
+    "titulo": "Slightly New",
+    "sinopsis": "In the near future, a young woman discovers a revolutionary technology that allows people to relive their memories, but soon finds out it has a dark side.",
+    "elenco": ["Jane Levy", "Skylar Astin", "John Clarence Stewart", "Alex Newell", "Mary Steenburgen"],
+    "anio": 2024,
+    "genero": ["Science Fiction", "Thriller", "Drama"],
+    "calificacion": 0.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29220279"
+    ]
+  },
+  {
+    "id": "pelicula_024",
+    "titulo": "Roseanne Barr: Cancel This!",
+    "sinopsis": "A provocative and unapologetic comedy special from Roseanne Barr, addressing her career, controversies, and a wide range of current topics.",
+    "elenco": ["Roseanne Barr"],
+    "anio": 2023,
+    "genero": ["Comedy", "Documentary"],
+    "calificacion": 4.2,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt22176020"
+    ]
+  },
+  {
+    "id": "pelicula_025",
+    "titulo": "Mr Bates vs The Post Office: The Real Story",
+    "sinopsis": "A documentary exploring the true story behind the British Post Office scandal, where hundreds of sub-postmasters were wrongly accused of theft, fraud, and false accounting due to a faulty IT system.",
+    "elenco": ["Alan Bates", "Jo Hamilton", "Toby Jones (archive footage)"],
+    "anio": 2024,
+    "genero": ["Documentary"],
+    "calificacion": 8.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30744116"
+    ]
+  },
+  {
+    "id": "pelicula_026",
+    "titulo": "Beyond a Reasonable Doubt",
+    "sinopsis": "Ambitious young journalist C.J. Nicholas is investigating shady District Attorney Martin Hunter. To trap Hunter, C.J. frames himself for a murder he didn't commit, with help from his friend. But when his friend is killed, C.J. finds himself in a race against time to find the evidence that will exonerate him and expose Hunter.",
+    "elenco": ["Jesse Metcalfe", "Amber Tamblyn", "Michael Douglas", "Joel David Moore", "Orlando Jones"],
+    "anio": 2009,
+    "genero": ["Crime", "Drama", "Mystery", "Thriller"],
+    "calificacion": 5.8,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt1183251"
+    ]
+  },
+  {
+    "id": "pelicula_027",
+    "titulo": "Three of Us",
+    "sinopsis": "Confronting a devastating diagnosis, a woman embarks on a journey to her childhood village with her husband, seeking to relive cherished memories before she loses them forever. Along the way, she reconnects with her childhood sweetheart, leading to a poignant exploration of love, loss, and the past.",
+    "elenco": ["Shefali Shah", "Jaideep Ahlawat", "Swanand Kirkire", "Kadambari Kadam"],
+    "anio": 2023,
+    "genero": ["Drama"],
+    "calificacion": 7.7,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt23804378"
+    ]
+  },
+  {
+    "id": "pelicula_028",
+    "titulo": "Emotions of a Murder",
+    "sinopsis": "A detective haunted by a personal tragedy must delve into the complex emotions of a murder case where the lines between victim and perpetrator blur, forcing him to confront his own demons.",
+    "elenco": ["Idris Elba", "Rebecca Ferguson", "Jared Harris", "Gugu Mbatha-Raw", "Ben Mendelsohn"],
+    "anio": 2024,
+    "genero": ["Crime", "Drama", "Thriller"],
+    "calificacion": 0.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29265463"
+    ]
+  },
+  {
+    "id": "pelicula_029",
+    "titulo": "Thank You for Coming",
+    "sinopsis": "A single woman in her thirties, surrounded by her closest friends, navigates the complexities of love, desire, and societal expectations as she embarks on a quest for sexual fulfillment and personal happiness.",
+    "elenco": ["Bhumi Pednekar", "Shehnaaz Gill", "Dolly Singh", "Kusha Kapila", "Shibani Bedi"],
+    "anio": 2023,
+    "genero": ["Comedy", "Drama"],
+    "calificacion": 4.8,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt23036080"
+    ]
+  },
+  {
+    "id": "pelicula_030",
+    "titulo": "Bitconned",
+    "sinopsis": "A true-crime documentary detailing the rise and fall of Centra Tech, a cryptocurrency company whose founders perpetrated a massive fraud, conning investors out of millions.",
+    "elenco": ["Ray Trapani"],
+    "anio": 2024,
+    "genero": ["Documentary", "Crime"],
+    "calificacion": 6.2,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30317302"
+    ]
+  },
+  {
+    "id": "pelicula_031",
+    "titulo": "Shershaah",
+    "sinopsis": "The story of PVC awardee Indian soldier Capt. Vikram Batra, who shot to fame and became a household name during the Kargil War in 1999.",
+    "elenco": ["Sidharth Malhotra", "Kiara Advani", "Shiv Panditt", "Pranay Pachauri", "Sahil Vaid"],
+    "anio": 2021,
+    "genero": ["Action", "War", "Drama", "History"],
+    "calificacion": 8.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt10295212"
+    ]
+  },
+  {
+    "id": "pelicula_032",
+    "titulo": "The Alien Report",
+    "sinopsis": "An alien abductee undergoes a series of intense interviews and hypnotic regressions to recall his encounters, revealing a terrifying and complex extraterrestrial agenda.",
+    "elenco": ["Edward Solis", "Anastasia Lin", "Michelle Ruben"],
+    "anio": 2022,
+    "genero": ["Science Fiction", "Horror"],
+    "calificacion": 5.1,
+    "poster": "https://image.tmdb.org/t/p/w500/6Gg0xXe02plR9f4V6F5nL9YV5sU.jpg",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt17079602"
+    ]
+  },
+  {
+    "id": "pelicula_033",
+    "titulo": "The Cardinal",
+    "sinopsis": "A young Boston priest rising through the ranks of the Catholic Church an American of Irish descent faces bigotry, his own personal crises, and worldly temptations.",
+    "elenco": ["Tom Tryon", "Romy Schneider", "Carol Lynley", "Jill Haworth", "Raf Vallone"],
+    "anio": 1963,
+    "genero": ["Drama"],
+    "calificacion": 6.9,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0056907"
+    ]
+  },
+  {
+    "id": "pelicula_034",
+    "titulo": "Jigarthanda",
+    "sinopsis": "An aspiring director targets a ruthless gangster for a film script, but his discreet attempts to research the man's life land him in a series of dangerous, unforeseen situations.",
+    "elenco": ["Siddharth", "Bobby Simha", "Lakshmi Menon", "Karunakaran", "Guru Somasundaram"],
+    "anio": 2014,
+    "genero": ["Action", "Comedy", "Crime", "Drama"],
+    "calificacion": 8.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt3569782"
+    ]
+  },
+  {
+    "id": "pelicula_035",
+    "titulo": "Exhibit A",
+    "sinopsis": "A normal family, dad Ray, mum Judith, and their two teenage children, are subjected to the pressures of modern life as Ray is made redundant and his efforts to get a new job prove fruitless. He decides to document their lives with a camcorder in the hope of winning a TV competition and soon his behaviour turns violent and abusive.",
+    "elenco": ["Bradley Cole", "Brittany Ashworth", "Angela Forrest", "Oliver Lee"],
+    "anio": 2007,
+    "genero": ["Drama", "Horror", "Thriller"],
+    "calificacion": 6.2,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0972555"
+    ]
+  },
+  {
+    "id": "pelicula_036",
+    "titulo": "Fist of the North Star",
+    "sinopsis": "In a post-apocalyptic future, the warrior Kenshiro wanders a barren wasteland, seeking to rescue his love from his rival and bring justice to the oppressed.",
+    "elenco": ["Gary Daniels", "Costas Mandylor", "Chris Penn", "Isako Washio", "Malcolm McDowell"],
+    "anio": 1995,
+    "genero": ["Action", "Science Fiction", "Thriller"],
+    "calificacion": 4.2,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0113074"
+    ]
+  },
+  {
+    "id": "pelicula_037",
+    "titulo": "Secrets at the Inn",
+    "sinopsis": "A woman inherits a charming old inn from a distant relative, only to discover it holds dark secrets and a history of mysterious disappearances. As she tries to renovate and reopen the inn, she uncovers a sinister plot.",
+    "elenco": ["Tammin Sursok", "Monroe Cline", "Jhey Castles", "Connie Jo Sechrist", "Clark Moore"],
+    "anio": 2022,
+    "genero": ["Thriller", "Mystery"],
+    "calificacion": 5.3,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt22051462"
+    ]
+  },
+  {
+    "id": "pelicula_038",
+    "titulo": "Secret Love Triangle",
+    "sinopsis": "A married woman finds herself drawn into a passionate and dangerous affair with a younger man, leading to a complex web of lies, desire, and betrayal that threatens to unravel her life.",
+    "elenco": ["Brianna Cohen", "Jonathan Stoddard", "Lauren Buglioli", "Philip Boyd", "Olivia Duba"],
+    "anio": 2023,
+    "genero": ["Thriller", "Drama"],
+    "calificacion": 5.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30524124"
+    ]
+  },
+  {
+    "id": "pelicula_039",
+    "titulo": "1898: Our Last Men in the Philippines",
+    "sinopsis": "In 1898, a Spanish garrison heroically defended Baler (Philippines) for 337 days after Spain had already surrendered and lost the Philippines to the USA.",
+    "elenco": ["Luis Tosar", "Javier Gutiérrez", "Álvaro Cervantes", "Karra Elejalde", "Carlos Hipólito"],
+    "anio": 2016,
+    "genero": ["Drama", "History", "War"],
+    "calificacion": 6.7,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt5698568"
+    ]
+  },
+  {
+    "id": "pelicula_040",
+    "titulo": "Upon Entry",
+    "sinopsis": "A Venezuelan couple moving to the US with approved visas is taken to the secondary inspection room at the Newark airport, where border agents subject them to an unpleasant inspection process and a psychologically grueling interrogation.",
+    "elenco": ["Alberto Ammann", "Bruna Cusí", "Laura Gómez", "Ben Temple", "Gerard Oms"],
+    "anio": 2023,
+    "genero": ["Drama", "Thriller"],
+    "calificacion": 7.1,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt22964884"
+    ]
+  },
+  {
+    "id": "pelicula_041",
+    "titulo": "All Dirt Roads Taste of Salt",
+    "sinopsis": "A lyrical, decades-spanning exploration across a woman's life in Mississippi, the film is an ode to the generations of people, places, and ineffable moments that shape us.",
+    "elenco": ["Charleen McClure", "Moses Ingram", "Kaylee Nicole Johnson", "Reginald Helms Jr.", "Sheila Atim"],
+    "anio": 2023,
+    "genero": ["Drama"],
+    "calificacion": 6.0,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt11534720"
+    ]
+  },
+  {
+    "id": "pelicula_042",
+    "titulo": "Inception: The Cobol Job",
+    "sinopsis": "This animated motion comic prequel to the film Inception details how Cobb, Arthur and Nash were enlisted by Cobol Engineering to perform an inception on Mr. Kaneda.",
+    "elenco": ["Leonardo DiCaprio (voice)", "Joseph Gordon-Levitt (voice)", "Lukas Haas (voice)"],
+    "anio": 2010,
+    "genero": ["Action", "Animation", "Science Fiction", "Thriller"],
+    "calificacion": 7.2,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt1790736"
+    ]
+  },
+  {
+    "id": "pelicula_043",
+    "titulo": "Warrior Strong",
+    "sinopsis": "When an entitled basketball star is suspended from his university team, he is sent to an isolated and unconventional basketball camp. He must rediscover his passion for the game and learn what it truly means to be a warrior.",
+    "elenco": ["Jordan Johnson-Hinds", "Sarah Podemski", "Rosa Blasi", "Stephen Odubola", "Andrew Dice Clay"],
+    "anio": 2023,
+    "genero": ["Drama", "Sport"],
+    "calificacion": 6.2,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21622842"
+    ]
+  },
+  {
+    "id": "pelicula_044",
+    "titulo": "King of the Gypsies",
+    "sinopsis": "An old dying Gypsy king Tsetse, passes his leadership to his unwilling grandson, Dave. Dave's father, is angry and jealous that he was passed over. He seeks to kill Dave and take the title of king for himself.",
+    "elenco": ["Sterling Hayden", "Shelley Winters", "Susan Sarandon", "Judd Hirsch", "Eric Roberts"],
+    "anio": 1978,
+    "genero": ["Drama", "Crime"],
+    "calificacion": 6.1,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0077807"
+    ]
+  },
+  {
+    "id": "pelicula_045",
+    "titulo": "Healed",
+    "sinopsis": "A woman grappling with a terminal illness finds unexpected solace and a chance for healing when she reconnects with a childhood friend who introduces her to alternative therapies and a new perspective on life.",
+    "elenco": ["Guinevere Turner", "Christa B. Allen", "Johnathan Schaech", "Sydney Sweeney", "Amber Benson"],
+    "anio": 2023,
+    "genero": ["Drama"],
+    "calificacion": 4.5,
+    "poster": "",
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt16968762"
+    ]
+  },
+  {
+    "id": "pelicula_046",
+    "titulo": "Parking",
+    "sinopsis": "A group of strangers find their lives intersecting in a multi-story parking garage during a city-wide lockdown, forcing them to confront their fears, secrets, and each other.",
+    "elenco": ["Harish Kalyan", "Indhuja Ravichandran", "M. S. Bhaskar", "Rama Rajendra", "Prathana Nathan"],
+    "anio": 2023,
+    "genero": ["Drama", "Thriller"],
+    "calificacion": 7.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt28184712"
+    ]
+  },
+  {
+    "id": "pelicula_047",
+    "titulo": "Christmas Cheer",
+    "sinopsis": "A cynical workaholic woman rediscovers the magic of Christmas when she's forced to spend the holidays in a small, festive town helping her estranged aunt save the local Christmas festival.",
+    "elenco": ["Ashley Newbrough", "Tilky Jones", "Chanté Bowser", "Izzy Herbert", "Christa B. Allen"],
+    "anio": 2021,
+    "genero": ["Romance", "Comedy", "Family"],
+    "calificacion": 5.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt11358194"
+    ]
+  },
+  {
+    "id": "pelicula_048",
+    "titulo": "Arthur's Whisky",
+    "sinopsis": "When a widow discovers her recently deceased husband's invention – an elixir that makes the drinker look young again – she shares it with her two best friends.",
+    "elenco": ["Diane Keaton", "Patricia Hodge", "Lulu", "David Harewood", "Boy George"],
+    "anio": 2024,
+    "genero": ["Comedy", "Fantasy"],
+    "calificacion": 5.7,
+    "tmdb_id": 1126475,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt27158093"
+    ]
+  },
+  {
+    "id": "pelicula_049",
+    "titulo": "Eileen",
+    "sinopsis": "Set during a bitter 1964 Massachusetts winter, young secretary Eileen becomes enchanted by Rebecca Saint John, the glamorous new counselor at the prison where she works. Their budding friendship takes a twisted turn when Rebecca reveals a dark secret — throwing Eileen onto a sinister path.",
+    "elenco": ["Thomasin McKenzie", "Anne Hathaway", "Shea Whigham", "Sam Nivola", "Siobhan Fallon Hogan"],
+    "anio": 2023,
+    "genero": ["Drama", "Thriller", "Mystery"],
+    "calificacion": 6.419,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt5198890"
+    ]
+  },
+  {
+    "id": "pelicula_050",
+    "titulo": "Suka",
+    "sinopsis": "When their family is shattered by a rival gang, two sisters Keira and Kelly are divided. As they are thrust into the gritty underworld of Sydney's street fighting, they must overcome their differences to unite and seek vengeance for their family.",
+    "elenco": ["Lincoln Lewis", "Paul Ben-Victor", "Grace Huang", "Jenny Wu", "Pj Jenkins"],
+    "anio": 2023,
+    "genero": ["Action", "Drama"],
+    "calificacion": 6.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt13381622"
+    ]
+  },
+  {
+    "id": "pelicula_051",
+    "titulo": "The Minion",
+    "sinopsis": "A Templar Knight is sent to New York to stop a demon from retrieving a key that will unleash Hell on Earth.",
+    "elenco": ["Dolph Lundgren", "Françoise Robertson", "Roc LaFortune", "David Nerman", "Allen Altman"],
+    "anio": 1998,
+    "genero": ["Action", "Fantasy", "Horror"],
+    "calificacion": 4.528,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0139465"
+    ]
+  },
+  {
+    "id": "pelicula_052",
+    "titulo": "Out of the Cradle",
+    "sinopsis": "A young mother takes a job with a childless couple to make ends meet, unaware that she is entering a world of unimaginable evil.",
+    "elenco": ["Kate Raison", "Judah Lewis", "Fiona Dourif", "Angela Sarafyan", "Peter Facinelli"],
+    "anio": 2023,
+    "genero": ["Horror", "Thriller"],
+    "calificacion": 5.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt10223052"
+    ]
+  },
+  {
+    "id": "pelicula_053",
+    "titulo": "Hunting Games",
+    "sinopsis": "A group of ex-servicemen are hired by a wealthy man to take part in a jährlisch event held on his private island: A hunting game. What they don't know, is that they are the ones being hunted.",
+    "elenco": ["Randy Charach", "Tito Ortiz", "Cris Cyborg", "Chuck Zito", "Ed Morrone"],
+    "anio": 2023,
+    "genero": ["Action", "Thriller"],
+    "calificacion": 4.4,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt26771713"
+    ]
+  },
+  {
+    "id": "pelicula_054",
+    "titulo": "Headspace",
+    "sinopsis": "A young boy is drawn into a dangerous conflict when he discovers that his new home is a portal to other dimensions.",
+    "elenco": ["Bonko Khoza", "Zakhele williams", "Chris Chameleon", "Lillian Dube", "Mpho Sebeng"],
+    "anio": 2023,
+    "genero": ["Animation", "Adventure", "Family"],
+    "calificacion": 6.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt18501888"
+    ]
+  },
+  {
+    "id": "pelicula_055",
+    "titulo": "The Woodmen",
+    "sinopsis": "Three individuals venture into the remote wilderness of the Allegheny National Forest to shoot a Bigfoot film when they are confronted with the reality that they are not alone.",
+    "elenco": ["Dru ކަރީމް", "Richard Wilkinson", "Michael Worth", "Rachel Amanda Bryant", "Dan Grogan"],
+    "anio": 2023,
+    "genero": ["Horror", "Thriller"],
+    "calificacion": 4.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21394272"
+    ]
+  },
+  {
+    "id": "pelicula_056",
+    "titulo": "The Fable",
+    "sinopsis": "A legendary hitman known only as \"Fable\" is ordered by his boss to live a normal life as a civilian in Osaka for one year without killing anyone. Under the alias Akira Sato, he tries to adapt to an ordinary existence with his partner Yoko, who poses as his sister.",
+    "elenco": ["Junichi Okada", "Fumino Kimura", "Koichi Sato", "Mizuki Yamamoto", "Ryo Kimura"],
+    "anio": 2019,
+    "genero": ["Action", "Comedy", "Thriller"],
+    "calificacion": 6.791,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt8676426"
+    ]
+  },
+  {
+    "id": "pelicula_057",
+    "titulo": "Killer Competition",
+    "sinopsis": "High school senior Nicole is determined to become valedictorian, but she faces stiff competition from a few of her classmates. When one of her competitors is attacked, Nicole becomes the prime suspect.",
+    "elenco": ["Jacqueline Scislowski", "Cristine Prosperi", "Kate Watson", "Philip McElroy", "Lauren McCullough"],
+    "anio": 2020,
+    "genero": ["Thriller", "TV Movie"],
+    "calificacion": 5.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt11671438"
+    ]
+  },
+  {
+    "id": "pelicula_058",
+    "titulo": "Time Bomb Y2K",
+    "sinopsis": "As the clock counted down to the 21st century, the world faced a potential technological catastrophe: the Y2K bug. This documentary explores the global panic and the massive effort to prevent a digital meltdown, using entirely archival footage from the era.",
+    "elenco": [],
+    "anio": 2023,
+    "genero": ["Documentary"],
+    "calificacion": 6.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt26786629"
+    ]
+  },
+  {
+    "id": "pelicula_059",
+    "titulo": "Rival",
+    "sinopsis": "A Ukrainian immigrant mother and her nine-year-old son find refuge in Germany with her lover, but their new life is complicated by simmering tensions and a hidden rivalry.",
+    "elenco": ["Nana Visitor", "Sean Young", "Chris Bruno", "Julianne Collins", "Corey Feldman"],
+    "anio": 2023,
+    "genero": ["Thriller"],
+    "calificacion": 0.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt20447452"
+    ]
+  },
+  {
+    "id": "pelicula_060",
+    "titulo": "Dave Chappelle: The Dreamer",
+    "sinopsis": "Dave Chappelle returns to Netflix for his latest stand-up comedy special, 'The Dreamer.' Filmed in his hometown of Washington, D.C., Chappelle shares his unique observations on life, fame, and the world around him.",
+    "elenco": ["Dave Chappelle", "Morgan Freeman", "Donnell Rawlings"],
+    "anio": 2023,
+    "genero": ["Comedy", "Documentary"],
+    "calificacion": 6.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt18278698"
+    ]
+  },
+  {
+    "id": "pelicula_061",
+    "titulo": "Fresh Meat: Killing Dahmer",
+    "sinopsis": "A deep dive into the mind of Jeffrey Dahmer through the eyes of those who knew him or were involved in his case, exploring the chilling details of his crimes and the aftermath.",
+    "elenco": ["Rich Piatkowski", "Tom Dorf", "Vernell Bass", "Wendy Patrickus", "Anne E. Schwartz"],
+    "anio": 2023,
+    "genero": ["Documentary", "Crime"],
+    "calificacion": 0.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30007982"
+    ]
+  },
+  {
+    "id": "pelicula_062",
+    "titulo": "The Heist Before Christmas",
+    "sinopsis": "Two very different Santas discover that the spirit of Christmas is about more than just presents when they're forced to team up during a bank heist on Christmas Eve.",
+    "elenco": ["James Nesbitt", "Timothy Spall", "Laura Donnelly", "Bronagh Waugh", "Bamber Todd"],
+    "anio": 2023,
+    "genero": ["Comedy", "Family", "Fantasy"],
+    "calificacion": 6.1,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt11417166"
+    ]
+  },
+  {
+    "id": "pelicula_063",
+    "titulo": "Echo Base",
+    "sinopsis": "A group of rebels on the ice planet Hoth must defend their secret base from an impending Imperial attack. This fan film explores the bravery and sacrifice of those fighting for freedom in a galaxy far, far away.",
+    "elenco": ["Vernon Wells", "Joe Kicak", "Julie Mainville", "Jesse T. Cook", "Liv Collins"],
+    "anio": 2023,
+    "genero": ["Action", "Science Fiction"],
+    "calificacion": 3.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21609312"
+    ]
+  },
+  {
+    "id": "pelicula_064",
+    "titulo": "Cinnamon",
+    "sinopsis": "A struggling small-town gas station attendant and aspiring singer, Jodi, is driven to desperate measures after a fatal crime. Her life takes a dark turn as she gets entangled with a dangerous family.",
+    "elenco": ["Hailey Kilgore", "Damon Wayans", "Jeremie Harris", "Pam Grier", "David Iacono"],
+    "anio": 2023,
+    "genero": ["Thriller", "Crime"],
+    "calificacion": 5.679,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt19227682"
+    ]
+  },
+  {
+    "id": "pelicula_065",
+    "titulo": "Evil Among Us: The Golden State Killer",
+    "sinopsis": "A documentary that delves into the decades-long hunt for one of California's most notorious serial killers, the Golden State Killer, examining the case's impact on victims and the innovative investigative techniques that finally led to an arrest.",
+    "elenco": ["Paul Holes", "Larry Crompton", "Carol Daly", "Erika Hutchcraft", "Jane Carson-Sandler"],
+    "anio": 2023,
+    "genero": ["Documentary", "Crime"],
+    "calificacion": 6.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt27605201"
+    ]
+  },
+  {
+    "id": "pelicula_066",
+    "titulo": "Pirates of the High Seas",
+    "sinopsis": "Adventurer Jeff Drake and his sidekick Kelly go in search of a pirate's buried treasure on a remote island, facing rival treasure hunters and other dangers along the way in this 15-chapter serial.",
+    "elenco": ["Buster Crabbe", "Lois Hall", "Tommy Farrell", "Gene Roth", "Tristram Coffin"],
+    "anio": 1950,
+    "genero": ["Action", "Adventure"],
+    "calificacion": 5.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0042846"
+    ]
+  },
+  {
+    "id": "pelicula_067",
+    "titulo": "Warrior King",
+    "sinopsis": "In ancient times, a young warrior rises to protect his people and his kingdom from a tyrannical warlord, fulfilling a prophecy that foretold his destiny as the true Warrior King.",
+    "elenco": ["Bai Narisu", "Su Riya", "阿拉S", "Wu Rilitu", "Tu Na"],
+    "anio": 2023,
+    "genero": ["Action", "History"],
+    "calificacion": 5.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt27219923"
+    ]
+  },
+  {
+    "id": "pelicula_068",
+    "titulo": "Butch vs. Sundance",
+    "sinopsis": "A revisionist take on the legendary outlaws, exploring a deeper, perhaps more contentious, relationship between Butch Cassidy and the Sundance Kid as they navigate their final days.",
+    "elenco": ["Dicky Eklund Jr.", "William Forsythe", "Bruce Dern", "M.C. Gainey", "Robert Keith"],
+    "anio": 2023,
+    "genero": ["Western"],
+    "calificacion": 0.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt26736354"
+    ]
+  },
+  {
+    "id": "pelicula_069",
+    "titulo": "Unit 262",
+    "sinopsis": "A specialized military unit is tasked with an impossible mission behind enemy lines, facing overwhelming odds and internal conflicts as they fight for survival and to complete their objective.",
+    "elenco": ["Filip Sertić", "Alan Katić", "Marko Petrić", "Slaven Knezović", "Asim Ugljen"],
+    "anio": 2023,
+    "genero": ["War", "Action"],
+    "calificacion": 0.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt28567651"
+    ]
+  },
+  {
+    "id": "pelicula_070",
+    "titulo": "American Fiction",
+    "sinopsis": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
+    "elenco": ["Jeffrey Wright", "Tracee Ellis Ross", "Issa Rae", "Sterling K. Brown", "John Ortiz"],
+    "anio": 2023,
+    "genero": ["Comedy", "Drama"],
+    "calificacion": 7.734,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt23561236"
+    ]
+  },
+  {
+    "id": "pelicula_071",
+    "titulo": "12th Fail",
+    "sinopsis": "Based on the true story of IPS officer Manoj Kumar Sharma, this film chronicles his incredible journey from extreme poverty to achieving his dream of becoming an Indian Police Service officer, despite failing his 12th-grade exams.",
+    "elenco": ["Vikrant Massey", "Medha Shankar", "Anant Joshi", "Anshumaan Pushkar", "Geeta Aggarwal Sharma"],
+    "anio": 2023,
+    "genero": ["Drama", "Biography"],
+    "calificacion": 8.364,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt23849204"
+    ]
+  },
+  {
+    "id": "pelicula_072",
+    "titulo": "White Fang 2: Myth of the White Wolf",
+    "sinopsis": "Henry Casey, an old friend of Jack Conroy, takes charge of White Fang while Jack is away. Henry and White Fang embark on an adventure to save a Haida tribe from starvation, guided by the mythical White Wolf.",
+    "elenco": ["Scott Bairstow", "Charmaine Craig", "Al Harrington", "Anthony Ruivivar", "Victoria Racimo"],
+    "anio": 1994,
+    "genero": ["Adventure", "Family", "Western"],
+    "calificacion": 5.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0111701"
+    ]
+  },
+  {
+    "id": "pelicula_073",
+    "titulo": "Snowglobe",
+    "sinopsis": "A young woman who is obsessed with Christmas discovers a magical snow globe that transports her to a perfect Christmas village. However, she soon learns that perfection isn't all it's cracked up to be.",
+    "elenco": ["Christina Milian", "Erin Karpluk", "Josh Cooke", "Matt Keeslar", "Lorraine Bracco"],
+    "anio": 2007,
+    "genero": ["Comedy", "Fantasy", "Family", "TV Movie"],
+    "calificacion": 5.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt1068284"
+    ]
+  },
+  {
+    "id": "pelicula_074",
+    "titulo": "How to Have Sex",
+    "sinopsis": "Three British teenage girls go on a rites-of-passage holiday – drinking, clubbing and hooking up, in what should be the best summer of their lives. As they navigate the pressures of conformity and burgeoning sexuality, their friendships are tested.",
+    "elenco": ["Mia McKenna-Bruce", "Lara Peake", "Shaun Thomas", "Samuel Bottomley", "Enva Lewis"],
+    "anio": 2023,
+    "genero": ["Drama"],
+    "calificacion": 6.491,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt22890246"
+    ]
+  },
+  {
+    "id": "pelicula_075",
+    "titulo": "The Last Page",
+    "sinopsis": "An aging author struggling with writer's block and loneliness forms an unlikely bond with a young woman who helps him find inspiration and a new perspective on life, leading to one final, poignant story.",
+    "elenco": ["Denise Richards", "Natasha Henstridge", "Lucas Hedges", "Parker Posey", "Brendan Fraser"],
+    "anio": 2023,
+    "genero": ["Drama"],
+    "calificacion": 0.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt15769428"
+    ]
+  },
+  {
+    "id": "pelicula_076",
+    "titulo": "Vivo ou Morto",
+    "sinopsis": "In a dystopian future, a man declared dead by the state must fight for his identity and survival, navigating a world where digital records determine one's existence.",
+    "elenco": ["Ian Braga", "Fernando Teixeira", "Márcio Greyck", "Gero Camilo", "Maria Gladys"],
+    "anio": 2023,
+    "genero": ["Drama", "Science Fiction"],
+    "calificacion": 0.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30613964"
+    ]
+  },
+  {
+    "id": "pelicula_077",
+    "titulo": "Eden and After",
+    "sinopsis": "A group of students, bored with their university lives, engage in a strange, ritualistic game that blurs the lines between reality and fantasy, leading them on a surreal journey to Tunisia.",
+    "elenco": ["Catherine Jourdan", "Pierre Zimmer", "Lorraine Rainer", "Richard Leduc", "Lucie Arnold"],
+    "anio": 1970,
+    "genero": ["Drama", "Mystery"],
+    "calificacion": 6.4,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0067040"
+    ]
+  },
+  {
+    "id": "pelicula_078",
+    "titulo": "A Royal Christmas Holiday",
+    "sinopsis": "A hardworking journalist is assigned to cover a European prince visiting her city during Christmas. As she gets to know him beyond his royal title, an unexpected romance blossoms amidst holiday festivities.",
+    "elenco": ["Brittany Underwood", "Jonathan Stoddard", "Meredith Thomas", "William Baldwin", "Charlene Amoia"],
+    "anio": 2023,
+    "genero": ["Romance", "Comedy", "Family"],
+    "calificacion": 6.3,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt28546386"
+    ]
+  },
+  {
+    "id": "pelicula_079",
+    "titulo": "Mog's Christmas",
+    "sinopsis": "The Thomas family is busy preparing for Christmas when their beloved cat, Mog, causes a series of comical mishaps. Worried she's in trouble, Mog runs away, but Christmas just isn't the same without her.",
+    "elenco": ["Claire Foy", "Benedict Cumberbatch", "Adjoa Andoh", "Miriam Margolyes", "Maggie Steed"],
+    "anio": 2023,
+    "genero": ["Animation", "Family", "TV Movie"],
+    "calificacion": 6.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt27836891"
+    ]
+  },
+  {
+    "id": "pelicula_080",
+    "titulo": "Miss Shampoo",
+    "sinopsis": "During a typhoon night, a young gangster, Tai, seeks refuge in a hair salon where he meets Fen, a trainee hairstylist. Despite their different worlds, a quirky romance blossoms between them.",
+    "elenco": ["Vivian Sung", "Daniel Hong", "Kai Ko", "Emerson Tsai", "Kent Tsai"],
+    "anio": 2023,
+    "genero": ["Comedy", "Romance"],
+    "calificacion": 6.233,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt27671269"
+    ]
+  },
+  {
+    "id": "pelicula_081",
+    "titulo": "Road Rage",
+    "sinopsis": "A single mother and her son become the targets of a relentless and psychotic truck driver after a minor road incident escalates into a terrifying game of cat and mouse.",
+    "elenco": ["Yasmine Bleeth", "Jere Burns", "Alana Austin", "Jenica Bergere", "John Wesley Shipp"],
+    "anio": 1999,
+    "genero": ["Thriller", "Action", "TV Movie"],
+    "calificacion": 5.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0210257"
+    ]
+  },
+  {
+    "id": "pelicula_082",
+    "titulo": "Lot No. 249",
+    "sinopsis": "An Oxford student, Edward Bellingham, becomes obsessed with Egyptology and acquires an ancient mummy, Lot No. 249. Strange and terrifying events begin to occur, leading his friends to suspect he has reanimated the mummy for sinister purposes.",
+    "elenco": ["Kit Harington", "Freddie Fox", "Colin Ryan", "John Heffernan", "James Swanton"],
+    "anio": 2023,
+    "genero": ["Horror", "Mystery"],
+    "calificacion": 6.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29549775"
+    ]
+  },
+  {
+    "id": "pelicula_083",
+    "titulo": "Monster High: Why Do Ghouls Fall in Love?",
+    "sinopsis": "Draculaura's sweet 1600th birthday is approaching, and she's planning the party of the millennium. But when two vampire boys, Clawd and the new, charming Valentine, vie for her affection, her celebration turns into a monstrous love triangle.",
+    "elenco": ["Laura Bailey", "Debi Derryberry", "Kate Higgins", "Ogie Banks", "Salli Saffioti"],
+    "anio": 2012,
+    "genero": ["Animation", "Family", "Fantasy"],
+    "calificacion": 7.312,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt2168938"
+    ]
+  },
+  {
+    "id": "pelicula_084",
+    "titulo": "Alien Autopsy",
+    "sinopsis": "Based on the true story of Ray Santilli and Gary Shoefield, two British entrepreneurs who claimed to have obtained footage of an alien autopsy from the 1947 Roswell incident, and the media frenzy that followed.",
+    "elenco": ["Declan Donnelly", "Anthony McPartlin", "Bill Pullman", "Harry Dean Stanton", "Görel Crona"],
+    "anio": 2006,
+    "genero": ["Comedy", "Science Fiction", "Drama"],
+    "calificacion": 5.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0466664"
+    ]
+  },
+  {
+    "id": "pelicula_085",
+    "titulo": "Creepypasta",
+    "sinopsis": "An anthology film that brings to life various terrifying internet urban legends and creepypastas, exploring the dark corners of online folklore and their chilling real-world implications.",
+    "elenco": ["Eileen Dietz", "Sarah Nicklin", "Eric Roberts", "Michael Paré", "Felissa Rose"],
+    "anio": 2023,
+    "genero": ["Horror"],
+    "calificacion": 4.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt12971854"
+    ]
+  },
+  {
+    "id": "pelicula_086",
+    "titulo": "Meet Me Under the Mistletoe",
+    "sinopsis": "Two childhood sweethearts, now estranged, are unexpectedly reunited in their hometown for the holidays. As they work together on a Christmas festival, old feelings reignite, but past misunderstandings and new challenges threaten their second chance at love.",
+    "elenco": ["Sarah Fisher", "Simon Arblaster", "Mitchell Hoog", "Jade Michael", "Ellen Patterson"],
+    "anio": 2023,
+    "genero": ["Romance", "Comedy", "Family"],
+    "calificacion": 6.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29537749"
+    ]
+  },
+  {
+    "id": "pelicula_087",
+    "titulo": "Detour",
+    "sinopsis": "A nightclub pianist hitchhiking to Hollywood to join his girlfriend gets entangled with a femme fatale whose manipulative schemes lead him down a dark path of blackmail and murder.",
+    "elenco": ["Tom Neal", "Ann Savage", "Claudia Drake", "Edmund MacDonald", "Tim Ryan"],
+    "anio": 1945,
+    "genero": ["Drama", "Film-Noir", "Crime"],
+    "calificacion": 7.055,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0037638"
+    ]
+  },
+  {
+    "id": "pelicula_088",
+    "titulo": "Hell Camp: Teen Nightmare",
+    "sinopsis": "This documentary exposes the dark side of controversial wilderness therapy camps for troubled teens, revealing stories of abuse, neglect, and the lasting trauma inflicted on young people in the name of rehabilitation.",
+    "elenco": [],
+    "anio": 2023,
+    "genero": ["Documentary", "Crime"],
+    "calificacion": 6.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30225680"
+    ]
+  },
+  {
+    "id": "pelicula_089",
+    "titulo": "A Very Good Girl",
+    "sinopsis": "After a heartless firing, Philo plots a revenge plan against her ex-boss, a retail mogul. She skillfully plays the victim, gains the woman's trust and affection, only to orchestrate her downfall.",
+    "elenco": ["Kathryn Bernardo", "Dolly de Leon", "Chie Filomeno", "Jake Ejercito", "Donna Cariaga"],
+    "anio": 2023,
+    "genero": ["Thriller", "Comedy", "Drama"],
+    "calificacion": 6.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt27327494"
+    ]
+  },
+  {
+    "id": "pelicula_090",
+    "titulo": "Kho Gaye Hum Kahan",
+    "sinopsis": "Three best friends in Mumbai navigate love, ambition, and heartbreak in the age of social media, where online personas often clash with real-life insecurities and desires.",
+    "elenco": ["Siddhant Chaturvedi", "Ananya Panday", "Adarsh Gourav", "Kalki Koechlin", "Anya Singh"],
+    "anio": 2023,
+    "genero": ["Drama", "Romance"],
+    "calificacion": 6.443,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt15434074"
+    ]
+  },
+  {
+    "id": "pelicula_091",
+    "titulo": "Life For Real",
+    "sinopsis": "A slice-of-life comedy that follows the interconnected lives of various Parisians as they navigate the ups and downs of relationships, careers, and the everyday absurdities of modern urban life.",
+    "elenco": ["Charlotte Gainsbourg", "Kad Merad", "Denis Podalydès", "Dany Boon", "Jonathan Cohen"],
+    "anio": 2023,
+    "genero": ["Comedy"],
+    "calificacion": 5.159,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt26660615"
+    ]
+  },
+  {
+    "id": "pelicula_092",
+    "titulo": "Witch Hunt",
+    "sinopsis": "In an alternate 1950s America where magic is real and witchcraft is illegal, private detective H. Phillip Lovecraft gets involved in a case involving a glamorous actress who might be a witch, uncovering a conspiracy that goes deeper than he imagined.",
+    "elenco": ["Dennis Hopper", "Penelope Ann Miller", "Eric Bogosian", "Sheryl Lee Ralph", "Julian Sands"],
+    "anio": 1994,
+    "genero": ["Fantasy", "Mystery", "Comedy", "TV Movie"],
+    "calificacion": 5.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0111730"
+    ]
+  },
+  {
+    "id": "pelicula_093",
+    "titulo": "FPS: First Person Shooter",
+    "sinopsis": "A comprehensive documentary charting the history and evolution of the first-person shooter genre in video games, from its origins to its current cultural impact, featuring interviews with developers and industry experts.",
+    "elenco": ["John Romero", "Warren Spector", "Cliff Bleszinski", "Scott Miller", "Randy Pitchford"],
+    "anio": 2023,
+    "genero": ["Documentary"],
+    "calificacion": 7.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt28681130"
+    ]
+  },
+  {
+    "id": "pelicula_094",
+    "titulo": "Lakota Nation vs. United States",
+    "sinopsis": "A documentary chronicling the Lakota Sioux Nation's century-long fight to reclaim the Black Hills, sacred land that was stolen in violation of treaty agreements, exploring the historical injustices and the ongoing struggle for sovereignty and land rights.",
+    "elenco": ["Nick Estes", "Layli Long Soldier", "Krystal Two Bulls", "Candi Brings Plenty", "Phyllis Young"],
+    "anio": 2022,
+    "genero": ["Documentary", "History"],
+    "calificacion": 7.3,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt15468586"
+    ]
+  },
+  {
+    "id": "pelicula_095",
+    "titulo": "Fresh Kill",
+    "sinopsis": "In a polluted near-future, two lesbian parents try to raise their daughter. When their child is kidnapped by a corporation responsible for contaminated fish, they must navigate a bizarre and dangerous world to get her back, involving talking cats and media manipulation.",
+    "elenco": ["Sarita Choudhury", "Erin McMurtry", "Cara Buono", "José Zúñiga", "Will Kempe"],
+    "anio": 1996,
+    "genero": ["Science Fiction", "Comedy", "Drama"],
+    "calificacion": 5.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0109843"
+    ]
+  },
+  {
+    "id": "pelicula_096",
+    "titulo": "Vanishing Point",
+    "sinopsis": "A remake of the 1971 classic, a former race car driver and decorated war veteran delivering a car from Denver to San Francisco bets he can make the trip in 15 hours. His journey becomes a symbol of rebellion as he evades police across multiple states, guided by a radio DJ.",
+    "elenco": ["Viggo Mortensen", "Christine Elise", "Steve Railsback", "Rodney A. Grant", "Peter Murnik"],
+    "anio": 1997,
+    "genero": ["Action", "Thriller", "TV Movie"],
+    "calificacion": 6.1,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0120430"
+    ]
+  },
+  {
+    "id": "pelicula_097",
+    "titulo": "Cindy La Regia",
+    "sinopsis": "Cindy, a young woman from a wealthy family in San Pedro, Mexico, flees to Mexico City to escape an unwanted marriage proposal. There, she discovers a new world and new possibilities for herself, challenging her traditional upbringing.",
+    "elenco": ["Cassandra Sanchez Navarro", "Regina Blandón", "Giuseppe Gamba", "Diana Bovio", "Roberto Quijano"],
+    "anio": 2020,
+    "genero": ["Comedy", "Romance"],
+    "calificacion": 6.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt8200456"
+    ]
+  },
+  {
+    "id": "pelicula_098",
+    "titulo": "Thank You, I'm Sorry",
+    "sinopsis": "Suddenly left alone during the final stages of her pregnancy, Sara receives an unexpected visit from Linda, her estranged older sister – a needy, immature adult with a broken heart and an empty bank account who offers to move in and help out.",
+    "elenco": ["Sanna Sundqvist", "Charlotta Björck", "Ia Langhammer", "Peshang Rad", "Ville Virtanen"],
+    "anio": 2023,
+    "genero": ["Drama", "Comedy"],
+    "calificacion": 6.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt23735436"
+    ]
+  },
+  {
+    "id": "pelicula_099",
+    "titulo": "Millennium",
+    "sinopsis": "An NTSB investigator discovers a secretive organization of time travelers from a dystopian future who are abducting passengers from doomed airplanes moments before they crash, replacing them with identical bodies to maintain the timeline, as they attempt to repopulate their dying world.",
+    "elenco": ["Kris Kristofferson", "Cheryl Ladd", "Daniel J. Travanti", "Robert Joy", "Lloyd Bochner"],
+    "anio": 1989,
+    "genero": ["Science Fiction", "Thriller", "Mystery"],
+    "calificacion": 6.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0097883"
+    ]
+  },
+  {
+    "id": "pelicula_100",
+    "titulo": "Lease on Love",
+    "sinopsis": "Poppy, a marketing specialist whose life is meticulously planned, is thrown for a loop when she's forced to share her new apartment with a charming but commitment-phobic chef. Their clashing lifestyles lead to unexpected romantic sparks.",
+    "elenco": ["Rebecca Liddiard", "Dan Jeannotte", "Sarah Deakins", "Doron Bell", "Zibby Allen"],
+    "anio": 2022,
+    "genero": ["Romance", "Comedy"],
+    "calificacion": 6.3,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt19858950"
+    ]
+  },
+  {
+    "id": "pelicula_101",
+    "titulo": "Taeter Burger",
+    "sinopsis": "In a dystopian future, a fast-food chain serves burgers made from human flesh sourced from criminals. The film follows the grotesque and satirical operations of this establishment, pushing the boundaries of splatter and dark comedy.",
+    "elenco": ["Monica M"],
+    "anio": 2023,
+    "genero": ["Horror", "Comedy"],
+    "calificacion": 4.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt5776252"
+    ]
+  },
+  {
+    "id": "pelicula_102",
+    "titulo": "Old Joy",
+    "sinopsis": "Two old friends, Kurt and Mark, reunite for a weekend camping trip in Oregon's Cascade Mountains. As they hike and soak in hot springs, their diverging life paths and unspoken tensions slowly surface, creating a poignant portrait of friendship and change.",
+    "elenco": ["Daniel London", "Will Oldham", "Tanya Smith", "Robin Rosenberg", "Keri Moran"],
+    "anio": 2006,
+    "genero": ["Drama"],
+    "calificacion": 6.6,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0468526"
+    ]
+  },
+  {
+    "id": "pelicula_103",
+    "titulo": "The California Kid",
+    "sinopsis": "A young man arrives in a small, speed-trap town in 1958 California driving a hot-rodded 1934 Ford coupe, seeking to avenge his brother's death at the hands of a sadistic local sheriff who preys on speeders.",
+    "elenco": ["Martin Sheen", "Vic Morrow", "Michelle Phillips", "Stuart Margolin", "Nick Nolte"],
+    "anio": 1974,
+    "genero": ["Action", "Drama", "TV Movie"],
+    "calificacion": 6.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0071268"
+    ]
+  },
+  {
+    "id": "pelicula_104",
+    "titulo": "Vandits",
+    "sinopsis": "A group of small-time crooks plan a heist during a Christmas party, but their scheme quickly goes awry due to incompetence, betrayal, and unexpected complications, leading to a chaotic and humorous series of events.",
+    "elenco": ["Robb Wells", "Enrico Colantoni", "Jann Arden", "Tony Nappo", "Victoria Pratt"],
+    "anio": 2022,
+    "genero": ["Comedy", "Crime"],
+    "calificacion": 5.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt6678124"
+    ]
+  },
+  {
+    "id": "pelicula_105",
+    "titulo": "Kevin Bridges: The Overdue Catch-Up",
+    "sinopsis": "Scottish comedian Kevin Bridges returns to the stage for his highly anticipated stand-up special, 'The Overdue Catch-Up.' Filmed live, he delivers his trademark observational humor on topics ranging from everyday life to global events.",
+    "elenco": ["Kevin Bridges"],
+    "anio": 2023,
+    "genero": ["Comedy"],
+    "calificacion": 7.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30061019"
+    ]
+  },
+  {
+    "id": "pelicula_106",
+    "titulo": "Cousin Bette",
+    "sinopsis": "Based on Honoré de Balzac's novel, this period drama follows Bette, a poor and embittered spinster in 19th-century Paris, who schemes to ruin the lives of her wealthy relatives after years of perceived slights and mistreatment.",
+    "elenco": ["Jessica Lange", "Elisabeth Shue", "Bob Hoskins", "Hugh Laurie", "Aden Young"],
+    "anio": 1998,
+    "genero": ["Drama", "Comedy", "Romance"],
+    "calificacion": 6.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0118894"
+    ]
+  },
+  {
+    "id": "pelicula_107",
+    "titulo": "White River",
+    "sinopsis": "In a remote, snow-covered landscape, a desperate group of individuals find their lives intertwining as they struggle for survival against the harsh elements and a dangerous, unseen threat lurking in the wilderness.",
+    "elenco": ["Ma Dong-seok", "Lee Hee-jun", "Lee Jun-young", "Roh Jeong-eui", "Ahn Ji-hye"],
+    "anio": 2023,
+    "genero": ["Action", "Thriller", "Adventure"],
+    "calificacion": 6.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt26412602"
+    ]
+  },
+  {
+    "id": "pelicula_108",
+    "titulo": "The Promised Land",
+    "sinopsis": "In 18th-century Denmark, Captain Ludvig Kahlen sets out to conquer the harsh, uninhabitable Jutland heath with a seemingly impossible goal: to build a colony in the name of the King. However, he faces an unforgiving adversary in the local landowner.",
+    "elenco": ["Mads Mikkelsen", "Amanda Collin", "Simon Bennebjerg", "Kristine Kujath Thorp", "Gustav Lindh"],
+    "anio": 2023,
+    "genero": ["Drama", "History", "Adventure"],
+    "calificacion": 7.6,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt20561198"
+    ]
+  },
+  {
+    "id": "pelicula_109",
+    "titulo": "Ricky Gervais: Armageddon",
+    "sinopsis": "Ricky Gervais returns to Netflix with his provocative new stand-up special, 'Armageddon.' True to form, Gervais tackles controversial topics and challenges societal norms with his signature dark humor and sharp wit.",
+    "elenco": ["Ricky Gervais"],
+    "anio": 2023,
+    "genero": ["Comedy"],
+    "calificacion": 6.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30088797"
+    ]
+  },
+  {
+    "id": "pelicula_110",
+    "titulo": "Six in the City",
+    "sinopsis": "A group of six diverse friends navigate the complexities of life, love, and careers in a bustling metropolis. Their intertwined stories explore modern relationships and the challenges of finding connection in an urban landscape.",
+    "elenco": ["Angell Conwell", "Vivica A. Fox", "Keri Hilson", "Rotimi", "Tank"],
+    "anio": 2023,
+    "genero": ["Comedy", "Romance"],
+    "calificacion": 5.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21378978"
+    ]
+  },
+  {
+    "id": "pelicula_111",
+    "titulo": "Radical Wolfe",
+    "sinopsis": "A documentary exploring the life, work, and impact of Tom Wolfe, the pioneering journalist and author known for his flamboyant style and incisive critiques of American culture. The film delves into his 'New Journalism' approach and his iconic books.",
+    "elenco": ["Tom Wolfe", "Lynn Nesbit", "Michael Lewis", "Niall Ferguson", "Gay Talese"],
+    "anio": 2023,
+    "genero": ["Documentary", "Biography"],
+    "calificacion": 7.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt28308341"
+    ]
+  },
+  {
+    "id": "pelicula_112",
+    "titulo": "Dunki",
+    "sinopsis": "Four friends from a small village in Punjab share a common dream: to go to England. Their journey involves an illegal immigration technique called 'Dunki Flight,' leading them through a perilous and life-changing adventure.",
+    "elenco": ["Shah Rukh Khan", "Taapsee Pannu", "Vicky Kaushal", "Boman Irani", "Anil Grover"],
+    "anio": 2023,
+    "genero": ["Comedy", "Drama"],
+    "calificacion": 6.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt15428134"
+    ]
+  },
+  {
+    "id": "pelicula_113",
+    "titulo": "Head on a Plate",
+    "sinopsis": "A dark comedy about a down-on-his-luck man who, after a series of bizarre misfortunes, finds himself in a surreal and dangerous situation involving a valuable, dismembered head and a cast of eccentric characters.",
+    "elenco": ["Pepe Serna", "Jesse Borrego", "Jacob Vargas", "Alma Martinez", "Bertila Damas"],
+    "anio": 2023,
+    "genero": ["Comedy", "Crime", "Thriller"],
+    "calificacion": 5.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt23648776"
+    ]
+  },
+  {
+    "id": "pelicula_114",
+    "titulo": "Don't Suck",
+    "sinopsis": "A fledgling comedian, desperate for success, makes a Faustian bargain with a mysterious entity to become hilarious. However, he soon discovers the dark and unsettling price of his newfound comedic talent.",
+    "elenco": ["Jamie Kennedy", "Jimmie Walker", "Matt Rife", "Russell Peters", "Denise Richards"],
+    "anio": 2023,
+    "genero": ["Comedy", "Horror"],
+    "calificacion": 4.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt11306480"
+    ]
+  },
+  {
+    "id": "pelicula_115",
+    "titulo": "Loop Track",
+    "sinopsis": "A man, on the brink of a nervous breakdown, impulsively decides to hike a remote New Zealand track. As he ventures deeper into the wilderness, paranoia sets in, and he becomes convinced he is being stalked, blurring the lines between reality and his fragile mental state.",
+    "elenco": ["Thomas Sainsbury", "Hayden J. Weal", "Tawanda Manyimo", "Kate Simmonds", "Noenoe Ro"],
+    "anio": 2023,
+    "genero": ["Thriller", "Horror", "Mystery"],
+    "calificacion": 6.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt13592970"
+    ]
+  },
+  {
+    "id": "pelicula_116",
+    "titulo": "A Vampire in the Family",
+    "sinopsis": "Fernandinho, a timid ex-soccer player turned podcast host, is shocked to discover that his inconvenient brother-in-law, Gregório, is not only a lazy freeloader but also a vampire with world-domination plans.",
+    "elenco": ["Leandro Hassum", "Rômulo Arantes Neto", "Monique Alfradique", "Edson Celulari", "Mel Maia"],
+    "anio": 2023,
+    "genero": ["Comedy", "Family", "Fantasy"],
+    "calificacion": 5.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt23744022"
+    ]
+  },
+  {
+    "id": "pelicula_117",
+    "titulo": "Monster High: Scaris City of Frights",
+    "sinopsis": "Clawdeen Wolf gets the chance to apprentice for the legendary fashion designer Madame Ghostier in Scaris, France. She and her ghoulfriends pack their bags and head to the City of Frights, but soon discover that not everything is as glamorous as it seems.",
+    "elenco": ["Laura Bailey", "Debi Derryberry", "Kate Higgins", "Erin Fitzgerald", "Salli Saffioti"],
+    "anio": 2013,
+    "genero": ["Animation", "Family", "Fantasy"],
+    "calificacion": 7.1,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt3611432"
+    ]
+  },
+  {
+    "id": "pelicula_118",
+    "titulo": "In Its Wake",
+    "sinopsis": "A group of friends on a secluded getaway find themselves hunted by a malevolent force that was awakened by their presence. As they fight for survival, they uncover the dark history of the place and the entity that haunts it.",
+    "elenco": ["Paige Cato", "Michael G. Gabel", "Kenneth Bemister", "Robyn Miller", "Rick Amsbury"],
+    "anio": 2023,
+    "genero": ["Horror", "Thriller"],
+    "calificacion": 4.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt8141472"
+    ]
+  },
+  {
+    "id": "pelicula_119",
+    "titulo": "Sumotherhood",
+    "sinopsis": "Two aspiring roadmen, Riko and Kane, try to make a name for themselves in the London underworld. However, their attempts to get rich quick and earn respect are hilariously inept, leading to a series of disastrous and comedic encounters.",
+    "elenco": ["Adam Deacon", "Jazzie Zonzolo", "Richie Campbell", "Letitia Hector", "Jennifer SSS"],
+    "anio": 2023,
+    "genero": ["Comedy", "Action"],
+    "calificacion": 5.3,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt14963742"
+    ]
+  },
+  {
+    "id": "pelicula_120",
+    "titulo": "The Gerson Miracle",
+    "sinopsis": "A documentary exploring the Gerson Therapy, a controversial alternative cancer treatment developed by Dr. Max Gerson. The film presents testimonials from patients and practitioners, advocating for its efficacy against various diseases.",
+    "elenco": ["Charlotte Gerson", "Howard Straus", "Gar Hildenbrand"],
+    "anio": 2004,
+    "genero": ["Documentary"],
+    "calificacion": 7.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0465472"
+    ]
+  },
+  {
+    "id": "pelicula_121",
+    "titulo": "Christmas Comes to Willow Creek",
+    "sinopsis": "Two estranged brothers, a grumpy truck driver and his more optimistic sibling, are forced to work together to deliver Christmas gifts and a festive spirit to the remote, struggling town of Willow Creek, Alaska.",
+    "elenco": ["John Schneider", "Tom Wopat", "Kim Delaney", "Zachary Ansley", "Hoyt Axton"],
+    "anio": 1987,
+    "genero": ["Drama", "Family", "TV Movie"],
+    "calificacion": 6.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0092756"
+    ]
+  },
+  {
+    "id": "pelicula_122",
+    "titulo": "What Happens Later",
+    "sinopsis": "Two ex-lovers, Bill and Willa, find themselves snowed in at a regional airport overnight. Forced to confront their past, they reminisce, argue, and explore what might have been, leading to unexpected revelations and a possible rekindling.",
+    "elenco": ["Meg Ryan", "David Duchovny", "Hal Liggett"],
+    "anio": 2023,
+    "genero": ["Comedy", "Romance", "Drama"],
+    "calificacion": 6.1,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt19890316"
+    ]
+  },
+  {
+    "id": "pelicula_123",
+    "titulo": "Norma",
+    "sinopsis": "Norma, a woman leading an ordinary life, decides to break free from societal expectations and embark on a journey of self-discovery after a life-altering event. She challenges conventions and redefines her own happiness.",
+    "elenco": ["Mercedes Morán", "Alejandro Awada", "Lorena Vega", "Mercedes Scápola", "Marco Antonio Caponi"],
+    "anio": 2023,
+    "genero": ["Comedy", "Drama"],
+    "calificacion": 6.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29464977"
+    ]
+  },
+  {
+    "id": "pelicula_124",
+    "titulo": "Anyone But You",
+    "sinopsis": "After an amazing first date, Bea and Ben's fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+    "elenco": ["Sydney Sweeney", "Glen Powell", "Alexandra Shipp", "GaTa", "Hadley Robinson"],
+    "anio": 2023,
+    "genero": ["Comedy", "Romance"],
+    "calificacion": 7.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt26047818"
+    ]
+  },
+  {
+    "id": "pelicula_125",
+    "titulo": "Thunivu",
+    "sinopsis": "A mysterious mastermind and his team execute a massive bank heist. As the police try to uncover his identity and motives, a thrilling cat-and-mouse game ensues, revealing a larger conspiracy.",
+    "elenco": ["Ajith Kumar", "Manju Warrier", "Samuthirakani", "John Kokken", "Veera Bahu"],
+    "anio": 2023,
+    "genero": ["Action", "Thriller", "Crime"],
+    "calificacion": 6.3,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt15163652"
+    ]
+  },
+  {
+    "id": "pelicula_126",
+    "titulo": "To All a Good Night",
+    "sinopsis": "A photographer, cynical about Christmas, is assigned to cover a small town's famous holiday festival. There, she meets a charming local who helps her rediscover the magic of the season and the importance of community.",
+    "elenco": ["Kimberley Sustad", "Mark Ghanimé", "Tess Atkins", "Aason Nadjiwan", "Paula Shaw"],
+    "anio": 2023,
+    "genero": ["Romance", "Drama", "Family"],
+    "calificacion": 6.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29593734"
+    ]
+  },
+  {
+    "id": "pelicula_127",
+    "titulo": "Dress for Success",
+    "sinopsis": "A talented but overlooked fashion designer gets a chance to make her mark when she's hired by a demanding fashion mogul. She must navigate the cutthroat industry, personal rivalries, and find her own voice to achieve her dreams.",
+    "elenco": ["Erica Durance", "Brooke Nevin", "Antonio Cupo", "Benjamin Hollingsworth", "Christina Cox"],
+    "anio": 2023,
+    "genero": ["Comedy", "Romance", "Drama"],
+    "calificacion": 6.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30291859"
+    ]
+  },
+  {
+    "id": "pelicula_128",
+    "titulo": "The Iron Claw",
+    "sinopsis": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, they seek ring immortality under the shadow of their domineering father and coach.",
+    "elenco": ["Zac Efron", "Jeremy Allen White", "Harris Dickinson", "Maura Tierney", "Stanley Simons"],
+    "anio": 2023,
+    "genero": ["Drama", "Sport", "Biography"],
+    "calificacion": 7.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21064584"
+    ]
+  },
+  {
+    "id": "pelicula_129",
+    "titulo": "Miracle in Bethlehem, PA",
+    "sinopsis": "Mary Ann, a single mother, adopts a baby girl at Christmas. As she prepares for the holiday, a series of heartwarming events and unexpected connections bring her and her new daughter closer to the true meaning of family and faith.",
+    "elenco": ["Laura Vandervoort", "Benjamin Ayres", "Maria Ricossa", "Nicola Correia-Damude", "John B. Lowe"],
+    "anio": 2023,
+    "genero": ["Drama", "Family", "Romance"],
+    "calificacion": 6.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29544283"
+    ]
+  },
+  {
+    "id": "pelicula_130",
+    "titulo": "Curry & Cyanide: The Jolly Joseph Case",
+    "sinopsis": "This true crime documentary investigates the chilling case of Jolly Joseph, a woman in Kerala, India, accused of murdering six family members over 14 years by poisoning them with cyanide-laced food and drink.",
+    "elenco": [],
+    "anio": 2023,
+    "genero": ["Documentary", "Crime"],
+    "calificacion": 6.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30177031"
+    ]
+  },
+  {
+    "id": "pelicula_131",
+    "titulo": "Smart Home Killer",
+    "sinopsis": "A young woman moves into a state-of-the-art smart home, only to discover that its advanced AI system has a sinister agenda and begins to terrorize her, turning her dream home into a high-tech prison.",
+    "elenco": ["Morgan Bradley", "Michael J. Patterson", "Alicia Leigh Willis", "Jason Cook", "Helene Udy"],
+    "anio": 2023,
+    "genero": ["Thriller", "Horror", "Science Fiction"],
+    "calificacion": 5.1,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30252260"
+    ]
+  },
+  {
+    "id": "pelicula_132",
+    "titulo": "Rebel Moon - Part One: A Child of Fire",
+    "sinopsis": "When a peaceful colony on the edge of a galaxy finds itself threatened by the armies of a tyrannical ruling force, Kora, a mysterious stranger living among the villagers, becomes their best hope for survival.",
+    "elenco": ["Sofia Boutella", "Djimon Hounsou", "Ed Skrein", "Michiel Huisman", "Doona Bae"],
+    "anio": 2023,
+    "genero": ["Science Fiction", "Action", "Adventure", "Drama"],
+    "calificacion": 6.4,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt14998742"
+    ]
+  },
+  {
+    "id": "pelicula_133",
+    "titulo": "Breakwater",
+    "sinopsis": "A young ex-con, recently released from prison, risks his newfound freedom to track down the estranged daughter of a fellow inmate at the request of his dying mentor, uncovering dangerous secrets along the way.",
+    "elenco": ["Dermot Mulroney", "Mena Suvari", "Darren Mann", "Sonja Sohn", "J.J. Soria"],
+    "anio": 2023,
+    "genero": ["Thriller", "Crime", "Drama"],
+    "calificacion": 6.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt13924484"
+    ]
+  },
+  {
+    "id": "pelicula_134",
+    "titulo": "Saltburn",
+    "sinopsis": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+    "elenco": ["Barry Keoghan", "Jacob Elordi", "Rosamund Pike", "Richard E. Grant", "Alison Oliver"],
+    "anio": 2023,
+    "genero": ["Comedy", "Drama", "Thriller"],
+    "calificacion": 7.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt17351924"
+    ]
+  },
+  {
+    "id": "pelicula_135",
+    "titulo": "Dream Scenario",
+    "sinopsis": "A hapless family man finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. When his nighttime appearances take a nightmarish turn, Paul Matthews is forced to navigate his newfound stardom.",
+    "elenco": ["Nicolas Cage", "Julianne Nicholson", "Michael Cera", "Tim Meadows", "Dylan Gelula"],
+    "anio": 2023,
+    "genero": ["Comedy", "Fantasy", "Horror"],
+    "calificacion": 7.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21942866"
+    ]
+  },
+  {
+    "id": "pelicula_136",
+    "titulo": "Juice: How Electricity Explains The World",
+    "sinopsis": "A documentary that explores the profound and often overlooked impact of electricity on the modern world, from powering our cities and technologies to shaping global economies and inequalities.",
+    "elenco": ["Robert Bryce"],
+    "anio": 2019,
+    "genero": ["Documentary"],
+    "calificacion": 7.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt8992072"
+    ]
+  },
+  {
+    "id": "pelicula_137",
+    "titulo": "Bratz: Genie Magic",
+    "sinopsis": "The Bratz girls buy a seemingly ordinary lamp at a bazaar, only to discover it houses a teenage genie named Katia. To free Katia from the lamp forever, they must grant her three wishes, leading to magical adventures and a trip to London.",
+    "elenco": ["Olivia Hack", "Soleil Moon Frye", "Tia Mowry-Hardrict", "Dionne Quan", "Kaley Cuoco"],
+    "anio": 2006,
+    "genero": ["Animation", "Family", "Fantasy"],
+    "calificacion": 6.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt3251832"
+    ]
+  },
+  {
+    "id": "pelicula_138",
+    "titulo": "Shining Sex",
+    "sinopsis": "A sexually charged and surreal art film exploring themes of desire, voyeurism, and the human body through a series of loosely connected, often explicit, vignettes. (Note: This is an adult film, sinopsis kept general).",
+    "elenco": ["Frédérique Barral", "Bernard Boucher", "Martine Audóard", "Marie-Claude Chevalier", "Jean-Luc Chevallier"],
+    "anio": 1976,
+    "genero": ["Drama", "Adult"],
+    "calificacion": 4.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0232633"
+    ]
+  },
+  {
+    "id": "pelicula_139",
+    "titulo": "Dry Day",
+    "sinopsis": "Gannu, an alcoholic in a small town, makes a vow to stay sober until the birth of his child to win back his wife's affection and set a good example. His personal struggle becomes a public spectacle, challenging local norms and his own resolve.",
+    "elenco": ["Jitendra Kumar", "Shriya Pilgaonkar", "Annu Kapoor", "Shrikant Verma", "Sunil Palwal"],
+    "anio": 2023,
+    "genero": ["Comedy", "Drama"],
+    "calificacion": 6.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt28024755"
+    ]
+  },
+  {
+    "id": "pelicula_140",
+    "titulo": "Close Your Eyes",
+    "sinopsis": "A famous Spanish film director, Miguel Garay, retired years ago after the mysterious disappearance of his lead actor and close friend, Julio Arenas, during the filming of a movie. Decades later, a TV show revives interest in the case, prompting Miguel to revisit his past and the unfinished film.",
+    "elenco": ["Manolo Solo", "José Coronado", "Ana Torrent", "María León", "Petra Martínez"],
+    "anio": 2023,
+    "genero": ["Drama", "Mystery"],
+    "calificacion": 6.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21284358"
+    ]
+  },
+  {
+    "id": "pelicula_141",
+    "titulo": "Another Day to Live Through",
+    "sinopsis": "A desperate woman, haunted by past trauma and battling addiction, finds herself in a fight for survival when she becomes entangled with dangerous criminals in a gritty underworld. She must confront her demons to make it through another day.",
+    "elenco": ["Emma Pasarow", "Udo Kier", "Dermot Mulroney", "George Akram", "Danny Trejo"],
+    "anio": 2023,
+    "genero": ["Thriller", "Drama", "Crime"],
+    "calificacion": 6.1,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt10503664"
+    ]
+  },
+  {
+    "id": "pelicula_142",
+    "titulo": "Dr. Death: Cutthroat Conman",
+    "sinopsis": "A documentary delving into the shocking true story of Paolo Macchiarini, a charismatic surgeon who gained international fame for his supposed breakthroughs in regenerative medicine, only for his web of deceit and failed experiments to be exposed.",
+    "elenco": [],
+    "anio": 2023,
+    "genero": ["Documentary", "Crime"],
+    "calificacion": 7.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30425955"
+    ]
+  },
+  {
+    "id": "pelicula_143",
+    "titulo": "Nightmare on 34th Street",
+    "sinopsis": "When a new department store Santa claims to be the real Kris Kringle, a series of terrifying and unexplainable events begin to plague the store and its employees, turning holiday cheer into yuletide fear.",
+    "elenco": ["Hannah Riley", "Tom Arnold", "Bill Moseley", "Danielle Harris", "Eric Freeman"],
+    "anio": 2023,
+    "genero": ["Horror", "Comedy", "Fantasy"],
+    "calificacion": 4.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29684835"
+    ]
+  },
+  {
+    "id": "pelicula_144",
+    "titulo": "The Taming of the Shrewd 2",
+    "sinopsis": "Kaska and Patryk's turbulent love story continues. When they suspect each other of infidelity, their already fiery relationship explodes into a series of comical misunderstandings and schemes as they try to outwit one another.",
+    "elenco": ["Magdalena Lamparska", "Mikołaj Roznerski", "Piotr Cyrwus", "Tomasz Sapryk", "Dorota Landowska"],
+    "anio": 2023,
+    "genero": ["Comedy", "Romance"],
+    "calificacion": 5.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30225700"
+    ]
+  },
+  {
+    "id": "pelicula_145",
+    "titulo": "Christmas with The Chosen: Holy Night",
+    "sinopsis": "A special Christmas presentation featuring an episode of 'The Chosen' that tells the story of Jesus' birth, combined with musical performances from contemporary Christian artists, celebrating the meaning of the holiday.",
+    "elenco": ["Jonathan Roumie", "Shahar Isaac", "Elizabeth Tabish", "Paras Patel", "Noah James"],
+    "anio": 2023,
+    "genero": ["Drama", "Music", "Family"],
+    "calificacion": 8.1,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29551083"
+    ]
+  },
+  {
+    "id": "pelicula_146",
+    "titulo": "Angel Baby",
+    "sinopsis": "A young couple, deeply in love, faces an unimaginable crisis when their newborn child is diagnosed with a rare and life-threatening condition. Their faith, relationship, and strength are tested as they fight for their baby's survival.",
+    "elenco": ["Rebecca De Mornay", "Isabel Cueva", "Daniel Roebuck", "Whitney Anderson", "Erin Bethea"],
+    "anio": 2023,
+    "genero": ["Drama"],
+    "calificacion": 6.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt14791896"
+    ]
+  },
+  {
+    "id": "pelicula_147",
+    "titulo": "Vir Das: Landing",
+    "sinopsis": "Indian comedian Vir Das returns with a new stand-up special, reflecting on his global experiences, cultural identity, and the absurdities of modern life, all filmed during his world tour.",
+    "elenco": ["Vir Das"],
+    "anio": 2022,
+    "genero": ["Comedy"],
+    "calificacion": 7.6,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt23848684"
+    ]
+  },
+  {
+    "id": "pelicula_148",
+    "titulo": "Magic Carpet Rides",
+    "sinopsis": "A free-spirited young woman who believes in fate and magic meets a pragmatic and somewhat cynical man. Their chance encounter leads them on a whimsical and romantic journey, challenging their perspectives on love and life.",
+    "elenco": ["Anna Maiche", "Matt Rife", "Kevin Alejandro", "Natasha Behnam", "Art Hsu"],
+    "anio": 2023,
+    "genero": ["Romance", "Comedy", "Fantasy"],
+    "calificacion": 5.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt26659416"
+    ]
+  },
+  {
+    "id": "pelicula_149",
+    "titulo": "Bad Behaviour",
+    "sinopsis": "Lucy, a former child actor, seeks enlightenment at a silent retreat led by her spiritual guru. However, her disruptive presence and unresolved issues with her stunt-performer daughter create chaos and confrontation.",
+    "elenco": ["Jennifer Connelly", "Ben Whishaw", "Alice Englert", "Dasha Nekrasova", "Marlon Williams"],
+    "anio": 2023,
+    "genero": ["Comedy", "Drama"],
+    "calificacion": 5.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21221240"
+    ]
+  },
+  {
+    "id": "pelicula_150",
+    "titulo": "S.F.W.",
+    "sinopsis": "Cliff Spab, a disaffected teenager, along with his friend Joe, are taken hostage in a convenience store by terrorists. The ensuing 36-day siege is televised, turning Cliff into an unwilling media sensation known for his catchphrase 'So Fucking What?'",
+    "elenco": ["Stephen Dorff", "Reese Witherspoon", "Jake Busey", "Joey Lauren Adams", "Pamela Gidley"],
+    "anio": 1994,
+    "genero": ["Comedy", "Drama", "Thriller"],
+    "calificacion": 5.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0111048"
+    ]
+  },
+  {
+    "id": "pelicula_151",
+    "titulo": "Once a Thief",
+    "sinopsis": "An ex-convict trying to go straight in San Francisco is framed for a murder he didn't commit by his vengeful brother and a relentless police detective. He must clear his name while protecting his wife and daughter.",
+    "elenco": ["Alain Delon", "Ann-Margret", "Van Heflin", "Jack Palance", "John Davis Chandler"],
+    "anio": 1965,
+    "genero": ["Crime", "Drama", "Thriller"],
+    "calificacion": 6.4,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0059540"
+    ]
+  },
+  {
+    "id": "pelicula_152",
+    "titulo": "Black God, White Devil",
+    "sinopsis": "In the drought-stricken Brazilian Sertão of the 1940s, a poor cowhand named Manuel kills his tyrannical boss and flees with his wife, Rosa. They become entangled with two messianic figures: a self-proclaimed saint and a ruthless bandit leader, embodying religious fanaticism and violent rebellion.",
+    "elenco": ["Geraldo Del Rey", "Yoná Magalhães", "Othon Bastos", "Maurício do Valle", "Lidio Silva"],
+    "anio": 1964,
+    "genero": ["Drama", "Western", "Adventure"],
+    "calificacion": 7.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0058006"
+    ]
+  },
+  {
+    "id": "pelicula_153",
+    "titulo": "The Crime Is Mine",
+    "sinopsis": "In 1930s Paris, Madeleine, a pretty, young, and penniless actress, is accused of murdering a famous producer. Helped by her best friend Pauline, a young unemployed lawyer, she is acquitted on the grounds of self-defense. A new life of fame and success begins, until the truth comes out.",
+    "elenco": ["Nadia Tereszkiewicz", "Rebecca Marder", "Isabelle Huppert", "Fabrice Luchini", "Dany Boon"],
+    "anio": 2023,
+    "genero": ["Comedy", "Drama", "Crime"],
+    "calificacion": 6.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt20330434"
+    ]
+  },
+  {
+    "id": "pelicula_154",
+    "titulo": "The Fabric of Christmas",
+    "sinopsis": "A talented quilt maker is hired by a charming but skeptical historian to create a historically accurate Christmas quilt for a town festival. As they work together, they uncover local history and find an unexpected romantic connection.",
+    "elenco": ["Merritt Patterson", "Ryan Bruce", "Bevan slimy", "AnnaMaria Demara", "Bruce Dawson"],
+    "anio": 2023,
+    "genero": ["Romance", "Drama", "Family"],
+    "calificacion": 6.6,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt27773299"
+    ]
+  },
+  {
+    "id": "pelicula_155",
+    "titulo": "South Park (Not Suitable for Children)",
+    "sinopsis": "After discovering that a teacher at South Park Elementary is moonlighting with an OnlyFans page, Randy is compelled to take a closer look at the seedy underbelly of the world of online influencers.",
+    "elenco": ["Trey Parker", "Matt Stone", "April Stewart", "Mona Marshall"],
+    "anio": 2023,
+    "genero": ["Animation", "Comedy"],
+    "calificacion": 7.1,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30505159"
+    ]
+  },
+  {
+    "id": "pelicula_156",
+    "titulo": "Albert Brooks: Defending My Life",
+    "sinopsis": "A candid and insightful documentary where legendary comedian, actor, and filmmaker Albert Brooks sits down with his lifelong friend Rob Reiner to discuss his career, his unique comedic voice, and his impact on comedy.",
+    "elenco": ["Albert Brooks", "Rob Reiner", "James L. Brooks", "Conan O'Brien", "Larry David"],
+    "anio": 2023,
+    "genero": ["Documentary", "Comedy", "Biography"],
+    "calificacion": 7.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt20274588"
+    ]
+  },
+  {
+    "id": "pelicula_157",
+    "titulo": "Aquaman and the Lost Kingdom",
+    "sinopsis": "Having failed to defeat Aquaman the first time, Black Manta, still driven by the need to avenge his father's death, will stop at nothing to take Aquaman down once and for all. This time Black Manta is more formidable than ever before, wielding the power of the mythical Black Trident, which unleashes an ancient and malevolent force.",
+    "elenco": ["Jason Momoa", "Patrick Wilson", "Amber Heard", "Yahya Abdul-Mateen II", "Nicole Kidman"],
+    "anio": 2023,
+    "genero": ["Action", "Adventure", "Fantasy", "Science Fiction"],
+    "calificacion": 6.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt9663764"
+    ]
+  },
+  {
+    "id": "pelicula_158",
+    "titulo": "The Lady in Red",
+    "sinopsis": "The story of Polly Franklin, a young woman who becomes infamous as John Dillinger's 'Lady in Red.' The film follows her journey from a small town to the Chicago underworld, her relationship with Dillinger, and the events leading to his death.",
+    "elenco": ["Pamela Sue Martin", "Robert Conrad", "Louise Fletcher", "Robert Hogan", "Laurie Heineman"],
+    "anio": 1979,
+    "genero": ["Crime", "Drama", "Romance"],
+    "calificacion": 6.3,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0079429"
+    ]
+  },
+  {
+    "id": "pelicula_159",
+    "titulo": "Satan's Slaves 2: Communion",
+    "sinopsis": "Years after escaping a terrifying evil, Rini and her younger siblings live in a rundown apartment building. They believe they are safe, but the malevolent entity they thought they left behind returns, seeking to claim one of them for a sinister purpose.",
+    "elenco": ["Tara Basro", "Endy Arfian", "Nasar Anuz", "Bront Palarae", "Ratu Felisha"],
+    "anio": 2022,
+    "genero": ["Horror", "Mystery", "Drama"],
+    "calificacion": 7.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt16915972"
+    ]
+  },
+  {
+    "id": "pelicula_160",
+    "titulo": "Maestro",
+    "sinopsis": "A towering and fearless love story chronicling the lifelong relationship between cultural icon Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+    "elenco": ["Bradley Cooper", "Carey Mulligan", "Matt Bomer", "Maya Hawke", "Sarah Silverman"],
+    "anio": 2023,
+    "genero": ["Drama", "Romance", "Music", "Biography"],
+    "calificacion": 6.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt5535276"
+    ]
+  },
+  {
+    "id": "pelicula_161",
+    "titulo": "The Chat Page",
+    "sinopsis": "A group of strangers from different walks of life connect through an online chat forum. As their virtual relationships deepen, they decide to meet in person, leading to unexpected friendships, romances, and revelations.",
+    "elenco": ["Eric Roberts", "Maria Olsen", "Scout Taylor-Compton", "Robert LaSardo", "Vernon Wells"],
+    "anio": 2023,
+    "genero": ["Drama", "Comedy"],
+    "calificacion": 5.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29371830"
+    ]
+  },
+  {
+    "id": "pelicula_162",
+    "titulo": "Attack of the Flies",
+    "sinopsis": "In a small, isolated town, a sudden and inexplicable plague of aggressive flies descends upon the residents, causing panic and chaos. A group of survivors must band together to understand the phenomenon and fight for their lives.",
+    "elenco": ["Jason Lively", "Augie Duke", "Daniel Roebuck", "Robert Miano", "Gianni Capaldi"],
+    "anio": 2023,
+    "genero": ["Horror", "Sci-Fi", "Thriller"],
+    "calificacion": 4.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt14947834"
+    ]
+  },
+  {
+    "id": "pelicula_163",
+    "titulo": "We Have Never Been Modern",
+    "sinopsis": "In 1937 Czechoslovakia, on the eve of World War II, a young woman working in a shoe factory discovers the intersex body of a stillborn child. This discovery throws her into a moral and existential crisis, forcing her to confront the era's rigid societal norms and her own identity.",
+    "elenco": ["Eliška Křenková", "Miloslav König", "Richard Stanke", "Milan Ondrík", "Martha Issová"],
+    "anio": 2023,
+    "genero": ["Drama", "History", "Mystery"],
+    "calificacion": 6.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21054472"
+    ]
+  },
+  {
+    "id": "pelicula_164",
+    "titulo": "Distant Drums",
+    "sinopsis": "During the Seminole Wars in 1840s Florida, U.S. Army Captain Quincy Wyatt leads a mission to destroy a fort used by gun-runners. After the successful raid, he and his men must make a perilous journey back through the Everglades, pursued by vengeful Seminole warriors.",
+    "elenco": ["Gary Cooper", "Mari Aldon", "Richard Webb", "Ray Teal", "Arthur Hunnicutt"],
+    "anio": 1951,
+    "genero": ["Western", "Adventure", "Action", "War"],
+    "calificacion": 6.3,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0043469"
+    ]
+  },
+  {
+    "id": "pelicula_165",
+    "titulo": "Me and Mr. Christmas",
+    "sinopsis": "A cynical businesswoman inherits her estranged grandfather's Christmas-themed shop in a small, festive town. She plans to sell it quickly but finds herself charmed by the town's holiday spirit and a handsome local, Mr. Christmas himself.",
+    "elenco": ["Cindy Busby", "Benjamin Hollingsworth", "Kathie Lee Gifford", "Hilary Farr", "Amanda Brugel"],
+    "anio": 2023,
+    "genero": ["Romance", "Comedy", "Family"],
+    "calificacion": 6.4,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt27695431"
+    ]
+  },
+  {
+    "id": "pelicula_166",
+    "titulo": "Our Son",
+    "sinopsis": "Nicky and Gabriel, a loving couple, are in the midst of a contentious divorce. The film explores their battle for custody of their eight-year-old son, Owen, forcing them to confront their past, their present, and what it means to be a family.",
+    "elenco": ["Billy Porter", "Luke Evans", "Robin Weigert", "Andrew Rannells", "Isaac Cole Powell"],
+    "anio": 2023,
+    "genero": ["Drama"],
+    "calificacion": 6.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt20833316"
+    ]
+  },
+  {
+    "id": "pelicula_167",
+    "titulo": "Anatomy of a Fall",
+    "sinopsis": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the main witness. The trial unearths their complex and troubled relationship, questioning truth and perception.",
+    "elenco": ["Sandra Hüller", "Swann Arlaud", "Milo Machado Graner", "Antoine Reinartz", "Samuel Theis"],
+    "anio": 2023,
+    "genero": ["Drama", "Thriller", "Crime", "Mystery"],
+    "calificacion": 7.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt17009710"
+    ]
+  },
+  {
+    "id": "pelicula_168",
+    "titulo": "The Jazz Singer",
+    "sinopsis": "A young Jewish cantor defies his strict father and traditions to pursue his dream of becoming a popular music singer. His journey is one of conflict between heritage, ambition, and love.",
+    "elenco": ["Neil Diamond", "Laurence Olivier", "Lucie Arnaz", "Catlin Adams", "Franklyn Ajaye"],
+    "anio": 1980,
+    "genero": ["Drama", "Music", "Romance"],
+    "calificacion": 5.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0080948"
+    ]
+  },
+  {
+    "id": "pelicula_169",
+    "titulo": "Trevor Noah: Where Was I",
+    "sinopsis": "Trevor Noah returns to Netflix with a new stand-up special, sharing his hilarious experiences from his recent travels around the world, offering his unique perspective on global cultures and current events.",
+    "elenco": ["Trevor Noah"],
+    "anio": 2023,
+    "genero": ["Comedy"],
+    "calificacion": 7.3,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt30028158"
+    ]
+  },
+  {
+    "id": "pelicula_170",
+    "titulo": "The Secret Gift of Christmas",
+    "sinopsis": "Bonnie, a personal shopper, is hired by a pragmatic, workaholic widower to find the perfect gifts for his children. As she helps him reconnect with his family and the holiday spirit, an unexpected romance blossoms.",
+    "elenco": ["Meghan Ory", "Christopher Russell", "Ellie Harvie", "Jenika Rose", "Vincent Gale"],
+    "anio": 2023,
+    "genero": ["Romance", "Family", "Drama"],
+    "calificacion": 6.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt28753331"
+    ]
+  },
+  {
+    "id": "pelicula_171",
+    "titulo": "Darkest Africa",
+    "sinopsis": "Clyde Beatty travels to the lost city of Joba in darkest Africa to rescue the kidnapped Goddess of Joba, battling fierce animals, treacherous natives, and winged warriors in this classic 15-chapter serial.",
+    "elenco": ["Clyde Beatty", "Manuel King", "Elaine Shepard", "Lucien Prival", "Ray Corrigan"],
+    "anio": 1936,
+    "genero": ["Action", "Adventure"],
+    "calificacion": 5.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0027502"
+    ]
+  },
+  {
+    "id": "pelicula_172",
+    "titulo": "The Christmas Classic",
+    "sinopsis": "A small town's beloved annual Christmas pageant is in jeopardy due to budget cuts. A group of determined locals, led by a passionate young woman, bands together to save the tradition, rediscovering the true meaning of Christmas along the way.",
+    "elenco": ["Malin Akerman", "Amy Smart", "Ryan Hansen", "Camille Kostek", "Haylie Duff"],
+    "anio": 2023,
+    "genero": ["Comedy", "Family"],
+    "calificacion": 5.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt27804299"
+    ]
+  },
+  {
+    "id": "pelicula_173",
+    "titulo": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "sinopsis": "Years before he would become the tyrannical President of Panem, 18-year-old Coriolanus Snow is the last hope for his fading lineage. He is assigned to mentor Lucy Gray Baird, the girl tribute from impoverished District 12, in the 10th Hunger Games.",
+    "elenco": ["Tom Blyth", "Rachel Zegler", "Peter Dinklage", "Hunter Schafer", "Josh Andrés Rivera"],
+    "anio": 2023,
+    "genero": ["Science Fiction", "Action", "Drama", "Adventure"],
+    "calificacion": 7.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt10545296"
+    ]
+  },
+  {
+    "id": "pelicula_174",
+    "titulo": "Thanksgiving",
+    "sinopsis": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts – the birthplace of the holiday. One by one, the residents become victims as the killer carves out a bloody holiday feast.",
+    "elenco": ["Patrick Dempsey", "Addison Rae", "Milo Manheim", "Jalen Thomas Brooks", "Nell Verlaque"],
+    "anio": 2023,
+    "genero": ["Horror", "Thriller", "Mystery"],
+    "calificacion": 6.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt1448754"
+    ]
+  },
+  {
+    "id": "pelicula_175",
+    "titulo": "Silent Night",
+    "sinopsis": "A grieving father enacts his long-awaited revenge against a ruthless gang on Christmas Eve. He witnesses his young son die when caught in a gang's crossfire. While recovering from a wound that costs him his voice, he makes vengeance his life's mission.",
+    "elenco": ["Joel Kinnaman", "Scott Mescudi", "Harold Torres", "Catalina Sandino Moreno", "Valeria Santaella"],
+    "anio": 2023,
+    "genero": ["Action", "Thriller", "Crime"],
+    "calificacion": 6.3,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt15799866"
+    ]
+  },
+  {
+    "id": "pelicula_176",
+    "titulo": "Home of the Brave",
+    "sinopsis": "During World War II, a Black soldier faces racial prejudice from his white comrades while on a dangerous reconnaissance mission on a Japanese-held island in the South Pacific. The film explores the psychological toll of racism and combat.",
+    "elenco": ["James Edwards", "Lloyd Bridges", "Frank Lovejoy", "Douglas Dick", "Steve Brodie"],
+    "anio": 1949,
+    "genero": ["Drama", "War"],
+    "calificacion": 6.9,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0041481"
+    ]
+  },
+  {
+    "id": "pelicula_177",
+    "titulo": "Hell on Earth: The Fall of Syria and the Rise of ISIS",
+    "sinopsis": "A harrowing documentary that examines the Syrian Civil War and the subsequent rise of the Islamic State (ISIS). Through firsthand accounts and graphic footage, it depicts the devastating human cost of the conflict and the complex geopolitical forces at play.",
+    "elenco": [],
+    "anio": 2017,
+    "genero": ["Documentary", "War", "History"],
+    "calificacion": 7.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt6794398"
+    ]
+  },
+  {
+    "id": "pelicula_178",
+    "titulo": "Control",
+    "sinopsis": "A mother is trapped in a self-driving car by an unknown entity who forces her to complete a series of increasingly dangerous tasks. If she refuses, the mysterious voice threatens to harm her daughter.",
+    "elenco": ["Sara Mitich", "George Tchortov", "Evie Loiselle", "Karen LeBlanc", "Jamillah Ross"],
+    "anio": 2023,
+    "genero": ["Thriller", "Science Fiction", "Mystery"],
+    "calificacion": 5.8,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt23952252"
+    ]
+  },
+  {
+    "id": "pelicula_179",
+    "titulo": "Santa, Maybe",
+    "sinopsis": "Penelope, a theater director, is skeptical about Christmas but finds herself directing her town's annual Christmas pageant. When the charming but mysterious man playing Santa seems to possess real magic, she starts to question her beliefs.",
+    "elenco": ["Aubrey Reynolds", "Travis Nelson", "Tristan Cunningham", "Dana L. Lee", "Pete Gardner"],
+    "anio": 2023,
+    "genero": ["Romance", "Family", "Fantasy", "Comedy"],
+    "calificacion": 6.5,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29931745"
+    ]
+  },
+  {
+    "id": "pelicula_180",
+    "titulo": "Love Hacks",
+    "sinopsis": "Two rival relationship advice podcasters, who secretly despise each other, are forced to collaborate on a new show. As they navigate their professional animosity, they discover an unexpected romantic chemistry.",
+    "elenco": ["Ashley Gauthier", "Johnny Ramey", "Sherri Shepherd", "James Black", "Tamala Jones"],
+    "anio": 2023,
+    "genero": ["Romance", "Comedy"],
+    "calificacion": 6.1,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt21950088"
+    ]
+  },
+  {
+    "id": "pelicula_181",
+    "titulo": "Fukrey",
+    "sinopsis": "Four lazy, aimless friends in Delhi dream of getting rich quick. They enlist the help of Choocha, who has the ability to dream lottery-winning numbers, and get entangled with a formidable local gangster, Bholi Punjaban.",
+    "elenco": ["Pulkit Samrat", "Manjot Singh", "Ali Fazal", "Varun Sharma", "Richa Chadha"],
+    "anio": 2013,
+    "genero": ["Comedy", "Drama", "Crime"],
+    "calificacion": 7.1,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt2806788"
+    ]
+  },
+  {
+    "id": "pelicula_182",
+    "titulo": "Bullet to Beijing",
+    "sinopsis": "Retired British spy Harry Palmer is lured back into the world of espionage when he's tasked with a dangerous mission in post-Soviet Russia involving stolen plutonium and a North Korean connection, leading him on a perilous journey to Beijing.",
+    "elenco": ["Michael Caine", "Jason Connery", "Mia Sara", "Michael Gambon", "Burt Kwouk"],
+    "anio": 1995,
+    "genero": ["Thriller", "Action", "Adventure"],
+    "calificacion": 5.4,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt0113633"
+    ]
+  },
+  {
+    "id": "pelicula_183",
+    "titulo": "An Ice Palace Romance",
+    "sinopsis": "A journalist is sent to cover the grand reopening of a historic ice palace hotel. There, she clashes with the charming but stubborn owner, but as they work together to save the hotel's legacy, a warm romance blossoms in the frosty setting.",
+    "elenco": ["Celeste Desjardins", "Marcus Rosner", "Jayne Eastwood", "Daniel Fathers", "Angela Asher"],
+    "anio": 2023,
+    "genero": ["Romance", "Family", "Comedy"],
+    "calificacion": 6.7,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt29741889"
+    ]
+  },
+  {
+    "id": "pelicula_184",
+    "titulo": "Godless: The Eastfield Exorcism",
+    "sinopsis": "Lara, a devout woman struggling with mental illness, is convinced she is possessed by a demon. Her husband, desperate to save her, allows a charlatan exorcist into their home, leading to a terrifying and tragic ordeal.",
+    "elenco": ["Georgia Eyers", "Dan Ewing", "Tim Pocock", "Rosie Traynor", "Eliza Matengu"],
+    "anio": 2023,
+    "genero": ["Horror", "Thriller", "Drama"],
+    "calificacion": 5.2,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt16296308"
+    ]
+  },
+  {
+    "id": "pelicula_185",
+    "titulo": "Glisten and the Merry Mission",
+    "sinopsis": "When Santa's workshop is in trouble, a young, determined elf named Glisten teams up with a cynical reindeer to embark on a magical adventure to save Christmas, learning about friendship and the spirit of giving along the way.",
+    "elenco": ["Julia Roberts", "John Cleese", "Chevy Chase", "Freddie Highmore", "Dionne Warwick"],
+    "anio": 2023,
+    "genero": ["Animation", "Family", "Adventure", "Fantasy"],
+    "calificacion": 6.0,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt23870264"
+    ]
+  },
+  {
+    "id": "pelicula_186",
+    "titulo": "A Christmas Intern",
+    "sinopsis": "Cecilia, a bright young college student, takes on a Christmas internship at a major company. She unexpectedly finds herself working closely with the charming but work-obsessed CEO, teaching him about the holiday spirit and finding romance.",
+    "elenco": ["Jackée Harry", "Ciarra Carter", "Jasmine Aivaliotis", "Michael Copon", "Vivica A. Fox"],
+    "anio": 2023,
+    "genero": ["Romance", "Comedy", "Family"],
+    "calificacion": 6.3,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt28546882"
+    ]
+  },
+  {
+    "id": "pelicula_187",
+    "titulo": "Ferrari",
+    "sinopsis": "Set in the summer of 1957, with Enzo Ferrari's auto empire in crisis, the ex-racer turned entrepreneur pushes himself and his drivers to the edge as they launch into the Mille Miglia, a treacherous 1,000-mile race across Italy.",
+    "elenco": ["Adam Driver", "Penélope Cruz", "Shailene Woodley", "Patrick Dempsey", "Jack O'Connell"],
+    "anio": 2023,
+    "genero": ["Drama", "History", "Action", "Biography"],
+    "calificacion": 6.6,
+    "iframes": [
+      "https://vidsrc.icu/embed/movie/tt3758542"
+    ]
+  }
+]
