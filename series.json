@@ -262,5 +262,1604 @@
         ]
       }
     ]
+  },
+  {
+    "id": "serie_002",
+    "titulo": "The Blacklist",
+    "sinopsis": "Raymond \"Red\" Reddington, uno de los fugitivos más buscados por el FBI, se entrega en persona en la sede del FBI en Washington, D.C. Afirma que él y el FBI tienen los mismos intereses: acabar con criminales y terroristas peligrosos. En las últimas dos décadas, ha elaborado una lista de criminales y terroristas que son los más importantes pero que el FBI no puede encontrar porque no sabe que existen. Reddington llama a esto \"La Lista Negra\". Reddington cooperará, pero insiste en que solo hablará con Elizabeth Keen, una novata analista del FBI.",
+    "elenco": [
+      "James Spader",
+      "Megan Boone",
+      "Diego Klattenhoff",
+      "Harry Lennix",
+      "Amir Arison",
+      "Hisham Tawfiq"
+    ],
+    "anio": 2013,
+    "genero": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "calificacion": 8.0,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Pilot",
+            "sinopsis": "El criminal más buscado del mundo, Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: solo hablará con la recién llegada agente del FBI, Elizabeth Keen.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - The Freelancer (No. 145)",
+            "sinopsis": "Red predice un desastre y el equipo debe encontrar a un asesino llamado \"El Freelancer\". Mientras tanto, Liz cuestiona los motivos de Red mientras investiga un caso cercano a casa.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Wujing (No. 84)",
+            "sinopsis": "Liz y el equipo del FBI persiguen a un asesino chino de alta tecnología, Wujing. Red promete entregar a Wujing si el FBI le proporciona un archivo clasificado de la CIA.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - The Stewmaker (No. 161)",
+            "sinopsis": "Mientras Liz testifica contra un despiadado capo de la droga, Red y Ressler trabajan juntos por primera vez para encontrar a un especialista en eliminación de cadáveres conocido como \"El Guisandero\".",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - The Courier (No. 85)",
+            "sinopsis": "Red se entera de que \"El Mensajero\", un intermediario que entrega paquetes de alto valor a criminales, tiene previsto entregar un envío a uno de sus enemigos. Liz y Malik intentan tender una trampa al Mensajero.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Gina Zanetakos (No. 152)",
+            "sinopsis": "Red informa al equipo que la próxima terrorista en la lista negra es una hermosa e implacable saboteadora corporativa. Mientras tanto, Liz investiga más a fondo el misterioso pasado de Tom.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - Frederick Barnes (No. 47)",
+            "sinopsis": "Alguien de la lista negra de Red está detrás de un ataque químico en el metro. El culpable es Frederick Barnes, un científico brillante que se ha convertido en un arma biológica.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - General Ludd (No. 109)",
+            "sinopsis": "Red exige una lista de agentes encubiertos de la CIA a cambio de información sobre un eco-terrorista que planea un ataque a la infraestructura financiera de EE. UU.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/8"
+            ]
+          },
+          {
+            "titulo": "T1:E9 - Anslo Garrick (No. 16)",
+            "sinopsis": "La fortaleza del FBI es atacada por el terrorista Anslo Garrick, quien está decidido a capturar a Red. Liz queda atrapada en un ascensor mientras la situación se vuelve mortal.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/9"
+            ]
+          },
+          {
+            "titulo": "T1:E10 - Anslo Garrick (No. 16) Conclusion",
+            "sinopsis": "Liz se infiltra en la fortaleza para encontrar a Red, quien se ha entregado a Garrick. Ressler está gravemente herido y el equipo lucha por sobrevivir al asedio.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/10"
+            ]
+          },
+          {
+            "titulo": "T1:E11 - The Good Samaritan (No. 106)",
+            "sinopsis": "El próximo nombre en la lista es un asesino en serie del pasado de Liz. Red sospecha que alguien cercano al equipo es un topo de la organización de Anslo Garrick.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/11"
+            ]
+          },
+          {
+            "titulo": "T1:E12 - The Alchemist (No. 101)",
+            "sinopsis": "Red informa al equipo que \"El Alquimista\", un científico que usa la ciencia para transformar el ADN de una persona en el de otra, es su próximo objetivo. Liz y Tom consideran adoptar un bebé.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/12"
+            ]
+          },
+          {
+            "titulo": "T1:E13 - The Cyprus Agency (No. 64)",
+            "sinopsis": "El equipo investiga una agencia de adopción ilegal que secuestra a mujeres jóvenes para usarlas como madres sustitutas. Liz recibe noticias inquietantes sobre la investigación de Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/13"
+            ]
+          },
+          {
+            "titulo": "T1:E14 - Madeline Pratt (No. 73)",
+            "sinopsis": "Una antigua asociada de Red, Madeline Pratt, lo atrae para robar una efigie siria de valor incalculable. Liz sospecha que Pratt tiene otros motivos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/14"
+            ]
+          },
+          {
+            "titulo": "T1:E15 - The Judge (No. 57)",
+            "sinopsis": "Red busca a \"El Juez\", una figura misteriosa que administra justicia a los corruptos. Liz continúa su investigación sobre Tom y descubre más secretos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/15"
+            ]
+          },
+          {
+            "titulo": "T1:E16 - Mako Tanida (No. 83)",
+            "sinopsis": "Un antiguo socio de Red, Mako Tanida, escapa de prisión y busca venganza contra aquellos que lo traicionaron, incluyendo a Ressler.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/16"
+            ]
+          },
+          {
+            "titulo": "T1:E17 - Ivan (No. 88)",
+            "sinopsis": "El equipo investiga un esqueleto cibernético robado. Liz descubre un escondite secreto de Tom que contiene pasaportes falsos e identidades múltiples.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/17"
+            ]
+          },
+          {
+            "titulo": "T1:E18 - Milton Bobbit (No. 135)",
+            "sinopsis": "Red y el equipo persiguen a \"El Enterrador\", un hombre que convence a personas con enfermedades terminales para que se conviertan en asesinos a sueldo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/18"
+            ]
+          },
+          {
+            "titulo": "T1:E19 - The Pavlovich Brothers (No. 119-122)",
+            "sinopsis": "Liz es el objetivo de los hermanos Pavlovich, especialistas en secuestros. Red debe usar todos sus recursos para protegerla.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/19"
+            ]
+          },
+          {
+            "titulo": "T1:E20 - The Kingmaker (No. 42)",
+            "sinopsis": "Red ayuda al equipo a encontrar a \"El Hacedor de Reyes\", un estratega político que manipula elecciones. Liz descubre la verdad sobre Tom.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/20"
+            ]
+          },
+          {
+            "titulo": "T1:E21 - Berlin (No. 8)",
+            "sinopsis": "El equipo se enfrenta a un nuevo y misterioso enemigo llamado Berlín, quien parece tener una vendetta personal contra Red. Liz intenta procesar la traición de Tom.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/21"
+            ]
+          },
+          {
+            "titulo": "T1:E22 - Berlin (No. 8) Conclusion",
+            "sinopsis": "Con Berlín acercándose, Red y Liz luchan por sus vidas. Las impactantes revelaciones sobre el pasado de Red y su conexión con Liz salen a la luz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/1/22"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "titulo": "T2:E1 - Lord Baltimore (No. 104)",
+            "sinopsis": "Red continúa luchando contra Berlín y utiliza a un nuevo miembro de la lista negra para localizarlo. Liz intenta seguir adelante después de su enfrentamiento con Tom.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/1"
+            ]
+          },
+          {
+            "titulo": "T2:E2 - Monarch Douglas Bank (No. 112)",
+            "sinopsis": "Cuando el Monarch Douglas Bank es robado, Red deduce que no es un atraco bancario ordinario. Mientras tanto, Liz investiga en secreto a Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/2"
+            ]
+          },
+          {
+            "titulo": "T2:E3 - Dr. James Covington (No. 89)",
+            "sinopsis": "El equipo persigue al Dr. James Covington, un cirujano que dirige una red ilegal de trasplante de órganos. Liz sigue manteniendo un secreto a Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/3"
+            ]
+          },
+          {
+            "titulo": "T2:E4 - Dr. Linus Creel (No. 82)",
+            "sinopsis": "Varias personas aparentemente no conectadas se vuelven violentas y asesinas. Red cree que un científico llamado Dr. Linus Creel está detrás de ello.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/4"
+            ]
+          },
+          {
+            "titulo": "T2:E5 - The Front (No. 74)",
+            "sinopsis": "Un grupo eco-terrorista planea liberar una plaga mortal. Liz y Ressler se infiltran en el grupo mientras Red ayuda desde la distancia.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/5"
+            ]
+          },
+          {
+            "titulo": "T2:E6 - The Mombasa Cartel (No. 114)",
+            "sinopsis": "Cuando se descubre un cadáver sin cabeza, Red identifica al culpable como el Cártel de Mombasa, un grupo de cazadores furtivos de animales exóticos y humanos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/6"
+            ]
+          },
+          {
+            "titulo": "T2:E7 - The Scimitar (No. 22)",
+            "sinopsis": "Un científico nuclear iraní es asesinado, y Red cree que un asesino conocido como \"La Cimitarra\" es el responsable. Liz y Ressler deben proteger al próximo objetivo de La Cimitarra.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/7"
+            ]
+          },
+          {
+            "titulo": "T2:E8 - The Decembrist (No. 12)",
+            "sinopsis": "Red finalmente se enfrenta a Berlín, revelando una conexión impactante entre ellos y un antiguo operativo del KGB conocido como \"El Decembrista\".",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/8"
+            ]
+          },
+          {
+            "titulo": "T2:E9 - Luther Braxton (No. 21)",
+            "sinopsis": "Red es capturado y llevado a una prisión secreta en el Mar de Bering. Liz y el equipo deben rescatarlo antes de que un peligroso criminal, Luther Braxton, extraiga información vital de él.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/9"
+            ]
+          },
+          {
+            "titulo": "T2:E10 - Luther Braxton (No. 21) Conclusion",
+            "sinopsis": "Mientras la prisión es atacada, Liz intenta proteger a Red de Braxton, quien busca \"El Fulcro\", un archivo que contiene información comprometedora sobre figuras poderosas.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/10"
+            ]
+          },
+          {
+            "titulo": "T2:E11 - Ruslan Denisov (No. 67)",
+            "sinopsis": "Un agente de la CIA es secuestrado en Uzbekistán por un antiguo socio de Red, Ruslan Denisov. Red y Liz viajan para negociar su liberación.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/11"
+            ]
+          },
+          {
+            "titulo": "T2:E12 - The Kenyon Family (No. 71)",
+            "sinopsis": "El equipo investiga una secta poligámica liderada por un predicador carismático después de que una redada del FBI sale mal. Red busca información sobre El Fulcro.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/12"
+            ]
+          },
+          {
+            "titulo": "T2:E13 - The Deer Hunter (No. 93)",
+            "sinopsis": "Cuando se encuentran varios cuerpos masculinos, Liz y Ressler investigan a una asesina en serie que se dirige a hombres abusivos. Red continúa su búsqueda de El Fulcro.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/13"
+            ]
+          },
+          {
+            "titulo": "T2:E14 - T. Earl King VI (No. 94)",
+            "sinopsis": "Red y Liz se infiltran en una familia adinerada que dirige una subasta clandestina de artículos de lujo robados, incluyendo una copia de El Fulcro.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/14"
+            ]
+          },
+          {
+            "titulo": "T2:E15 - The Major (No. 75)",
+            "sinopsis": "Liz descubre que Tom Keen fue asignado por una figura sombría conocida como \"El Mayor\". Red advierte a Liz que El Mayor es extremadamente peligroso.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/15"
+            ]
+          },
+          {
+            "titulo": "T2:E16 - Tom Keen (No. 7)",
+            "sinopsis": "Red y Liz rastrean a Tom hasta Alemania, donde está involucrado en una nueva operación encubierta. Liz debe decidir si puede confiar en Tom para ayudarla.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/16"
+            ]
+          },
+          {
+            "titulo": "T2:E17 - The Longevity Initiative (No. 97)",
+            "sinopsis": "El equipo investiga a un científico que experimenta con la prolongación de la vida humana, atrayendo la atención de un multimillonario obsesionado con la inmortalidad.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/17"
+            ]
+          },
+          {
+            "titulo": "T2:E18 - Vanessa Cruz (No. 117)",
+            "sinopsis": "Una mujer que incrimina a hombres de negocios ricos por asesinato se convierte en el próximo objetivo de la lista negra. Red cree que tiene una conexión con El Cabal.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/18"
+            ]
+          },
+          {
+            "titulo": "T2:E19 - Leonard Caul (No. 62)",
+            "sinopsis": "Red y Liz buscan a Leonard Caul, un experto en comunicaciones que puede decodificar El Fulcro y exponer al Cabal. El Director toma medidas drásticas.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/19"
+            ]
+          },
+          {
+            "titulo": "T2:E20 - Quon Zhang (No. 87)",
+            "sinopsis": "Un cuerpo es encontrado en un contenedor de carga, llevando al equipo a investigar una operación de contrabando humano. Liz es acusada del asesinato de un senador.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/20"
+            ]
+          },
+          {
+            "titulo": "T2:E21 - Karakurt (No. 55)",
+            "sinopsis": "Mientras Liz huye, Red y el equipo intentan limpiar su nombre identificando al verdadero asesino, un terrorista ruso conocido como Karakurt.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/21"
+            ]
+          },
+          {
+            "titulo": "T2:E22 - Tom Connolly (No. 11)",
+            "sinopsis": "Liz se da cuenta de que está siendo incriminada por El Cabal. Con la ayuda de Red, intenta exponer la conspiración, lo que la lleva a una confrontación mortal con el Fiscal General Tom Connolly.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/2/22"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "episodios": [
+          {
+            "titulo": "T3:E1 - The Troll Farmer (No. 38)",
+            "sinopsis": "Con Liz y Red huyendo, el FBI lanza una persecución masiva. Red recurre a un miembro de la lista negra conocido como \"El Granjero de Trolls\" para crear una distracción.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/1"
+            ]
+          },
+          {
+            "titulo": "T3:E2 - Marvin Gerard (No. 80)",
+            "sinopsis": "Red y Liz buscan a Marvin Gerard, el ex abogado de Red, para ayudarlos a limpiar el nombre de Liz. Ressler y el FBI se acercan.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/2"
+            ]
+          },
+          {
+            "titulo": "T3:E3 - Eli Matchett (No. 72)",
+            "sinopsis": "Red y Liz intentan encontrar a un científico agrícola que ha desarrollado semillas modificadas genéticamente peligrosas, esperando usarlo como palanca.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/3"
+            ]
+          },
+          {
+            "titulo": "T3:E4 - The Djinn (No. 43)",
+            "sinopsis": "Red y Liz buscan a \"El Djinn\", una mujer que cumple fantasías de venganza. Liz considera entregarse mientras la presión aumenta.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/4"
+            ]
+          },
+          {
+            "titulo": "T3:E5 - Arioch Cain (No. 50)",
+            "sinopsis": "Un antiguo asociado de Red, Arioch Cain, pone una recompensa por la cabeza de Liz. Tom intenta ayudar a Liz a limpiar su nombre.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/5"
+            ]
+          },
+          {
+            "titulo": "T3:E6 - Sir Crispin Crandall (No. 86)",
+            "sinopsis": "Red y Liz investigan a un multimillonario excéntrico que está secuestrando a los genios más grandes del mundo para un proyecto misterioso.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/6"
+            ]
+          },
+          {
+            "titulo": "T3:E7 - Zal Bin Hasaan (No. 31)",
+            "sinopsis": "Un terrorista del pasado de Samar reaparece, obligándola a confrontar sus demonios personales. Red y Liz continúan evadiendo al FBI.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/7"
+            ]
+          },
+          {
+            "titulo": "T3:E8 - Kings of the Highway (No. 108)",
+            "sinopsis": "Red y Liz son emboscados por una banda de criminales que operan en las carreteras. Ressler considera tomar medidas extremas para capturarlos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/8"
+            ]
+          },
+          {
+            "titulo": "T3:E9 - The Director (No. 24)",
+            "sinopsis": "Red y Liz son capturados por El Director y El Cabal. El equipo del FBI debe correr contra el tiempo para rescatarlos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/9"
+            ]
+          },
+          {
+            "titulo": "T3:E10 - The Director (No. 24) Conclusion",
+            "sinopsis": "Con Liz enfrentando la ejecución, Red elabora un plan audaz para exponer al Director y desmantelar El Cabal de una vez por todas.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/10"
+            ]
+          },
+          {
+            "titulo": "T3:E11 - Mr. Gregory Devry (No. 95)",
+            "sinopsis": "Un hombre que dice ser el verdadero Raymond Reddington se entrega al FBI, causando confusión y poniendo en duda la identidad de Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/11"
+            ]
+          },
+          {
+            "titulo": "T3:E12 - The Vehm (No. 132)",
+            "sinopsis": "El equipo investiga un grupo de vigilantes medievales que castigan a los pecadores. Liz descubre que está embarazada.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/12"
+            ]
+          },
+          {
+            "titulo": "T3:E13 - Alistair Pitt (No. 103)",
+            "sinopsis": "Red y Liz persiguen a un negociador que une imperios criminales a través de matrimonios arreglados. Liz lucha con la idea de ser madre.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/13"
+            ]
+          },
+          {
+            "titulo": "T3:E14 - Lady Ambrosia (No. 77)",
+            "sinopsis": "El equipo busca a una mujer que secuestra niños abandonados para su propia familia retorcida. Liz considera dar a su bebé en adopción.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/14"
+            ]
+          },
+          {
+            "titulo": "T3:E15 - Drexel (No. 113)",
+            "sinopsis": "Un artista cuyas obras exponen crímenes corporativos se convierte en el objetivo del FBI. Tom le pide a Liz que se case con él.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/15"
+            ]
+          },
+          {
+            "titulo": "T3:E16 - The Caretaker (No. 78)",
+            "sinopsis": "El equipo persigue a \"El Cuidador\", un hombre que guarda los secretos de criminales poderosos en una bóveda subterránea.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/16"
+            ]
+          },
+          {
+            "titulo": "T3:E17 - Mr. Solomon (No. 32)",
+            "sinopsis": "Mientras Liz y Tom se preparan para su boda, Mr. Solomon y sus secuaces atacan, decididos a capturar a Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/17"
+            ]
+          },
+          {
+            "titulo": "T3:E18 - Mr. Solomon (No. 32) Conclusion",
+            "sinopsis": "Liz sufre complicaciones durante el parto mientras Red y el equipo intentan defenderse del ataque de Solomon. Se produce una tragedia.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/18"
+            ]
+          },
+          {
+            "titulo": "T3:E19 - Cape May",
+            "sinopsis": "Devastado por la pérdida de Liz, Red se retira a Cape May, donde se encuentra con una misteriosa mujer que huye de su propio pasado.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/19"
+            ]
+          },
+          {
+            "titulo": "T3:E20 - The Artax Network (No. 41)",
+            "sinopsis": "Red y el equipo investigan una red de satélites que puede ser utilizada para derribar aviones. Aram se infiltra para detener un ataque inminente.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/20"
+            ]
+          },
+          {
+            "titulo": "T3:E21 - Susan Hargrave (No. 18)",
+            "sinopsis": "Red se enfoca en Susan \"Scottie\" Hargrave, la líder de una organización mercenaria encubierta, creyendo que ella puede llevarlo al hombre responsable de la muerte de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/21"
+            ]
+          },
+          {
+            "titulo": "T3:E22 - Alexander Kirk (No. 14)",
+            "sinopsis": "Red y el equipo se enfrentan a Alexander Kirk, el hombre que creen que ordenó el ataque a Liz. Kirk revela una conexión sorprendente con Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/22"
+            ]
+          },
+          {
+            "titulo": "T3:E23 - Alexander Kirk (No. 14) Conclusion",
+            "sinopsis": "Mientras Kirk intenta escapar con Agnes, Red debe tomar una decisión difícil. Se revela una verdad impactante sobre Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/3/23"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "episodios": [
+          {
+            "titulo": "T4:E1 - Esteban (No. 79)",
+            "sinopsis": "Red busca a Liz, quien ha sido secuestrada por Alexander Kirk. Recurre a un miembro de la lista negra conocido como Esteban para localizarla.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/1"
+            ]
+          },
+          {
+            "titulo": "T4:E2 - Mato (No. 66)",
+            "sinopsis": "Red y el equipo persiguen a Mato, uno de los secuaces más peligrosos de Kirk, para encontrar a Liz y Agnes. Kirk revela más sobre su pasado con Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/2"
+            ]
+          },
+          {
+            "titulo": "T4:E3 - Miles McGrath (No. 65)",
+            "sinopsis": "Red dirige al equipo para detener a Miles McGrath, un \"incubador criminal\" que financia crímenes para obtener ganancias. Liz cuestiona los motivos de Kirk.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/3"
+            ]
+          },
+          {
+            "titulo": "T4:E4 - Gaia (No. 81)",
+            "sinopsis": "Un eco-terrorista que usa métodos mortales para proteger el medio ambiente se convierte en el próximo objetivo. Liz intenta escapar de Kirk.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/4"
+            ]
+          },
+          {
+            "titulo": "T4:E5 - The Lindquist Concern (No. 105)",
+            "sinopsis": "El equipo investiga una compañía que organiza accidentes fatales que parecen casuales. Red intenta negociar con Kirk por la seguridad de Agnes.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/5"
+            ]
+          },
+          {
+            "titulo": "T4:E6 - The Thrushes (No. 53)",
+            "sinopsis": "Un grupo de hackers que roba secretos corporativos amenaza con exponer información sensible. Liz se une a Red para encontrar a Agnes.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/6"
+            ]
+          },
+          {
+            "titulo": "T4:E7 - Dr. Adrian Shaw (No. 98)",
+            "sinopsis": "Red y Liz buscan a la Dra. Adrian Shaw, una hematóloga que podría ser la clave para salvar la vida de Kirk y, por lo tanto, a Agnes.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/7"
+            ]
+          },
+          {
+            "titulo": "T4:E8 - Dr. Adrian Shaw (No. 98) Conclusion",
+            "sinopsis": "Mientras Kirk se debilita, Red y Liz deben decidir hasta dónde llegarán para salvarlo. Se revela la verdad sobre la paternidad de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/8"
+            ]
+          },
+          {
+            "titulo": "T4:E9 - Lipet's Seafood Company (No. 111)",
+            "sinopsis": "El equipo investiga una empresa fachada para una operación de contrabando. Red intenta reconstruir su imperio criminal.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/9"
+            ]
+          },
+          {
+            "titulo": "T4:E10 - The Forecaster (No. 163)",
+            "sinopsis": "Una mujer que predice eventos futuros basados en datos se convierte en el objetivo. Liz se enfrenta a las consecuencias de sus descubrimientos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/10"
+            ]
+          },
+          {
+            "titulo": "T4:E11 - The Harem (No. 102)",
+            "sinopsis": "Un grupo de ladronas de élite conocido como \"El Harén\" es contratado para un atraco peligroso. Samar se infiltra en el grupo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/11"
+            ]
+          },
+          {
+            "titulo": "T4:E12 - Natalie Luca (No. 184)",
+            "sinopsis": "El equipo persigue a Natalie Luca, una asesina que mata a sus víctimas con un virus mortal transmitido por un beso.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/12"
+            ]
+          },
+          {
+            "titulo": "T4:E13 - Isabella Stone (No. 34)",
+            "sinopsis": "Red es el objetivo de Isabella Stone, una mujer que destruye sistemáticamente la vida de sus enemigos. El equipo intenta proteger a Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/13"
+            ]
+          },
+          {
+            "titulo": "T4:E14 - The Architect (No. 107)",
+            "sinopsis": "Un criminal conocido como \"El Arquitecto\" diseña crímenes perfectos para otros. Red lo usa para un plan propio.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/14"
+            ]
+          },
+          {
+            "titulo": "T4:E15 - The Apothecary (No. 59)",
+            "sinopsis": "Red es envenenado y Liz debe encontrar al \"Boticario\", un experto en venenos, para salvarle la vida.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/15"
+            ]
+          },
+          {
+            "titulo": "T4:E16 - Dembe Zuma (No. 10)",
+            "sinopsis": "Dembe desaparece y Red teme que haya sido traicionado. El equipo ayuda a Red a encontrar a su amigo más leal.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/16"
+            ]
+          },
+          {
+            "titulo": "T4:E17 - Requiem",
+            "sinopsis": "Un flashback revela la trágica historia de Mr. Kaplan y cómo se convirtió en la limpiadora de Red y, finalmente, en su enemiga.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/17"
+            ]
+          },
+          {
+            "titulo": "T4:E18 - Philomena (No. 61)",
+            "sinopsis": "Mr. Kaplan continúa su guerra contra Red, contratando a una cazarrecompensas llamada Philomena para encontrar información comprometedora.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/18"
+            ]
+          },
+          {
+            "titulo": "T4:E19 - Dr. Bogdan Krilov (No. 29)",
+            "sinopsis": "Red y Liz buscan al Dr. Krilov, un científico que se especializa en manipular recuerdos, creyendo que puede tener respuestas sobre el pasado de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/19"
+            ]
+          },
+          {
+            "titulo": "T4:E20 - The Debt Collector (No. 46)",
+            "sinopsis": "Un criminal que obliga a las personas a pagar sus deudas de formas extremas se convierte en el próximo objetivo. Mr. Kaplan se acerca a destruir el imperio de Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/20"
+            ]
+          },
+          {
+            "titulo": "T4:E21 - Mr. Kaplan (No. 4)",
+            "sinopsis": "La guerra entre Red y Mr. Kaplan llega a un punto crítico. Liz se encuentra atrapada en medio, obligada a elegir un bando.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/21"
+            ]
+          },
+          {
+            "titulo": "T4:E22 - Mr. Kaplan (No. 4) Conclusion",
+            "sinopsis": "Con su imperio en ruinas, Red se enfrenta a Mr. Kaplan en una confrontación final. Se revela un secreto devastador sobre la conexión de Red con Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/4/22"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "episodios": [
+          {
+            "titulo": "T5:E1 - Smokey Putnam (No. 30)",
+            "sinopsis": "Con su imperio criminal destruido, Red debe reconstruir desde cero. Recluta a Liz para ayudarlo a encontrar a Smokey Putnam, un fugitivo con acceso a una fortuna.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/1"
+            ]
+          },
+          {
+            "titulo": "T5:E2 - Greyson Blaise (No. 37)",
+            "sinopsis": "Red y Liz se infiltran en el mundo del arte de alto nivel para atrapar a Greyson Blaise, un ladrón internacional de arte. Tom investiga la maleta de huesos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/2"
+            ]
+          },
+          {
+            "titulo": "T5:E3 - Miss Rebecca Thrall (No. 76)",
+            "sinopsis": "El equipo persigue a una asesina que se dirige a testigos en casos federales. Tom se acerca a la verdad sobre la maleta.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/3"
+            ]
+          },
+          {
+            "titulo": "T5:E4 - The Endling (No. 44)",
+            "sinopsis": "Un millonario excéntrico que intenta preservar especies en peligro de extinción utiliza métodos mortales. Liz lucha por equilibrar su vida personal y profesional.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/4"
+            ]
+          },
+          {
+            "titulo": "T5:E5 - Ilyas Surkov (No. 54)",
+            "sinopsis": "El equipo investiga a un terrorista que se cree muerto pero que parece estar detrás de una serie de ataques. Tom busca la ayuda de un viejo amigo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/5"
+            ]
+          },
+          {
+            "titulo": "T5:E6 - The Travel Agency (No. 90)",
+            "sinopsis": "Una agencia de viajes secreta organiza asesinatos para sus clientes. Red intenta advertir a Tom sobre los peligros de su investigación.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/6"
+            ]
+          },
+          {
+            "titulo": "T5:E7 - The Kilgannon Corporation (No. 48)",
+            "sinopsis": "El equipo persigue a una organización que introduce ilegalmente a personas en el país, a menudo con consecuencias mortales. Tom se acerca a descubrir la identidad en la maleta.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/7"
+            ]
+          },
+          {
+            "titulo": "T5:E8 - Ian Garvey (No. 13)",
+            "sinopsis": "Tom desaparece después de descubrir la verdad sobre la maleta. Liz y Red corren para encontrarlo antes de que Ian Garvey, un mariscal estadounidense corrupto, lo haga.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/8"
+            ]
+          },
+          {
+            "titulo": "T5:E9 - Ruin",
+            "sinopsis": "Devastada por la pérdida, Liz se retira a una cabaña remota, pero el peligro la encuentra incluso allí, obligándola a luchar por su vida.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/9"
+            ]
+          },
+          {
+            "titulo": "T5:E10 - The Informant (No. 118)",
+            "sinopsis": "Red dirige al equipo para encontrar a un informante que puede ayudar a Liz en su búsqueda de venganza contra los asesinos de Tom.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/10"
+            ]
+          },
+          {
+            "titulo": "T5:E11 - Abraham Stern (No. 100)",
+            "sinopsis": "Red y Liz buscan a Abraham Stern, un legendario cazador de tesoros que posee una moneda rara necesaria para un plan de Red. Liz continúa su vendetta.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/11"
+            ]
+          },
+          {
+            "titulo": "T5:E12 - The Cook (No. 56)",
+            "sinopsis": "Red y Liz persiguen a \"El Cocinero\", un criminal que organiza fiestas elaboradas para la élite criminal. Liz se acerca a Garvey.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/12"
+            ]
+          },
+          {
+            "titulo": "T5:E13 - The Invisible Hand (No. 63)",
+            "sinopsis": "Un grupo de vigilantes que se autodenomina \"La Mano Invisible\" administra su propia forma de justicia. Liz hace un movimiento audaz contra Garvey.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/13"
+            ]
+          },
+          {
+            "titulo": "T5:E14 - Mr. Raleigh Sinclair III (No. 51)",
+            "sinopsis": "El equipo busca a un hombre que crea coartadas elaboradas para asesinos. Liz se une a un aliado inesperado en su búsqueda de Garvey.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/14"
+            ]
+          },
+          {
+            "titulo": "T5:E15 - Pattie Sue Edwards (No. 68)",
+            "sinopsis": "Una mujer que envenena a funcionarios corruptos se convierte en el próximo objetivo. Red intenta proteger a Liz de sí misma.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/15"
+            ]
+          },
+          {
+            "titulo": "T5:E16 - The Capricorn Killer (No. 19)",
+            "sinopsis": "Un asesino en serie que se creía inactivo resurge. Liz se enfrenta a una decisión difícil sobre hasta dónde está dispuesta a llegar por venganza.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/16"
+            ]
+          },
+          {
+            "titulo": "T5:E17 - Anna-Gracia Duerte (No. 25)",
+            "sinopsis": "El equipo investiga a una mujer que dirige una red de asesinas. Garvey hace un movimiento para asegurar la maleta de huesos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/17"
+            ]
+          },
+          {
+            "titulo": "T5:E18 - Zarak Mosadek (No. 23)",
+            "sinopsis": "Red y Liz buscan a un narcotraficante que puede tener información sobre Garvey y la maleta. La tensión aumenta entre Red y Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/18"
+            ]
+          },
+          {
+            "titulo": "T5:E19 - Ian Garvey (No. 13) Conclusion",
+            "sinopsis": "Liz finalmente se enfrenta a Ian Garvey en una confrontación explosiva. Se revela el contenido de la maleta de huesos, pero no a Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/19"
+            ]
+          },
+          {
+            "titulo": "T5:E20 - Nicholas T. Moore (No. 110)",
+            "sinopsis": "El equipo persigue a un secuestrador de niños con un motivo inusual. Liz lucha por aceptar la verdad sobre la maleta.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/20"
+            ]
+          },
+          {
+            "titulo": "T5:E21 - Lawrence Dane Devlin (No. 26)",
+            "sinopsis": "Red y Liz buscan a un hombre que puede tener la clave para descubrir quién más conoce el secreto de la maleta. Liz toma una decisión impactante.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/21"
+            ]
+          },
+          {
+            "titulo": "T5:E22 - Sutton Ross (No. 17)",
+            "sinopsis": "Liz se alía con Sutton Ross, un antiguo enemigo de Red, para descubrir la verdad sobre la maleta de huesos. Una revelación impactante lo cambia todo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/5/22"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "episodios": [
+          {
+            "titulo": "T6:E1 - Dr. Hans Koehler (No. 33)",
+            "sinopsis": "Red y Liz buscan al Dr. Hans Koehler, un cirujano plástico que altera las apariencias de los criminales. Liz conspira en secreto contra Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/1"
+            ]
+          },
+          {
+            "titulo": "T6:E2 - The Corsican (No. 20)",
+            "sinopsis": "Mientras Red es juzgado, Liz y el equipo investigan a un asesino conocido como \"El Corso\", que tiene una conexión con el pasado de Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/2"
+            ]
+          },
+          {
+            "titulo": "T6:E3 - The Pharmacist (No. 124)",
+            "sinopsis": "Red ayuda al equipo desde la cárcel a encontrar a un criminal que vende medicamentos recetados falsificados. Liz continúa su investigación sobre la verdadera identidad de Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/3"
+            ]
+          },
+          {
+            "titulo": "T6:E4 - The Pawnbrokers (No. 146/147)",
+            "sinopsis": "El equipo investiga a dos hermanos que dirigen una red de casas de empeño como fachada para actividades criminales. Red intenta asegurar su libertad.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/4"
+            ]
+          },
+          {
+            "titulo": "T6:E5 - Alter Ego (No. 131)",
+            "sinopsis": "Una agencia secreta proporciona a los clientes dobles de cuerpo para que asistan a eventos en su lugar. Liz se acerca a la verdad sobre Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/5"
+            ]
+          },
+          {
+            "titulo": "T6:E6 - The Ethicist (No. 91)",
+            "sinopsis": "Un consejero que ayuda a los criminales a tomar decisiones \"éticas\" se convierte en el próximo objetivo. El juicio de Red toma un giro inesperado.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/6"
+            ]
+          },
+          {
+            "titulo": "T6:E7 - General Shiro (No. 116)",
+            "sinopsis": "El equipo persigue a un criminal que utiliza insectos modificados genéticamente como armas. Liz busca la ayuda de Jennifer para descubrir el pasado de Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/7"
+            ]
+          },
+          {
+            "titulo": "T6:E8 - Marko Jankowics (No. 58)",
+            "sinopsis": "Red intenta negociar un trato con un contrabandista de armas para asegurar su libertad. Liz y Jennifer encuentran una pista crucial.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/8"
+            ]
+          },
+          {
+            "titulo": "T6:E9 - Minister D (No. 99)",
+            "sinopsis": "Un diplomático corrupto utiliza su inmunidad para cometer crímenes. El destino de Red pende de un hilo mientras el jurado delibera.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/9"
+            ]
+          },
+          {
+            "titulo": "T6:E10 - The Cryptobanker (No. 160)",
+            "sinopsis": "Un banquero que lava dinero usando criptomonedas se convierte en el objetivo. Liz lucha con las consecuencias de sus acciones.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/10"
+            ]
+          },
+          {
+            "titulo": "T6:E11 - Bastien Moreau (No. 20)",
+            "sinopsis": "Un asesino contratado para matar a Red representa una nueva amenaza. Liz intenta proteger a Red mientras oculta su propia traición.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/11"
+            ]
+          },
+          {
+            "titulo": "T6:E12 - Bastien Moreau (No. 20) Conclusion",
+            "sinopsis": "Con Red en el corredor de la muerte, Liz y el equipo corren para encontrar a Moreau y detener la conspiración en su contra.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/12"
+            ]
+          },
+          {
+            "titulo": "T6:E13 - Robert Vesco (No. 9)",
+            "sinopsis": "Red se reúne con Robert Vesco, su antiguo mentor y legendario estafador, para un último gran golpe.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/13"
+            ]
+          },
+          {
+            "titulo": "T6:E14 - The Osterman Umbrella Company (No. 6)",
+            "sinopsis": "Una organización secreta que lleva a cabo asesinatos encubiertos para el gobierno se convierte en el objetivo. Dembe cuestiona la lealtad de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/14"
+            ]
+          },
+          {
+            "titulo": "T6:E15 - Olivia Olson (No. 115)",
+            "sinopsis": "El equipo persigue a una mujer que manipula a personas vulnerables para que cometan crímenes. Liz se enfrenta a Red sobre su verdadera identidad.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/15"
+            ]
+          },
+          {
+            "titulo": "T6:E16 - Lady Luck (No. 69)",
+            "sinopsis": "Una mujer que dirige una red de juego ilegal de alto riesgo se convierte en el próximo objetivo. Ressler investiga el pasado de Katarina Rostova.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/16"
+            ]
+          },
+          {
+            "titulo": "T6:E17 - The Third Estate (No. 136)",
+            "sinopsis": "Un grupo radical que se dirige a los ricos y poderosos planea un ataque terrorista. Liz y Ressler se acercan a la verdad sobre la madre de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/17"
+            ]
+          },
+          {
+            "titulo": "T6:E18 - The Brockton College Killer (No. 92)",
+            "sinopsis": "Un asesino en serie que aterrorizó un campus universitario hace años parece haber regresado. Liz recibe información inquietante sobre su abuelo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/18"
+            ]
+          },
+          {
+            "titulo": "T6:E19 - Rassvet",
+            "sinopsis": "Red cuenta a Liz la historia de Katarina Rostova después de que ella supuestamente se ahogara, revelando cómo se transformó y desapareció.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/19"
+            ]
+          },
+          {
+            "titulo": "T6:E20 - Guillermo Rizal (No. 128)",
+            "sinopsis": "El equipo persigue a un asesino que utiliza tecnología avanzada para cazar a sus víctimas. Liz lucha por procesar la historia de Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/20"
+            ]
+          },
+          {
+            "titulo": "T6:E21 - Anna McMahon (No. 60)",
+            "sinopsis": "Anna McMahon, una asesora presidencial corrupta, pone en marcha un complot contra Estados Unidos. Red y Liz deben detenerla.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/21"
+            ]
+          },
+          {
+            "titulo": "T6:E22 - Robert Diaz (No. 15)",
+            "sinopsis": "Con el Presidente Diaz implicado en la conspiración, Red y el equipo corren para exponer la verdad antes de que sea demasiado tarde. Red se encuentra con una figura de su pasado.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/6/22"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "episodios": [
+          {
+            "titulo": "T7:E1 - Louis T. Steinhil (No. 27)",
+            "sinopsis": "Red es secuestrado por Katarina Rostova en París. Liz y el equipo deben encontrarlo antes de que Katarina extraiga la información que busca.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/1"
+            ]
+          },
+          {
+            "titulo": "T7:E2 - Louis T. Steinhil (No. 27) Conclusion",
+            "sinopsis": "Mientras Red soporta la tortura a manos de Katarina, Liz recurre a medidas desesperadas para localizarlo. Se revela el motivo de Katarina.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/2"
+            ]
+          },
+          {
+            "titulo": "T7:E3 - Les Fleurs du Mal (No. 150)",
+            "sinopsis": "El equipo investiga un grupo secreto que organiza asesinatos como obras de arte macabras. Katarina se infiltra en la vida de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/3"
+            ]
+          },
+          {
+            "titulo": "T7:E4 - Kuwait",
+            "sinopsis": "Un flashback revela una misión pasada de Cooper en Kuwait y un secreto que ha guardado durante años, que ahora amenaza con salir a la luz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/4"
+            ]
+          },
+          {
+            "titulo": "T7:E5 - Norman Devane (No. 138)",
+            "sinopsis": "Un científico que experimenta con la manipulación genética se convierte en el próximo objetivo. Liz se acerca a Katarina, sin saber su verdadera identidad.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/5"
+            ]
+          },
+          {
+            "titulo": "T7:E6 - Dr. Lewis Powell (No. 130)",
+            "sinopsis": "El equipo persigue a un médico que realiza experimentos médicos poco éticos en pacientes. Red advierte a Liz sobre su nueva vecina.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/6"
+            ]
+          },
+          {
+            "titulo": "T7:E7 - Hannah Hayes (No. 125)",
+            "sinopsis": "Una mujer que secuestra niños para una figura misteriosa se convierte en el objetivo. Katarina intenta ganarse la confianza de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/7"
+            ]
+          },
+          {
+            "titulo": "T7:E8 - The Hawaladar (No. 162)",
+            "sinopsis": "Un banquero clandestino que facilita transacciones financieras ilegales es el próximo en la lista. Red sospecha de la nueva amiga de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/8"
+            ]
+          },
+          {
+            "titulo": "T7:E9 - Orion Relocation Services (No. 159)",
+            "sinopsis": "Una empresa que ayuda a los criminales a desaparecer y crear nuevas identidades es investigada. Liz descubre la verdad sobre Katarina.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/9"
+            ]
+          },
+          {
+            "titulo": "T7:E10 - Katarina Rostova (No. 3)",
+            "sinopsis": "Liz se enfrenta a Katarina, lo que lleva a una confrontación tensa. Red interviene, pero las consecuencias son devastadoras.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/10"
+            ]
+          },
+          {
+            "titulo": "T7:E11 - Victoria Fenberg (No. 137)",
+            "sinopsis": "El equipo investiga a una mujer que extorsiona a hombres ricos. Liz lucha por reconciliar sus sentimientos hacia Red y Katarina.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/11"
+            ]
+          },
+          {
+            "titulo": "T7:E12 - Cornelius Ruck (No. 155)",
+            "sinopsis": "Un coleccionista de objetos raros y peligrosos se convierte en el objetivo. Red intenta proteger a un viejo amigo de Katarina.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/12"
+            ]
+          },
+          {
+            "titulo": "T7:E13 - Newton Purcell (No. 144)",
+            "sinopsis": "Un hombre que cree que está siendo atacado por tecnología invisible se vuelve violento. Liz considera aliarse con Katarina.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/13"
+            ]
+          },
+          {
+            "titulo": "T7:E14 - Twamie Ullulaq (No. 126)",
+            "sinopsis": "El equipo investiga una serie de asesinatos relacionados con una comunidad remota de Alaska. Red busca respuestas sobre la Directiva Townsend.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/14"
+            ]
+          },
+          {
+            "titulo": "T7:E15 - Gordon Kemp (No. 158)",
+            "sinopsis": "Un empresario que explota a trabajadores inmigrantes es el próximo en la lista. Liz toma una decisión sobre su lealtad.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/15"
+            ]
+          },
+          {
+            "titulo": "T7:E16 - Nyle Hatcher (No. 149)",
+            "sinopsis": "Un criminal que utiliza cadáveres para contrabandear mercancías es investigado. La salud de Red se deteriora.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/16"
+            ]
+          },
+          {
+            "titulo": "T7:E17 - Brothers",
+            "sinopsis": "Un episodio centrado en Ressler mientras se enfrenta a su pasado y a su hermano, quien está involucrado en actividades ilegales.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/17"
+            ]
+          },
+          {
+            "titulo": "T7:E18 - Roy Cain (No. 150)",
+            "sinopsis": "El equipo persigue a un guardián de prisión corrupto que dirige una red criminal desde dentro. Liz se alía formalmente con Katarina contra Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/18"
+            ]
+          },
+          {
+            "titulo": "T7:E19 - The Kazanjian Brothers (No. 156/157)",
+            "sinopsis": "Liz y Katarina contratan a los hermanos Kazanjian para ayudar en su plan contra Red. La producción de este episodio se completó con animación debido a la pandemia de COVID-19.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/7/19"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "episodios": [
+          {
+            "titulo": "T8:E1 - Roanoke (No. 139)",
+            "sinopsis": "Liz trabaja con su madre, Katarina Rostova, para cazar a Reddington. Red dirige al equipo para encontrar a un criminal conocido como Roanoke.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/1"
+            ]
+          },
+          {
+            "titulo": "T8:E2 - Katarina Rostova (No. 3) Conclusion",
+            "sinopsis": "Red se enfrenta a Liz y Katarina en una confrontación final. Se revela la verdad sobre la identidad de esta Katarina.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/2"
+            ]
+          },
+          {
+            "titulo": "T8:E3 - 16 Ounces",
+            "sinopsis": "Con Katarina muerta, Liz se embarca en una misión de venganza contra Red, creyendo que él es N13, un legendario espía ruso.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/3"
+            ]
+          },
+          {
+            "titulo": "T8:E4 - Elizabeth Keen (No. 1)",
+            "sinopsis": "Liz se convierte oficialmente en una fugitiva y en la número uno de la lista negra, mientras el equipo intenta localizarla.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/4"
+            ]
+          },
+          {
+            "titulo": "T8:E5 - The Fribourg Confidence (No. 140)",
+            "sinopsis": "El equipo investiga una estafa de arte mientras Liz continúa su cruzada contra Red, buscando nuevos aliados.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/5"
+            ]
+          },
+          {
+            "titulo": "T8:E6 - The Wellstone Agency (No. 127)",
+            "sinopsis": "Red y Dembe intentan detener a Liz antes de que cometa un error irreparable. El equipo persigue a una agencia que organiza secuestros.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/6"
+            ]
+          },
+          {
+            "titulo": "T8:E7 - Chemical Mary (No. 143)",
+            "sinopsis": "Liz se asocia con una especialista en armas químicas para atacar los intereses de Red. Aram se enfrenta a una decisión difícil.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/7"
+            ]
+          },
+          {
+            "titulo": "T8:E8 - Ogden Greeley (No. 40)",
+            "sinopsis": "El equipo investiga a un hombre que filtra información clasificada. Liz intenta exponer los secretos de Red al mundo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/8"
+            ]
+          },
+          {
+            "titulo": "T8:E9 - The Cyranoid (No. 35)",
+            "sinopsis": "Liz utiliza a un \"Cyranoide\", una persona controlada a distancia, para infiltrarse en el equipo. Red busca una manera de proteger a Liz de sí misma.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/9"
+            ]
+          },
+          {
+            "titulo": "T8:E10 - Dr. Laken Perillos (No. 70)",
+            "sinopsis": "Red es capturado por un torturador sádico contratado por Neville Townsend. Liz debe decidir si ayudar a Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/10"
+            ]
+          },
+          {
+            "titulo": "T8:E11 - Captain Kidd (No. 96)",
+            "sinopsis": "El equipo investiga a un criminal que utiliza drones para cometer robos. Liz y Red forman una tregua temporal para enfrentarse a Townsend.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/11"
+            ]
+          },
+          {
+            "titulo": "T8:E12 - Rakitin (No. 28)",
+            "sinopsis": "Red intenta proteger a su contacto ruso, Rakitin, de ser expuesto. Cooper investiga la conexión de Red con N13.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/12"
+            ]
+          },
+          {
+            "titulo": "T8:E13 - Anne",
+            "sinopsis": "Red se retira a un pequeño pueblo y entabla una relación con una mujer llamada Anne, buscando un respiro de su vida criminal.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/13"
+            ]
+          },
+          {
+            "titulo": "T8:E14 - Misere",
+            "sinopsis": "Un episodio centrado en Liz, que muestra lo que hizo durante su tiempo como fugitiva y cómo formó su alianza con Neville Townsend.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/14"
+            ]
+          },
+          {
+            "titulo": "T8:E15 - The Russian Knot",
+            "sinopsis": "Liz y el equipo trabajan juntos para robar un dispositivo de cifrado que podría exponer los secretos de Red. La salud de Red sigue siendo una preocupación.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/15"
+            ]
+          },
+          {
+            "titulo": "T8:E16 - Nicholas Obenrader (No. 133)",
+            "sinopsis": "Red y Liz buscan a un hombre que puede tener información sobre N13 y la Directiva Townsend. Townsend se acerca a Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/16"
+            ]
+          },
+          {
+            "titulo": "T8:E17 - Ivan Stepanov (No. 5)",
+            "sinopsis": "Red intenta proteger a Ivan Stepanov, su contacto ruso más antiguo, de Liz y Townsend. Se revelan más secretos sobre el pasado de Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/17"
+            ]
+          },
+          {
+            "titulo": "T8:E18 - The Protean (No. 36)",
+            "sinopsis": "El equipo persigue a un asesino que puede cambiar de apariencia. Liz se enfrenta a una crisis de conciencia sobre sus acciones.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/18"
+            ]
+          },
+          {
+            "titulo": "T8:E19 - Balthazar 'Bino' Baker (No. 129)",
+            "sinopsis": "Red utiliza a un miembro de la lista negra para organizar una reunión con Townsend. Liz intenta evitar un derramamiento de sangre.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/19"
+            ]
+          },
+          {
+            "titulo": "T8:E20 - Godwin Page (No. 141)",
+            "sinopsis": "Townsend lanza un ataque total contra Red. Liz se encuentra atrapada en el fuego cruzado, obligada a tomar una decisión que cambiará su vida.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/20"
+            ]
+          },
+          {
+            "titulo": "T8:E21 - Nachalo",
+            "sinopsis": "Red lleva a Liz al centro de su operación en Letonia y finalmente comienza a contarle la verdad sobre su pasado y la creación de la Lista Negra.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/21"
+            ]
+          },
+          {
+            "titulo": "T8:E22 - Konets",
+            "sinopsis": "Mientras Red revela los secretos finales, Liz se prepara para tomar el control de su imperio. Sin embargo, un plan de Neville Townsend pone todo en peligro, llevando a un final trágico e impactante.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/8/22"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "episodios": [
+          {
+            "titulo": "T9:E1 - The Skinner (No. 45)",
+            "sinopsis": "Dos años después de la muerte de Liz, Red y el equipo se han disuelto. Sin embargo, una nueva amenaza los une de nuevo para encontrar a un criminal conocido como \"El Desollador\".",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/1"
+            ]
+          },
+          {
+            "titulo": "T9:E2 - The Skinner (No. 45) Conclusion",
+            "sinopsis": "Mientras el equipo se reagrupa, investigan quién pudo haber ordenado la muerte de Liz. Dembe tiene un nuevo papel en el FBI.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/2"
+            ]
+          },
+          {
+            "titulo": "T9:E3 - The SPK (No. 178)",
+            "sinopsis": "El equipo investiga un grupo de hackers que roba secretos corporativos. Red continúa su propia investigación sobre la muerte de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/3"
+            ]
+          },
+          {
+            "titulo": "T9:E4 - The Avenging Angel (No. 49)",
+            "sinopsis": "Una mujer que busca vengar a las víctimas de la injusticia se convierte en el próximo objetivo. Cooper recibe noticias preocupantes.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/4"
+            ]
+          },
+          {
+            "titulo": "T9:E5 - Benjamin T. Okara (No. 183)",
+            "sinopsis": "El equipo persigue a un científico que ha desarrollado un arma sónica peligrosa. La investigación de Red lo lleva a un antiguo socio.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/5"
+            ]
+          },
+          {
+            "titulo": "T9:E6 - Dr. Roberta Sand, Ph.D. (No. 153)",
+            "sinopsis": "Una terapeuta que ayuda a los criminales a lidiar con sus problemas se convierte en el objetivo. Park se enfrenta a su pasado.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/6"
+            ]
+          },
+          {
+            "titulo": "T9:E7 - Between Sleep and Awake",
+            "sinopsis": "Un episodio centrado en Ressler mientras lucha con su dolor y adicción después de la muerte de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/7"
+            ]
+          },
+          {
+            "titulo": "T9:E8 - Dr. Razmik Maier (No. 168)",
+            "sinopsis": "El equipo investiga a un médico que realiza cirugías experimentales. La investigación de Cooper sobre su propio chantaje se intensifica.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/8"
+            ]
+          },
+          {
+            "titulo": "T9:E9 - Boukman Baptiste (No. 164)",
+            "sinopsis": "Un antiguo socio de Dembe busca venganza, creyendo que Dembe es responsable de la muerte de su familia. Red intenta proteger a Dembe.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/9"
+            ]
+          },
+          {
+            "titulo": "T9:E10 - Arcane Wireless (No. 154)",
+            "sinopsis": "El equipo investiga una red de comunicaciones secreta utilizada por criminales. Red se acerca a la verdad sobre quién estuvo detrás de la muerte de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/10"
+            ]
+          },
+          {
+            "titulo": "T9:E11 - The Conglomerate (No. 142)",
+            "sinopsis": "Un grupo de criminales que trabajan juntos para cometer grandes atracos se convierte en el objetivo. La situación de Cooper se vuelve más precaria.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/11"
+            ]
+          },
+          {
+            "titulo": "T9:E12 - The Chairman (No. 171)",
+            "sinopsis": "Red investiga al \"Presidente\", una figura misteriosa que parece estar tirando de los hilos detrás de la muerte de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/12"
+            ]
+          },
+          {
+            "titulo": "T9:E13 - Genuine Models, Inc. (No. 176)",
+            "sinopsis": "El equipo persigue una agencia de modelos que es una fachada para una operación de trata de personas. Aram toma el mando temporal del equipo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/13"
+            ]
+          },
+          {
+            "titulo": "T9:E14 - Eva Mason (No. 181)",
+            "sinopsis": "Una mujer que ayuda a los criminales a escapar de la justicia es el próximo objetivo. Red hace un descubrimiento impactante sobre la muerte de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/14"
+            ]
+          },
+          {
+            "titulo": "T9:E15 - Andrew Kennison (No. 185)",
+            "sinopsis": "El equipo busca a un ingeniero que puede tener información crucial sobre el chantaje de Cooper y la muerte de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/15"
+            ]
+          },
+          {
+            "titulo": "T9:E16 - Helen Maghi (No. 172)",
+            "sinopsis": "Una asesina profesional con un método único es investigada. Park se enfrenta a las consecuencias de sus acciones pasadas.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/16"
+            ]
+          },
+          {
+            "titulo": "T9:E17 - El Conejo (No. 177)",
+            "sinopsis": "Red persigue a un narcotraficante conocido como \"El Conejo\", creyendo que tiene una conexión con la muerte de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/17"
+            ]
+          },
+          {
+            "titulo": "T9:E18 - Laszlo Jankowics (No. 180)",
+            "sinopsis": "El equipo busca al hijo de un antiguo socio de Red, quien puede tener la clave para descubrir al verdadero culpable de la muerte de Liz.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/18"
+            ]
+          },
+          {
+            "titulo": "T9:E19 - The Bear Mask",
+            "sinopsis": "Red y el equipo se acercan a la verdad sobre quién ordenó la muerte de Liz, lo que los lleva a una confrontación peligrosa.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/19"
+            ]
+          },
+          {
+            "titulo": "T9:E20 - Caelum Bank (No. 169)",
+            "sinopsis": "El equipo investiga un banco clandestino que financia actividades ilegales. Se revela el verdadero cerebro detrás del chantaje de Cooper.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/20"
+            ]
+          },
+          {
+            "titulo": "T9:E21 - Marvin Gerard (No. 80) Conclusion, Part 1",
+            "sinopsis": "Red finalmente se enfrenta a Marvin Gerard, su abogado y confidente, quien se revela como el arquitecto de la caída de Liz y el chantaje de Cooper.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/21"
+            ]
+          },
+          {
+            "titulo": "T9:E22 - Marvin Gerard (No. 80) Conclusion, Part 2",
+            "sinopsis": "La confrontación entre Red y Marvin llega a un clímax mortal. Las decisiones de Red tienen consecuencias imprevistas para el futuro del equipo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/9/22"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "episodios": [
+          {
+            "titulo": "T10:E1 - The Night Owl",
+            "sinopsis": "Seis meses después de la muerte de Marvin Gerard, Red resurge en Manhattan en medio de una explosión. El equipo investiga si Wujing, un antiguo miembro de la lista negra, está detrás de ello.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/1"
+            ]
+          },
+          {
+            "titulo": "T10:E2 - The Whaler (No. 165)",
+            "sinopsis": "El equipo investiga a \"La Ballenera\", una mujer que organiza atracos de alto riesgo. Wujing comienza a reclutar a antiguos miembros de la lista negra para cazar a Red.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/2"
+            ]
+          },
+          {
+            "titulo": "T10:E3 - The Four Guns (No. 199)",
+            "sinopsis": "Un grupo de asesinos conocidos como \"Las Cuatro Pistolas\" es contratado por Wujing. Siya Malik, la hija de Meera Malik, se une al equipo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/3"
+            ]
+          },
+          {
+            "titulo": "T10:E4 - The Hyena (No. 200)",
+            "sinopsis": "El equipo persigue a \"La Hiena\", un criminal que se aprovecha de las tragedias. La investigación de Wujing sobre Red se intensifica.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/4"
+            ]
+          },
+          {
+            "titulo": "T10:E5 - The Dockery Affair (No. 201)",
+            "sinopsis": "Un caso del pasado de Dembe resurge, poniendo en peligro su nueva vida. Red intenta proteger a Dembe de Wujing.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/5"
+            ]
+          },
+          {
+            "titulo": "T10:E6 - Dr. Laken Perillos, Part 2 (No. 70)",
+            "sinopsis": "Wujing recluta a la Dra. Laken Perillos para torturar a un asociado de Red. El equipo corre para detenerlos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/6"
+            ]
+          },
+          {
+            "titulo": "T10:E7 - The Freelancer, Part 2 (No. 145)",
+            "sinopsis": "El Freelancer, el primer miembro de la lista negra capturado por el equipo, es liberado por Wujing. Red debe anticipar su próximo movimiento.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/7"
+            ]
+          },
+          {
+            "titulo": "T10:E8 - The Troll Farmer, Part 2 (No. 38)",
+            "sinopsis": "Wujing utiliza al Granjero de Trolls para difundir desinformación y desacreditar al equipo del FBI. Siya investiga la muerte de su madre.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/8"
+            ]
+          },
+          {
+            "titulo": "T10:E9 - The Troll Farmer, Part 3 (No. 38)",
+            "sinopsis": "La confrontación final con Wujing y sus asociados llega a un clímax explosivo. Red toma una decisión drástica para proteger al equipo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/9"
+            ]
+          },
+          {
+            "titulo": "T10:E10 - The Postman (No. 173)",
+            "sinopsis": "El equipo investiga a un criminal que utiliza la red postal para transportar mercancías ilegales. Red comienza a atar cabos sueltos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/10"
+            ]
+          },
+          {
+            "titulo": "T10:E11 - The Man in the Hat (No. 174)",
+            "sinopsis": "Un misterioso hombre con un sombrero parece estar siguiendo los movimientos de Red. El Congresista Hudson inicia una investigación sobre el equipo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/11"
+            ]
+          },
+          {
+            "titulo": "T10:E12 - Dr. Michael Abani (No. 198)",
+            "sinopsis": "El equipo intenta rescatar a un médico secuestrado por un grupo terrorista. La investigación de Hudson se acerca al equipo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/12"
+            ]
+          },
+          {
+            "titulo": "T10:E13 - The Sicilian Error of Color (No. 197)",
+            "sinopsis": "Red ayuda a un viejo amigo a resolver una disputa con la mafia. Cooper intenta detener la investigación de Hudson.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/13"
+            ]
+          },
+          {
+            "titulo": "T10:E14 - The Nowhere Bride (No. 192)",
+            "sinopsis": "El equipo investiga una serie de desapariciones de novias en el día de su boda. Red toma medidas para proteger su legado.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/14"
+            ]
+          },
+          {
+            "titulo": "T10:E15 - The Hat Trick (No. 193)",
+            "sinopsis": "Red realiza tres actos aparentemente no relacionados que confunden al equipo. Hudson encuentra pruebas incriminatorias contra el equipo.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/15"
+            ]
+          },
+          {
+            "titulo": "T10:E16 - Blair Foster (No. 39)",
+            "sinopsis": "Una abogada despiadada que representa a criminales de alto perfil se convierte en el objetivo. Red se prepara para su movimiento final.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/16"
+            ]
+          },
+          {
+            "titulo": "T10:E17 - The Morgana Logistics Corporation (No. 202)",
+            "sinopsis": "El equipo investiga una empresa de logística que es una fachada para una operación de contrabando de armas. Red comienza a despedirse.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/17"
+            ]
+          },
+          {
+            "titulo": "T10:E18 - Wormwood (No. 203)",
+            "sinopsis": "Un asesino que utiliza venenos raros es el próximo en la lista. La investigación de Hudson obliga al equipo a tomar decisiones difíciles.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/18"
+            ]
+          },
+          {
+            "titulo": "T10:E19 - Room 417",
+            "sinopsis": "Red revela la existencia de una sala secreta que contiene información sobre todos los casos en los que el equipo ha trabajado. Hudson se acerca.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/19"
+            ]
+          },
+          {
+            "titulo": "T10:E20 - Arthur Hudson",
+            "sinopsis": "El Congresista Hudson presenta sus hallazgos, poniendo en peligro al equipo y a Red. Red toma medidas drásticas para protegerlos.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/20"
+            ]
+          },
+          {
+            "titulo": "T10:E21 - Raymond Reddington, Part 1 (No. 00)",
+            "sinopsis": "Con el FBI persiguiéndolo, Red se convierte en un fugitivo una vez más. El equipo debe decidir dónde se encuentra su lealtad.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/21"
+            ]
+          },
+          {
+            "titulo": "T10:E22 - Raymond Reddington, Part 2 (No. 00) Good Night",
+            "sinopsis": "En el final de la serie, Red se enfrenta a su destino en España, mientras el equipo reflexiona sobre su legado y el impacto que tuvo en sus vidas.",
+            "iframes": [
+              "https://vidsrc.icu/embed/tv/tt2741602/10/22"
+            ]
+          }
+        ]
+      }
+    ]
   }
+
 ]
