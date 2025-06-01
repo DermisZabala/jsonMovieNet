@@ -2290,183 +2290,27 @@
     ]
   },
   {
-    "id": "pelicula_049",
-    "titulo": "Mission: Impossible - Dead Reckoning Part Two",
+    "id": "pelicula_188",
+    "titulo": "Mission: Impossible - The Final Reckoning",
     "sinopsis": "Ethan Hunt and his IMF team continue their most dangerous mission yet, facing an all-powerful AI enemy known as the Entity, with the fate of the world and their own lives hanging in the balance.",
-    "elenco": ["To be announced"],
+    "elenco": ["Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Vanessa Kirby, Pom Klementieff, Henry Czerny."],
     "anio": 2025,
     "genero": ["Action", "Adventure", "Thriller"],
-    "calificacion": 0.0,
+    "calificacion": 7.5,
     "iframes": [
       "https://vidsrc.icu/embed/movie/tt9603208"
     ]
   },
   {
-    "id": "pelicula_050",
-    "titulo": "Captain America: Brave New World",
-    "sinopsis": "Sam Wilson grapples with the responsibilities of his new role as Captain America, facing global threats that test his leadership and moral compass in a rapidly changing world.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Action", "Superhero", "Sci-Fi"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt13153390"
-    ]
-  },
-  {
-    "id": "pelicula_051",
-    "titulo": "Snow White",
-    "sinopsis": "A live-action reimagining of the classic fairytale about a beautiful young princess, the evil queen who is jealous of her, and the seven dwarfs who help her.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Fantasy", "Musical", "Family"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt4371834"
-    ]
-  },
-  {
-    "id": "pelicula_052",
-    "titulo": "Fantastic Four",
-    "sinopsis": "Marvel's first family, a group of astronauts who gain extraordinary powers after cosmic radiation exposure, make their debut in the Marvel Cinematic Universe, facing new cosmic threats.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Action", "Sci-Fi", "Superhero"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt10654938"
-    ]
-  },
-  {
-    "id": "pelicula_053",
-    "titulo": "Avatar 3",
-    "sinopsis": "Jake Sully and Neytiri continue their fight to protect their family and the planet Pandora from new and returning human threats, exploring more of the vibrant alien world.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Sci-Fi", "Action", "Adventure"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt1757678"
-    ]
-  },
-  {
-    "id": "pelicula_054",
-    "titulo": "Thunderbolts",
-    "sinopsis": "A team of anti-heroes and reformed villains are recruited by the government for high-stakes missions, forcing them to work together despite their conflicting personalities and dubious pasts.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Action", "Superhero", "Adventure"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt20970010"
-    ]
-  },
-  {
-    "id": "pelicula_055",
-    "titulo": "Blade",
-    "sinopsis": "The iconic daywalker, a half-human, half-vampire hybrid, dedicates his existence to hunting down vampires and protecting humanity from the supernatural underworld within the MCU.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Action", "Horror", "Superhero"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt10721178"
-    ]
-  },
-  {
-    "id": "pelicula_056",
-    "titulo": "Elio",
-    "sinopsis": "An 11-year-old boy named Elio, who is struggling to fit in, accidentally becomes Earth's intergalactic ambassador after being transported across the galaxy and mistaken for Earth's leader.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Animation", "Sci-Fi", "Family", "Adventure"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt20969916"
-    ]
-  },
-  {
-    "id": "pelicula_057",
+    "id": "pelicula_189",
     "titulo": "Minecraft",
     "sinopsis": "A live-action adaptation of the immensely popular sandbox video game, bringing the blocky world and its creative possibilities to life on the big screen in a new adventure.",
-    "elenco": ["To be announced"],
+    "elenco": ["Jack Black, Jason Momoa, Danielle Brooks, Emma Myers, Sebastian Eugene Hansen, Jennifer Coolidge, Kate McKinnon, Jemaine Clement."],
     "anio": 2025,
     "genero": ["Adventure", "Fantasy", "Family"],
-    "calificacion": 0.0,
+    "calificacion": 5.7,
     "iframes": [
       "https://vidsrc.icu/embed/movie/tt3566834"
-    ]
-  },
-  {
-    "id": "pelicula_058",
-    "titulo": "How to Train Your Dragon",
-    "sinopsis": "A live-action retelling of the beloved animated story, following the young Viking Hiccup who befriends a rare Night Fury dragon, Toothless, changing their world forever.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Fantasy", "Adventure", "Family"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt26203330"
-    ]
-  },
-  {
-    "id": "pelicula_059",
-    "titulo": "Wicked: Part Two",
-    "sinopsis": "The second installment of the two-part cinematic adaptation of the hit Broadway musical, continuing the untold story of Elphaba, the Wicked Witch of the West, and Glinda, the Good Witch.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Musical", "Fantasy", "Drama"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt14606998"
-    ]
-  },
-  {
-    "id": "pelicula_060",
-    "titulo": "The Batman Part II",
-    "sinopsis": "Bruce Wayne continues his crusade as Batman, navigating the corrupt landscape of Gotham City and confronting new, formidable adversaries that test his limits and resolve.",
-    "elenco": ["To be announced"],
-    "anio": 2026,
-    "genero": ["Action", "Crime", "Drama"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt27400964"
-    ]
-  },
-  {
-    "id": "pelicula_061",
-    "titulo": "Superman",
-    "sinopsis": "A new cinematic interpretation of the iconic hero, exploring Superman's journey as he reconciles his Kryptonian heritage with his human upbringing as Clark Kent in Smallville, Kansas, while establishing himself as a beacon of hope for Metropolis and the world.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Action", "Sci-Fi", "Superhero"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt23214276"
-    ]
-  },
-  {
-    "id": "pelicula_062",
-    "titulo": "The Bride!",
-    "sinopsis": "A bold reimagining of the classic 'Bride of Frankenstein' tale, set in 1930s Chicago, where a lonely scientist attempts to create a companion for his monstrous creation, leading to unforeseen and horrifying consequences.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Horror", "Sci-Fi", "Drama"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt27989086"
-    ]
-  },
-  {
-    "id": "pelicula_063",
-    "titulo": "John Wick Presents: Ballerina",
-    "sinopsis": "Set in the John Wick universe, a young female assassin, trained in the traditions of the Ruska Roma, seeks revenge against the people who murdered her family, uncovering dark secrets along the way.",
-    "elenco": ["To be announced"],
-    "anio": 2025,
-    "genero": ["Action", "Thriller"],
-    "calificacion": 0.0,
-    "iframes": [
-      "https://vidsrc.icu/embed/movie/tt10139030"
     ]
   }
 ]
