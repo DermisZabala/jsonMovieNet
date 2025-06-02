@@ -2489,6 +2489,7 @@
     "elenco": ["Oscar Isaac", "Mia Goth", "Christoph Waltz", "Jacob Elordi", "Felix Kammerer"],
     "anio": 2025,
     "genero": ["Drama", "Horror", "Sci-Fi"],
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/mtiNiQy0lkIqDjUsB70aHA1RxUR.jpg",
     "calificacion": 0.0,
     "iframes": [
       "https://vidsrc.icu/embed/movie/tt1312221"
