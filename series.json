@@ -3526,7 +3526,7 @@
           },
           {
             "titulo": "T6:E22 - Help Me",
-            "sinopsis": "This is often considered part of a double-length episode, or the second distinct hour. IMDb lists S6 as having 22 episodes, with 'Help Me' as the finale. Given the URL structure and the ambiguity of 'Broken' also being double-length and sometimes counted as one or two, I'll list 22 for 'Help Me' if it represents the final episode of the season distinct from a 21-episode count. IMDb's S6E22 is actually 'Help Me'. The above S6E21 is actually titled 'The Fix' by some sources, or more frequently, the actual S6E21 IS 'Help Me', making S6 21 episodes long where episode 1 ('Broken') is 2 hours. Let me verify the S6 count and titles. IMDb lists 'Broken' as S6E1 (runtime 1h 26min) and 'Help Me' as S6E22 (runtime 44min). Therefore, S6 has 22 entries on IMDb. S6E21 'The Fix' is not a House MD episode. The episode list from IMDb goes from S6E20 'Baggage' to S6E21, which is indeed 'Help Me'. There are only 21 episodes in S6 if 'Broken' is one episode, but if vidsrc uses IMDb numbers and there are indeed 22 slots (like for 'Broken' parts 1 and 2 having distinct episode numbers for embedding), it's 22. However, IMDb lists 'Broken' as S06E01. And 'Help Me' is S06E21, if using the TMDB list for example. Many lists say 21 episodes. Let's go with IMDb's direct episode list number of unique IDs per season. IMDb says 22 episodes for season 6. S6E1 'Broken', S6E2 'Epic Fail'... S6E21 'Lockdown', S6E22 'Help Me'. So 22 episodes. The previous entry S6E21 'Help Me' was a mistake. S6E21 must be 'Lockdown' if S6E22 is 'Help Me'. Let me recheck. IMDb Season 6: E1 Broken, E2 Epic Fail ... E16 Lockdown ... E20 Baggage, E21 'The Choice' (rechecking my notes, this seems more correct), and then E22 'Help Me'. So, 22 episodes. I'll correct E19, E20, E21, E22.",
+            "sinopsis": "A crane has collapsed, leaving many people injured. House, Cuddy, and members of the fire department will try to save the victims of the accident while the team tries to diagnose the crane driver.",
             "iframes": [
               "https://vidsrc.xyz/embed/tv?imdb=tt0412142&season=6&episode=22",
               "https://vidsrc.cc/v2/embed/tv/tt0412142/6/22?autoPlay=false",
@@ -3953,7 +3953,7 @@
     ]
   },  
   {
-    "id": "tt1196946",
+    "id": "serie_004",
     "titulo": "The Mentalist",
     "sinopsis": "A famous \"psychic\" outs himself as a fake, and starts working as a consultant for the California Bureau of Investigation so he can find \"Red John\", the madman who killed his wife and daughter.",
     "elenco": [
@@ -7500,5 +7500,2718 @@
         ]
       }
     ]
-  }  
+  },
+  {
+    "id": "serie_015",
+    "titulo": "Echo",
+    "sinopsis": "Maya Lopez must face her past, reconnect with her Native American roots and embrace the meaning of family and community if she ever hopes to move forward.",
+    "elenco": [
+      "Alaqua Cox",
+      "Chaske Spencer",
+      "Tantoo Cardinal",
+      "Devery Jacobs",
+      "Cody Lightning",
+      "Graham Greene",
+      "Vincent D'Onofrio"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "calificacion": 6.0,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Chafa",
+            "sinopsis": "Haunted by the Tracksuit Mafia, Maya Lopez returns to her Oklahoma hometown, where she must come to terms with her past, reconnect with her Native American roots and embrace her family and community.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt13966962&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt13966962/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt13966962/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Lowak",
+            "sinopsis": "Maya uses her new found powers to fight the Tracksuit Mafia and comes to terms with her past.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt13966962&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt13966962/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt13966962/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Tuklo",
+            "sinopsis": "Maya turns to her family for help as she tries to take down Kingpin's empire.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt13966962&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt13966962/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt13966962/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Taloa",
+            "sinopsis": "Maya finds herself at a crossroads and must choose what path she will take to save her family.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt13966962&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt13966962/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt13966962/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Maya",
+            "sinopsis": "Maya must face her past and embrace her Choctaw history to save her family from Kingpin.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt13966962&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt13966962/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt13966962/1/5"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_016",
+    "titulo": "Hazbin Hotel",
+    "sinopsis": "Charlie Morningstar, the Princess of Hell, pursues her seemingly impossible goal of rehabilitating demons to peacefully reduce overpopulation in her kingdom. She opens a hotel hoping that patrons will be \"checking out\" into Heaven.",
+    "elenco": [
+      "Erika Henningsen",
+      "Stephanie Beatriz",
+      "Blake Roman",
+      "Amir Talai",
+      "Keith David",
+      "Alex Brightman"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Animation",
+      "Comedy",
+      "Musical",
+      "Fantasy"
+    ],
+    "calificacion": 8.0,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Overture",
+            "sinopsis": "Hell is forever, but Charlie Morningstar, the princess of Hell, is determined to make her plan for a Hell \"rehabilitation hotel\" a reality. With the help of her partner Vaggie and their first test subject, adult film star Angel Dust, she might just make it happen.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt7216636&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt7216636/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt7216636/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Radio Killed the Video Star",
+            "sinopsis": "With a new hotel resident, Charlie and Vaggie are hopeful the hotel is on an upward trend. Unfortunately, a new arrival annihilates those hopes and brings an entirely new set of problems.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt7216636&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt7216636/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt7216636/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Scrambled Eggs",
+            "sinopsis": "While the hotel residents and Charlie try to make a commercial to promote the hotel, Vaggie enlists the help of the Vees to do so.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt7216636&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt7216636/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt7216636/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Masquerade",
+            "sinopsis": "Angel Dust's erratic behavior has Charlie worried. She tries to help him, but her efforts may have unforeseen consequences for Angel and the hotel.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt7216636&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt7216636/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt7216636/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Dad Beat Dad",
+            "sinopsis": "Charlie is struggling to manage the hotel and her new responsibilities. She reaches out to the only man she thinks might understand: her father, Lucifer.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt7216636&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt7216636/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt7216636/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Welcome to Heaven",
+            "sinopsis": "Charlie and Vaggie make their way to Heaven to speak with Adam's manager.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt7216636&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt7216636/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt7216636/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - Hello Rosie",
+            "sinopsis": "With Heaven's forces at their doorstep, Charlie must rally her people and prepare for battle.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt7216636&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt7216636/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt7216636/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - The Show Must Go On",
+            "sinopsis": "The yearly extermination begins and the Hazbin Hotel residents must fight for their lives.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt7216636&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt7216636/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt7216636/1/8"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_017",
+    "titulo": "Mysteries from Above",
+    "sinopsis": "The series explores remote, hard-to-reach locations as drones explore strange geological occurrences, unique man-made structures, curious creatures, and lost civilizations, revealing fascinating insights and never-before-seen footage. Each episode follows unique storylines from aerial vantage points, with in-depth analysis and narration from world-leading experts.",
+    "elenco": [
+      "Natasha Billson",
+      "Todd Schick",
+      "Torri Yates-Orr",
+      "Karen Bellinger"
+    ],
+    "anio": 2022,
+    "genero": [
+      "Documentary"
+    ],
+    "calificacion": 5.8,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Accidental Discoveries",
+            "sinopsis": "A vanished Neolithic structure in an Irish farmer's field, an ancient oasis in the remote reaches of a Chinese desert, a centuries-old buried treasure in the UK, and a dreaded predator in the Pacific Ocean are discovered by drones accidentally.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Military Mysteries",
+            "sinopsis": "A Nazi weapon designed to turn the tides of WWII in Northern France; a secret Russian military tower in the shadow of the Chernobyl disaster; a forgotten Australian tunnel rumored to hide a nuclear lab; something shocking buried under Alcatraz.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - In Plain Sight",
+            "sinopsis": "Over a hundred massive concrete arrows scattered across America; a giant chalk figure with an oversized phallus on an English hillside; a mysterious hole in the middle of a lake in Southern California.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Submerged",
+            "sinopsis": "A Turkish drought reveals a long-lost ancient Basilica and its secrets; a church spire punches through the surface of a toxic sludge in Romania; the hull of a massive ship in the North Sea answers decades-old questions.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Ancient Civilizations",
+            "sinopsis": "Nubian pyramids reveal the rise of female power in Ancient Kush; a shocking satellite image uncovers secrets of an ancient ancestral Puebloan site in New Mexico.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Unreachable Places",
+            "sinopsis": "Strange markings in the remote region of Northern Finland; drones find a Manhattan-sized mystery in the depths of a Vietnamese cave; secrets are no longer hidden in the Antarctic; a lost sky-high world in Mozambique gets a visit from above.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - Ghost Towns",
+            "sinopsis": "Drones reveal what's left of Henry Ford's American suburb in the Brazilian jungle; clues to what killed a once-vibrant Pennsylvania mining town; an aerial glimpse of New York's forgotten ghost town; an Italian Renaissance reduced to dust.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - Desert Mysteries",
+            "sinopsis": "From above, a constant inferno in Turkmenistan, mysterious circles in the Namibian desert, slithering stones across Death Valley, and the secret of Utah's electric blue ponds.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/1/8"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "titulo": "T2:E1 - Out of Place",
+            "sinopsis": "Examines strange aquatic mammals populating a river in Colombia, a ship marooned in a sea of sand along Namibia's notorious Skeleton Coast, a Boeing 727 jetliner hidden in a pine forest, and an unusual pattern found in the Nevada desert.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=2&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/2/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/2/1"
+            ]
+          },
+          {
+            "titulo": "T2:E2 - Disaster from Above",
+            "sinopsis": "An enormous fiery vortex is seen in Redding, California; the island nation of Malta loses a natural treasure; a mysterious radioactive hotspot is discovered near Chernobyl; an unknown force lays waste to a mountain forest in the Italian Alps.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=2&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/2/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/2/2"
+            ]
+          },
+          {
+            "titulo": "T2:E3 - Expect the Unexpected",
+            "sinopsis": "Showcases a long-forgotten network of Native American earthworks, a baffling battlefield mystery in Belgium, a mysterious blood red lake on a remote Greek island, and an eerie pink glow emanating from the middle of the Pacific Ocean.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=2&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/2/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/2/3"
+            ]
+          },
+          {
+            "titulo": "T2:E4 - Ocean Mysteries",
+            "sinopsis": "Explores an underwater find from a violent past, a mysterious concrete ghost island, and never-before-seen tracks along the seabed.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=2&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/2/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/2/4"
+            ]
+          },
+          {
+            "titulo": "T2:E5 - Behind the Myths",
+            "sinopsis": "Examines an island covered in polar bears, bizarre twin craters in Greece, a supervolcano hidden under Yellowstone Park, and an ocean formation that's eerily similar to Atlantis.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=2&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/2/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/2/5"
+            ]
+          },
+          {
+            "titulo": "T2:E6 - Giants",
+            "sinopsis": "A journey among colossal wonders scattered across the Earth's surface, including an ancient reptile skeleton, a massive head carving and a giant South African footprint.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=2&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/2/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/2/6"
+            ]
+          },
+          {
+            "titulo": "T2:E7 - Mysterious Monuments",
+            "sinopsis": "The secrets of ancient monuments are revealed from above. A massive stone tower in Scotland, a temple carved into the side of a cliff in Jordan, and a colossal stone sculpture in Mexico.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=2&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/2/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/2/7"
+            ]
+          },
+          {
+            "titulo": "T2:E8 - A Whole Lot of Holes",
+            "sinopsis": "Mysterious formations around the world are explored, including massive sinkholes, strange perfectly round lakes, and an enormous man-made trench.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=2&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/2/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/2/8"
+            ]
+          },
+          {
+            "titulo": "T2:E9 - Far from Above",
+            "sinopsis": "This episode explores the most distant and inaccessible places on Earth, uncovering secrets in Siberia, the Sahara Desert, and deep in the Amazon rainforest.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=2&episode=9",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/2/9?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/2/9"
+            ]
+          },
+          {
+            "titulo": "T2:E10 - Ancient Civilizations",
+            "sinopsis": "From hidden cities to forgotten fortresses, drones reveal astonishing insights into the lives of ancient people, including a massive complex in Mexico and an underwater city.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=2&episode=10",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/2/10?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/2/10"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "episodios": [
+          {
+            "titulo": "T3:E1 - Out of this World",
+            "sinopsis": "We zoom in on some other-worldly sights, including a giant glacier on Mars, the milky seas off the coast of Java, a huge hexagon floating above Saturn, and a doughnut-shaped lake in the Canadian province of Saskatchewan.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=3&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/3/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/3/1"
+            ]
+          },
+          {
+            "titulo": "T3:E2 - The Deserted",
+            "sinopsis": "Explores strongholds abandoned by their architects, a lost city in the Amazon jungle, and more.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=3&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/3/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/3/2"
+            ]
+          },
+          {
+            "titulo": "T3:E3 - Mysteries of the Misplaced",
+            "sinopsis": "We look at landmarks in places where they shouldn't be, including an imperial pyramid in the Netherlands, a massive metal sphere in remote Russia, a lion-shaped carving on an English hillside, and a bare swathe cut through an Austrian forest.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=3&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/3/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/3/3"
+            ]
+          },
+          {
+            "titulo": "T3:E4 - Ancient Mysteries",
+            "sinopsis": "We examine strange relics forgotten by time: a perturbing circle of stone in the Golan Heights, a mountain of headless statues in Turkey, a castle left to crumble in the Saudi Arabian desert and a time-worn secret in the wilds of Peru.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=3&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/3/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/3/4"
+            ]
+          },
+          {
+            "titulo": "T3:E5 - Extraordinarily Out of the Ordinary",
+            "sinopsis": "We look at objects that make no sense: a spinning island in an Argentinian marsh, a colossal triangle stuck in the Arizona desert, mysterious multicoloured pools across northern Ethiopia and a huge human figure hidden in the Australian outback.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=3&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/3/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/3/5"
+            ]
+          },
+          {
+            "titulo": "T3:E6 - Deep Blue",
+            "sinopsis": "We dive deep into watery enigmas: a sunken Italian city, a unique underwater cemetery in the Florida Keys, a yellow brick road to nowhere in the depths of the South Pacific and puzzling rocky constructions off the coast of Australia.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=3&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/3/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/3/6"
+            ]
+          },
+          {
+            "titulo": "T3:E7 - Perplexing Patterns",
+            "sinopsis": "We check out strange psychedelic swirls in the Utah wastelands, a bizarre configuration of circles in the Sahara, hidden lines with the help of a drone and a remote polka-dot lake in Canada.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=3&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/3/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/3/7"
+            ]
+          },
+          {
+            "titulo": "T3:E8 - Great Cities",
+            "sinopsis": "We tower over incredible metropolises, discovering an important urban centre that is sinking towards oblivion, sprawling ruins buried under Saharan sands, the modern secret of an ancient fortress and a ghost town on the edge of the Gobi Desert.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt19226058&season=3&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt19226058/3/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt19226058/3/8"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_018",
+    "titulo": "Monster High",
+    "sinopsis": "Follows Clawdeen Wolf, Draculaura, Frankie Stein and Deuce Gorgon as they discover who they are, embrace their differences, and learn to be fierce and fearless at the one place they all belong: Monster High.",
+    "elenco": [
+      "Gabrielle Nevaeh Green",
+      "Courtney Lin",
+      "Iris Menas"
+    ],
+    "anio": 2022,
+    "genero": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "calificacion": 6.1,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - The Monstering",
+            "sinopsis": "New student Clawdeen Wolf arrives at Monster High with a big secret and a desire to find her place, quickly befriending Frankie Stein and Draculaura, but must hide her human half.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Food Fright",
+            "sinopsis": "To win the scream-etition, Clawdeen runs for student body president, but rival Toralei's interference forces Clawdeen to find a way to win authentically.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Unfinished Riffness",
+            "sinopsis": "Frankie, struggling with their new body and powers, accidentally unleashes a monster that feeds on fear, forcing them to embrace their imperfections to save the school.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Case of the Moondays",
+            "sinopsis": "Clawdeen's werewolf instincts cause strange transformations, leading to a challenging 'Moondays' test that she must pass to control her powers and protect her secret.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Portrait of a Monster",
+            "sinopsis": "Draculaura, pressured to win the Monster High art competition, struggles to find her artistic voice until she learns to embrace her unique vampire-witch perspective.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Witch Hitch",
+            "sinopsis": "A new witch student's arrival makes Clawdeen suspicious, prompting an investigation to uncover the truth before a spell affects the entire school.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - Part of the Pack",
+            "sinopsis": "Clawdeen is invited to join the werewolf pack, forcing her to choose between embracing her monster heritage fully or maintaining her life at Monster High with her diverse friends.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - That Thing You Deuce",
+            "sinopsis": "Deuce feels pressured by his family's expectations and struggles to find his own path, learning to embrace his unique talents beyond being just a Gorgon.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/8"
+            ]
+          },
+          {
+            "titulo": "T1:E9 - Horror-Scope",
+            "sinopsis": "Draculaura, Clawdeen, and Frankie create new horoscares for the monster student body when the head of the horoscare committee quits.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=9",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/9?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/9"
+            ]
+          },
+          {
+            "titulo": "T1:E10 - Paw-zzle Pieces",
+            "sinopsis": "Frankie, still figuring out their place at Monster High, finds a mysterious puzzle box that promises to reveal their true purpose.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=10",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/10?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/10"
+            ]
+          },
+          {
+            "titulo": "T1:E11 - Nightmare Nightmore",
+            "sinopsis": "On Nightmare Night, the ghouls' scary stories are interrupted by a real monster, forcing them to confront their fears.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=11",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/11?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/11"
+            ]
+          },
+          {
+            "titulo": "T1:E12 - Out of Step",
+            "sinopsis": "Lagoona, feeling out of place, tries to change herself to fit in, but learns that her uniqueness is her strength.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=12",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/12?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/12"
+            ]
+          },
+          {
+            "titulo": "T1:E13 - Pyramid Scheme",
+            "sinopsis": "Cleo, under pressure to uphold her family's legacy, enters the school's fashion competition, learning about true style and friendship.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=13",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/13?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/13"
+            ]
+          },
+          {
+            "titulo": "T1:E14 - What's Up, Watzie?",
+            "sinopsis": "When Ghoulia's beloved pet poodle Watzie goes missing, she uses her intelligence and friends' help to solve the mystery.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=14",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/14?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/14"
+            ]
+          },
+          {
+            "titulo": "T1:E15 - So Familiar",
+            "sinopsis": "Draculaura eagerly awaits the arrival of her witch familiar, but the magical creature she receives is not what she expected.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=15",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/15?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/15"
+            ]
+          },
+          {
+            "titulo": "T1:E16 - Crushed",
+            "sinopsis": "Frankie develops a crush and navigates the electrifying, and sometimes awkward, feelings of first love at Monster High.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=16",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/16?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/16"
+            ]
+          },
+          {
+            "titulo": "T1:E17 - Over Bro-tective",
+            "sinopsis": "Clawdeen’s older brother Clawd visits Monster High, leading to sibling rivalry and Clawdeen’s efforts to prove her independence.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=17",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/17?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/17"
+            ]
+          },
+          {
+            "titulo": "T1:E18 - Flaunt Your Skeleton",
+            "sinopsis": "Skelita Calaveras arrives at Monster High and teaches the ghouls about Dia de Muertos and celebrating heritage.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=18",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/18?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/18"
+            ]
+          },
+          {
+            "titulo": "T1:E19 - The Monster Way",
+            "sinopsis": "Clawdeen, Frankie and Draculaura follow a lead to the Bermuda Triangle to search for a fabled monster icon, but instead find adventure on the high seas.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=19",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/19?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/19"
+            ]
+          },
+          {
+            "titulo": "T1:E20 - Growing Ghoulia",
+            "sinopsis": "Ghoulia struggles with self-doubt when her innovative ideas for the science fair are overlooked, learning to trust her own intellect.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=20",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/20?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/20"
+            ]
+          },
+          {
+            "titulo": "T1:E21 - Casketball Jinx",
+            "sinopsis": "Deuce is hit with a jinx before the big casketball game, and the team must work together to break the curse and secure a win.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=21",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/21?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/21"
+            ]
+          },
+          {
+            "titulo": "T1:E22 - Cleo in the Kitchen",
+            "sinopsis": "Cleo attempts to impress her father by cooking a traditional Egyptian meal, leading to culinary chaos and lessons in humility.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=22",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/22?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/22"
+            ]
+          },
+          {
+            "titulo": "T1:E23 - The Perfect Score",
+            "sinopsis": "Frankie becomes obsessed with acing the Monster Aptitude Test, putting immense pressure on themselves and learning about the value of imperfection.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=23",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/23?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/23"
+            ]
+          },
+          {
+            "titulo": "T1:E24 - Spell The Beans",
+            "sinopsis": "A truth spell cast by Draculaura goes awry, forcing everyone at Monster High to reveal their innermost secrets, leading to comedic and heartfelt moments.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=24",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/24?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/24"
+            ]
+          },
+          {
+            "titulo": "T1:E25 - Creepover Party",
+            "sinopsis": "The ghouls host a creepover, but their spooky fun is interrupted by mysterious occurrences, testing their bravery and friendship.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=25",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/25?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/25"
+            ]
+          },
+          {
+            "titulo": "T1:E26 - Monster Movie",
+            "sinopsis": "The students decide to make a movie for the Monster High film festival, but creative differences and monster-sized egos threaten the production.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14118188&season=1&episode=26",
+              "https://vidsrc.cc/v2/embed/tv/tt14118188/1/26?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14118188/1/26"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_019",
+    "titulo": "Ted",
+    "sinopsis": "Set in 1993, Ted the bear's moment of fame has passed. He's now living back home in Framingham, Massachusetts with his best friend, 16-year-old John Bennett, along with John's parents, Matty and Susan, and cousin Blaire. Ted may be a lousy influence on John, but at the end of the day, he's a loyal pal who's always willing to go out on a limb for friendship.",
+    "elenco": [
+      "Seth MacFarlane",
+      "Max Burkholder",
+      "Alanna Ubach",
+      "Scott Grimes",
+      "Giorgia Whigham"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Comedy"
+    ],
+    "calificacion": 8.0,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Just Say Yes",
+            "sinopsis": "It's 1993 and Ted the bear's moment of fame has passed. To keep him on the straight and narrow, he is forced to enroll in high school with his best friend John.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14824792&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt14824792/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14824792/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - My Two Dads",
+            "sinopsis": "John is embarrassed to be seen with his father, Matty. Ted, in an effort to teach John a lesson, devises a plan that inadvertently leads to Matty and his estranged father Dennis attempting to reconcile.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14824792&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt14824792/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14824792/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Ejectile Dysfunction",
+            "sinopsis": "Ted attempts to help John lose his virginity with a local supermarket cashier, but things get complicated when Ted inadvertently films John's parents having sex and the tape gets mixed up.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14824792&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt14824792/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14824792/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Subways, Sex and Lies",
+            "sinopsis": "John, Ted, and Blaire take a trip to Boston for the day. While John and Ted attempt to buy weed from a shady character, Blaire visits her sophisticated college boyfriend, unaware that he is not who he seems.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14824792&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt14824792/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14824792/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Desperately Seeking Susan",
+            "sinopsis": "Susan is worried that Matty is being bullied at his new job. Ted and John go undercover at the video store to find out who is harassing him, leading to an unexpected confrontation.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14824792&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt14824792/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14824792/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Loud Night",
+            "sinopsis": "Blaire hosts a Halloween sleepover with her friends. Ted, wanting to prove he can be mature, tries to scare them with a 'haunted' videotape, but his plan doesn't go as expected.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14824792&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt14824792/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14824792/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - He's Gotta Have It",
+            "sinopsis": "John needs money to buy a coveted video game console. Ted suggests they try to win a talent show, leading to a series of misadventures as they prepare their act.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14824792&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt14824792/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14824792/1/7"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_020",
+    "titulo": "Criminal Record",
+    "sinopsis": "Two brilliant detectives, one new and one experienced, are forced to work together on an old murder case due to an anonymous phone call. As they delve deeper, they must confront their own pasts and the institutional failings that led to the original conviction.",
+    "elenco": [
+      "Peter Capaldi",
+      "Cush Jumbo",
+      "Zoë Wanamaker"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "calificacion": 7.2,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Emergency Caller",
+            "sinopsis": "An anonymous call draws two detectives into a confrontation over an old murder case: DCI Daniel Hegarty and DS June Lenker.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt21088136&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt21088136/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt21088136/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Two Calls",
+            "sinopsis": "June is unconvinced by Hegarty's intel and digs into the Errol Mathis case on her own. An old contact of Hegarty's reappears.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt21088136&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt21088136/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt21088136/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Kidnapped",
+            "sinopsis": "June and Leo are drawn into the case of a young mother, and June makes a breakthrough with a witness to the original crime.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt21088136&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt21088136/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt21088136/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Protected",
+            "sinopsis": "Hegarty's interference in June's case makes her more suspicious. A call from Errol's son sets June on a new path.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt21088136&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt21088136/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt21088136/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Possession with Intent",
+            "sinopsis": "June's pursuit of Errol's son leads her to a dead end until a witness comes forward with new information.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt21088136&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt21088136/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt21088136/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Beehive",
+            "sinopsis": "June hopes that the truth about the phone call will come out when a new lead takes her and Hegarty to a chaotic block of flats.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt21088136&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt21088136/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt21088136/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - The Sixty-Twos",
+            "sinopsis": "June hits a dead end and Hegarty is determined to make her drop the case. Her only option is to go rogue.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt21088136&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt21088136/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt21088136/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - Carla",
+            "sinopsis": "The anonymous call is finally explained. Hegarty and June have one last play - but only one of them can win.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt21088136&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt21088136/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt21088136/1/8"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_021",
+    "titulo": "The Trust: A Game of Greed",
+    "sinopsis": "Eleven strangers are given a quarter of a million dollars to split evenly. Will they take their fair share? Or will the allure of more money cause them to vote each other out to keep more for themselves?",
+    "elenco": [
+      "Brooke Baldwin"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Reality-TV",
+      "Game Show"
+    ],
+    "calificacion": 5.5,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Whose Side Are You On?",
+            "sinopsis": "Strangers arrive at a luxurious villa to play a game of trust, where they must decide whether to share a quarter of a million dollars or vote each other out.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt30342862&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt30342862/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt30342862/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Truth and Consequences",
+            "sinopsis": "Secrets emerge and alliances shift as the players face their first trust ceremony. A shocking revelation tests the group's newfound bonds.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt30342862&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt30342862/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt30342862/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - The Sum of All Fears",
+            "sinopsis": "Paranoia sets in as contestants strategize to protect their share of the money. A difficult decision forces one player to confront their deepest fears.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt30342862&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt30342862/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt30342862/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Every Woman for Herself",
+            "sinopsis": "A surprising offer from the vault creates new rifts. The women in the group consider forming a powerful alliance, but trust is a rare commodity.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt30342862&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt30342862/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt30342862/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Power Plays and Betrayals",
+            "sinopsis": "As the prize money grows, so does the temptation to eliminate others. A power play leads to a stunning betrayal that sends shockwaves through the villa.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt30342862&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt30342862/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt30342862/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - The Breaking Point",
+            "sinopsis": "Tensions reach a boiling point as accusations fly and loyalties are questioned. One player makes a risky move that could change the game entirely.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt30342862&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt30342862/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt30342862/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - Winner Takes All?",
+            "sinopsis": "With the final ceremony looming, the remaining contestants face their toughest decisions yet. The vault presents a game-changing offer.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt30342862&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt30342862/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt30342862/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - The Final Offer",
+            "sinopsis": "The game concludes as the last players decide the fate of the prize money. Who will walk away rich, and who will leave with nothing but regret?",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt30342862&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt30342862/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt30342862/1/8"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_022",
+    "titulo": "Undercover: Caught on Tape",
+    "sinopsis": "Cameras follow members of an elite undercover investigative unit as they track down and bust some of America's most dangerous criminals. Hosted by Don Cheadle.",
+    "elenco": [
+      "Don Cheadle"
+    ],
+    "anio": 2022,
+    "genero": [
+      "Crime",
+      "Reality-TV"
+    ],
+    "calificacion": 6.1,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Murder for Hire",
+            "sinopsis": "An undercover officer poses as a hitman to take down a murder-for-hire plot orchestrated by a jealous lover who wants her ex-husband dead.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt17524192&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt17524192/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt17524192/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Narco Queen",
+            "sinopsis": "Detectives go undercover to infiltrate the organization of a ruthless female drug lord responsible for distributing vast quantities of narcotics.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt17524192&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt17524192/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt17524192/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - The Biker Gang",
+            "sinopsis": "An officer risks his life by infiltrating a notorious outlaw motorcycle gang to gather evidence on their widespread criminal activities, including weapons trafficking.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt17524192&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt17524192/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt17524192/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Human Trafficking",
+            "sinopsis": "A specialized task force conducts an elaborate undercover sting to dismantle a sophisticated human trafficking ring that preys on vulnerable young women.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt17524192&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt17524192/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt17524192/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - The Counterfeit Kingpin",
+            "sinopsis": "Undercover agents work to identify and apprehend the mastermind behind a large-scale counterfeiting operation producing near-perfect fake currency.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt17524192&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt17524192/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt17524192/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Dirty Cops",
+            "sinopsis": "Internal Affairs investigators set up a complex sting operation to expose and arrest corrupt police officers who are betraying their oath and the public's trust.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt17524192&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt17524192/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt17524192/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - The Art Thief",
+            "sinopsis": "An undercover operative, posing as an affluent art collector, attempts to ensnare a cunning and elusive international art thief responsible for several high-profile heists.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt17524192&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt17524192/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt17524192/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - The Arms Dealer",
+            "sinopsis": "A high-stakes undercover mission aims to intercept a dangerous international arms dealer before he can sell a cache of military-grade weapons to a violent extremist group.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt17524192&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt17524192/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt17524192/1/8"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_023",
+    "titulo": "Death and Other Details",
+    "sinopsis": "How do you solve a murder in a post-fact world? Especially when sailing the Mediterranean on an ocean liner filled with the wealthy and powerful. Everyone on board is hiding something... But is one of them a killer? That's what the world's once greatest detective, Rufus Cotesworth, and his protégée, Imogene, aim to discover.",
+    "elenco": [
+      "Violett Beane",
+      "Mandy Patinkin",
+      "Lauren Patten",
+      "Rahul Kohli",
+      "Angela Zhou",
+      "Hugo Diego Garcia",
+      "Pardis Saremi",
+      "Linda Emond"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "calificacion": 6.6,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Chapter One: Rare",
+            "sinopsis": "Imogene Scott is accused of a murder she didn't commit, locked in a stateroom aboard a luxury liner, she must team up with Rufus Cotesworth, the world's once greatest detective, to find the killer.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15439048&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt15439048/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15439048/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Chapter Two: Sordid",
+            "sinopsis": "Imogene and Rufus begin their investigation by interviewing the Chuns, the Colliers, and their Coterie. But their primary suspect is quickly ruled out when disaster strikes again.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15439048&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt15439048/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15439048/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Chapter Three: Troublesome",
+            "sinopsis": "Rufus and Imogene search for a new suspect and discover that several of the guests have a vendetta against the Colliers. Meanwhile, Tripp flashes his new new crypto, Anna makes a deal for her family's company, and Jules confronts his sister.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15439048&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt15439048/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15439048/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Chapter Four: Hidden",
+            "sinopsis": "Rufus and Imogene follow the ship's paper trail to a new lead. Katherine Collier is put on Interpol's watch list. Teddy reveals that her wife is the governor of Washington.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15439048&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt15439048/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15439048/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Chapter Five: Exquisite",
+            "sinopsis": "Rufus and Imogene find themselves at an impasse when their investigation is taken over by Agent Eriksen. Teddy takes over as head of security. The Colliers host a disastrous auction for their new server.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15439048&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt15439048/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15439048/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Chapter Six: Tragic",
+            "sinopsis": "In a flashback, Rufus Cotesworth investigates the murder of Imogene's mother. His failure to solve the case has haunted him for 18 years.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15439048&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt15439048/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15439048/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - Chapter Seven: Memorable",
+            "sinopsis": "The ship arrives in Malta, where Rufus, Imogene and Sunil pursue a new lead. Anna makes an alliance with Llewellyn. And Leila's paranoia becomes reality.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15439048&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt15439048/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15439048/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - Chapter Eight: Vanishing",
+            "sinopsis": "Imogene and her allies conspire to bring down Viktor Sams. But the elusive criminal is always one step ahead.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15439048&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt15439048/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15439048/1/8"
+            ]
+          },
+          {
+            "titulo": "T1:E9 - Chapter Nine: Impossible",
+            "sinopsis": "The truth is revealed.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15439048&season=1&episode=9",
+              "https://vidsrc.cc/v2/embed/tv/tt15439048/1/9?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15439048/1/9"
+            ]
+          },
+          {
+            "titulo": "T1:E10 - Chapter Ten: Chilling",
+            "sinopsis": "Imogene and Rufus race to present their evidence before Viktor Sams disappears.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15439048&season=1&episode=10",
+              "https://vidsrc.cc/v2/embed/tv/tt15439048/1/10?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15439048/1/10"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_024",
+    "titulo": "Kübra",
+    "sinopsis": "When Gökhan, a mechanic from the suburbs of Istanbul, starts receiving messages from a user named Kübra through an online platform called 'SoulTouch,' which predicts the future, his life is turned upside down. Initially, Gökhan dismisses the messages, but as Kübra's predictions come true, he begins to believe he has been chosen for a higher purpose. This newfound belief garners him a devoted following but also powerful enemies. Gökhan finds himself in a conflict, choosing between his loved ones and the path Kübra has set for him.",
+    "elenco": [
+      "Çağatay Ulusoy",
+      "Aslıhan Malbora",
+      "Ahsen Eroğlu",
+      "Nazan Kesal",
+      "Cihan Talay",
+      "Aytek Şayan"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Drama",
+      "Thriller"
+    ],
+    "calificacion": 6.0,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Episode 1",
+            "sinopsis": "Gökhan, a former soldier trying to rebuild his life, discovers mysterious messages from 'Kübra' on a religious virtual platform he belongs to.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Episode 2",
+            "sinopsis": "Kübra's uncannily accurate predictions about unexpected events excite Gökhan, leading him to question Kübra's true identity.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Episode 3",
+            "sinopsis": "As Gökhan shares Kübra's messages, a group of followers begins to form around him, believing in his unique connection.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Episode 4",
+            "sinopsis": "While Gökhan and his followers attempt to help the needy in their neighborhood, an unexpected and challenging development occurs.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Episode 5",
+            "sinopsis": "Faced with mounting pressure and conflicting loyalties, Gökhan realizes he must make a difficult choice between his family and his burgeoning cause.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Episode 6",
+            "sinopsis": "Kübra issues a demand that Gökhan finds abhorrent, pushing him into a corner and testing his faith.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - Episode 7",
+            "sinopsis": "After a painful loss, Gökhan takes refuge with his followers, fully embracing his new identity as 'Semavi'.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - Episode 8",
+            "sinopsis": "Confronting the truth behind Kübra's messages, Gökhan must make a final, life-altering decision about his future and path.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/1/8"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "titulo": "T2:E1 - Episode 1",
+            "sinopsis": "Six months later, Gökhan and his followers face new challenges as Kübra's messages guide them to help others, but also attract unwanted attention.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=2&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/2/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/2/1"
+            ]
+          },
+          {
+            "titulo": "T2:E2 - Episode 2",
+            "sinopsis": "A new charismatic figure emerges, questioning Gökhan's leadership and the true nature of Kübra, creating rifts among his followers.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=2&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/2/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/2/2"
+            ]
+          },
+          {
+            "titulo": "T2:E3 - Episode 3",
+            "sinopsis": "Gökhan investigates the origins of Kübra, leading him to a tech company and a shocking discovery about the AI's creator.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=2&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/2/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/2/3"
+            ]
+          },
+          {
+            "titulo": "T2:E4 - Episode 4",
+            "sinopsis": "As the authorities close in, Gökhan's inner circle is tested, and Merve grapples with the consequences of her husband's path.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=2&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/2/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/2/4"
+            ]
+          },
+          {
+            "titulo": "T2:E5 - Episode 5",
+            "sinopsis": "Gökhan attempts to expose the truth about Kübra to the world, leading to a high-stakes confrontation with those who want to silence him.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=2&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/2/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/2/5"
+            ]
+          },
+          {
+            "titulo": "T2:E6 - Episode 6",
+            "sinopsis": "Betrayal from within threatens to dismantle everything Gökhan has built, forcing him to re-evaluate whom he can trust.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=2&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/2/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/2/6"
+            ]
+          },
+          {
+            "titulo": "T2:E7 - Episode 7",
+            "sinopsis": "The lines between reality and Kübra's influence blur as Gökhan faces a psychological battle, questioning his sanity and purpose.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=2&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/2/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/2/7"
+            ]
+          },
+          {
+            "titulo": "T2:E8 - Episode 8",
+            "sinopsis": "In a climactic showdown, Gökhan confronts the masterminds behind Kübra, making a final stand for truth and his followers' freedom.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt26760483&season=2&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt26760483/2/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt26760483/2/8"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_025",
+    "titulo": "Rags to Riches",
+    "sinopsis": "In the 1960s, wealthy bachelor Nick Foley's life is turned upside down when he takes in six orphaned girls to improve his public image. With the help of his English butler, John Clapper, they navigate the challenges of becoming an unconventional family, frequently expressing their emotions through musical numbers.",
+    "elenco": [
+      "Joseph Bologna",
+      "Douglas Seale",
+      "Tisha Campbell"
+    ],
+    "anio": 1987,
+    "genero": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "calificacion": 7.3,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Pilot",
+            "sinopsis": "To improve his public image, wealthy bachelor Nick Foley adopts six orphaned girls, forever changing his life and theirs.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - High Society",
+            "sinopsis": "Nick's attempt to introduce the girls to high society at a lavish party backfires with comical and chaotic results.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Foley vs. Foley",
+            "sinopsis": "Nick's estranged, conservative brother, a judge, arrives aiming to prove Nick is an unfit guardian and gain custody of the girls.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - First Love",
+            "sinopsis": "Marva experiences first love with a charming boy, but Nick's suspicions about his motives lead to a valuable lesson.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Business Is Business",
+            "sinopsis": "The girls' enthusiastic attempts to 'help' Nick with a crucial business deal lead to unforeseen and humorous complications.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Patty's Mom",
+            "sinopsis": "Patty's biological mother, a struggling singer, reappears, forcing difficult emotional decisions about family and loyalty.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - Bad Blood",
+            "sinopsis": "When Diane defends her new family at school, Nick grapples with the challenges of parental discipline and understanding.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - Born to Ride",
+            "sinopsis": "Rose's newfound passion for motorcycles and friendship with a biker gang causes alarm for Nick and amusement for Clapper.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/1/8"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "titulo": "T2:E1 - Vegas Rock",
+            "sinopsis": "The Foley family's trip to Las Vegas involves Nick reuniting with an old flame and the girls trying to boost her singing career.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/1"
+            ]
+          },
+          {
+            "titulo": "T2:E2 - Once Upon a Time",
+            "sinopsis": "The girls stage a uniquely modern and musical rendition of 'Cinderella' for a school fundraiser with their signature Foley flair.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/2"
+            ]
+          },
+          {
+            "titulo": "T2:E3 - Wilderness Blues",
+            "sinopsis": "A family camping trip designed to teach outdoor skills turns into a comical test of survival and togetherness for the Foleys.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/3"
+            ]
+          },
+          {
+            "titulo": "T2:E4 - Dear Penelope",
+            "sinopsis": "Diane's secret life as 'Dear Penelope,' an advice columnist for the school paper, leads to humorous misunderstandings and mishaps.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/4"
+            ]
+          },
+          {
+            "titulo": "T2:E5 - Hunkamania",
+            "sinopsis": "Marva wins a date with her teen idol, only to discover the unglamorous reality behind the public image of celebrity.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/5"
+            ]
+          },
+          {
+            "titulo": "T2:E6 - Rose's Big Adventure",
+            "sinopsis": "Feeling neglected, Rose runs away to find an 'ideal' family, sparking a city-wide search and lessons in appreciation.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/6"
+            ]
+          },
+          {
+            "titulo": "T2:E7 - That's Entertainment",
+            "sinopsis": "The Foleys rally to save a beloved community center by organizing and starring in an ambitious musical fundraising revue.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/7"
+            ]
+          },
+          {
+            "titulo": "T2:E8 - A Woman's Work",
+            "sinopsis": "A new, overly strict housekeeper's rigid methods hilariously clash with the girls' free spirits and the established household routines.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/8"
+            ]
+          },
+          {
+            "titulo": "T2:E9 - Guess Who's Coming to Slumber?",
+            "sinopsis": "The girls' first slumber party spirals into delightful chaos with pranks, uninvited boys, and unexpected late-night confessions.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=9",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/9?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/9"
+            ]
+          },
+          {
+            "titulo": "T2:E10 - Beauty and the Babe",
+            "sinopsis": "Patty's decision to enter a local beauty pageant teaches the entire family valuable lessons about self-esteem and true beauty.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=10",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/10?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/10"
+            ]
+          },
+          {
+            "titulo": "T2:E11 - Russian Holiday",
+            "sinopsis": "Hosting a young Russian gymnast for a cultural exchange program leads to comical misunderstandings and heartwarming cross-cultural connections.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=11",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/11?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/11"
+            ]
+          },
+          {
+            "titulo": "T2:E12 - A Very Foley Christmas",
+            "sinopsis": "The Foleys' first Christmas together is threatened by mishaps until they rediscover the true meaning of family and holiday spirit.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt0092434&season=2&episode=12",
+              "https://vidsrc.cc/v2/embed/tv/tt0092434/2/12?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt0092434/2/12"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_026",
+    "titulo": "Love Is Blind: Sweden",
+    "sinopsis": "Swedish singles look for true love and get engaged, all before meeting in person. They then navigate the complexities of the real world together as they plan their weddings.",
+    "elenco": [
+      "Jessica Almenäs"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Reality-TV",
+      "Romance"
+    ],
+    "calificacion": 6.2,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - The Pods Are Open!",
+            "sinopsis": "The pods are now open! Sweden's singles get to know each other from their individual pods, hoping to make a meaningful connection and find true love.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Will You Marry Me?",
+            "sinopsis": "Emotions run high as more singles connect in the pods. But when it comes time to pop the question, not everyone is ready to take the plunge.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - First Night Together",
+            "sinopsis": "The newly engaged couples meet face-to-face for the first time. As they embark on a romantic getaway, some find instant chemistry while others struggle.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Under the Surface",
+            "sinopsis": "As the couples spend more time together on their retreat, deeper conversations arise, and they begin to navigate the challenges of their new relationships.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Back to Reality",
+            "sinopsis": "The couples return to Stockholm to live together and meet each other's families and friends, putting their relationships to the test in the real world.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Love, Family and Friends",
+            "sinopsis": "Introducing fiancés to family and friends brings new dynamics and pressures. Some bonds strengthen while others show cracks.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - A Taste of the Future",
+            "sinopsis": "The couples continue to merge their lives, facing everyday realities and discussing future plans. Doubts and insecurities begin to surface for some.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - Last Night as Singles",
+            "sinopsis": "With the weddings just around the corner, the couples celebrate their bachelor and bachelorette parties. Last-minute jitters and serious talks ensue.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/8"
+            ]
+          },
+          {
+            "titulo": "T1:E9 - The Weddings",
+            "sinopsis": "It's wedding day. The first set of couples walk down the aisle to make their final decisions. Will they say 'I do' or will they leave their partners at the altar?",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=9",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/9?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/9"
+            ]
+          },
+          {
+            "titulo": "T1:E10 - I Do?",
+            "sinopsis": "The remaining couples face the ultimate question at the altar. Emotions peak as they decide whether their pod romance can translate into a lifelong marriage.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=10",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/10?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/10"
+            ]
+          },
+          {
+            "titulo": "T1:E11 - Reunion",
+            "sinopsis": "The cast reunites to discuss their experiences, confront unresolved issues, and reveal what has happened since the weddings. Hosted by Jessica Almenäs.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt23735438&season=1&episode=11",
+              "https://vidsrc.cc/v2/embed/tv/tt23735438/1/11?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt23735438/1/11"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_027",
+    "titulo": "Grimsburg",
+    "sinopsis": "Detective Marvin Flute may be the greatest detective ever to catch a cannibal clown or correctly identify a mid-century modern armoire. But there's one mystery he still can't crack: his family. Now that he's back in Grimsburg, a town where everyone has a secret or three, Flute will follow every lead he's got to redeem himself with the ex-wife he never stopped loving, even if it means hanging out with the son he never bothered to get to know.",
+    "elenco": [
+      "Jon Hamm",
+      "Erinn Hayes",
+      "Rachel Dratch",
+      "Alan Tudyk",
+      "Kevin Michael Richardson"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Animation",
+      "Comedy",
+      "Crime"
+    ],
+    "calificacion": 6.0,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Grimsburg",
+            "sinopsis": "Detective Marvin Flute returns to his hometown of Grimsburg to solve a murder and reconnect with his estranged family.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - The Flute Show",
+            "sinopsis": "Flute investigates a copycat killer who is reenacting his past cases, forcing him to confront his own legacy.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - McSnuff",
+            "sinopsis": "The death of a famous influencer's beloved dog leads Flute into the bizarre world of online pet celebrities.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - The Big Honey",
+            "sinopsis": "Flute goes undercover in a biker gang to investigate a crime syndicate trafficking in valuable artisanal honey.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Where There's Smoke",
+            "sinopsis": "An arson at a local vape shop brings back memories of an unsolved case for Flute, leading him to believe there's a connection.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Murder on the Splurt Express",
+            "sinopsis": "A family trip turns into a crime scene when a murder occurs on the Grimsburg Splurt Express, and everyone is a suspect.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - Camp Slasher",
+            "sinopsis": "To investigate a series of mysterious attacks, Flute sends his son Stan undercover to a summer camp with a dark secret.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - Manchine",
+            "sinopsis": "Flute is forced to partner with a technologically advanced cyborg detective to solve a string of high-tech crimes.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/8"
+            ]
+          },
+          {
+            "titulo": "T1:E9 - The Funniest Corpse",
+            "sinopsis": "The Grimsburg Comedy Festival takes a dark turn when a stand-up comedian is murdered, and Flute must find the killer among a sea of jokesters.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=9",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/9?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/9"
+            ]
+          },
+          {
+            "titulo": "T1:E10 - The Danish Murders",
+            "sinopsis": "A series of killings mimics a popular Danish crime drama, and Flute must dive into the world of Nordic noir to catch the culprit.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=10",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/10?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/10"
+            ]
+          },
+          {
+            "titulo": "T1:E11 - Episode 11",
+            "sinopsis": "Plot details for this episode are currently unavailable.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=11",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/11?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/11"
+            ]
+          },
+          {
+            "titulo": "T1:E12 - Episode 12",
+            "sinopsis": "Plot details for this episode are currently unavailable.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=12",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/12?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/12"
+            ]
+          },
+          {
+            "titulo": "T1:E13 - Episode 13",
+            "sinopsis": "Plot details for this episode are currently unavailable.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=1&episode=13",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/1/13?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/1/13"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "titulo": "T2:E1 - Episode 1",
+            "sinopsis": "Plot details for this episode are currently unavailable as Season 2 has not yet aired.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=2&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/2/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/2/1"
+            ]
+          },
+          {
+            "titulo": "T2:E2 - Episode 2",
+            "sinopsis": "Plot details for this episode are currently unavailable as Season 2 has not yet aired.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=2&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/2/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/2/2"
+            ]
+          },
+          {
+            "titulo": "T2:E3 - Episode 3",
+            "sinopsis": "Plot details for this episode are currently unavailable as Season 2 has not yet aired.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=2&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/2/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/2/3"
+            ]
+          },
+          {
+            "titulo": "T2:E4 - Episode 4",
+            "sinopsis": "Plot details for this episode are currently unavailable as Season 2 has not yet aired.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=2&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/2/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/2/4"
+            ]
+          },
+          {
+            "titulo": "T2:E5 - Episode 5",
+            "sinopsis": "Plot details for this episode are currently unavailable as Season 2 has not yet aired.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=2&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/2/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/2/5"
+            ]
+          },
+          {
+            "titulo": "T2:E6 - Episode 6",
+            "sinopsis": "Plot details for this episode are currently unavailable as Season 2 has not yet aired.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=2&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/2/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/2/6"
+            ]
+          },
+          {
+            "titulo": "T2:E7 - Episode 7",
+            "sinopsis": "Plot details for this episode are currently unavailable as Season 2 has not yet aired.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=2&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/2/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/2/7"
+            ]
+          },
+          {
+            "titulo": "T2:E8 - Episode 8",
+            "sinopsis": "Plot details for this episode are currently unavailable as Season 2 has not yet aired.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt15791752&season=2&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt15791752/2/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt15791752/2/8"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_028",
+    "titulo": "Wild Cards",
+    "sinopsis": "A pragmatic detective and a charming con artist are paired together. Ellis, a demoted detective, has begrudgingly spent the last year on the maritime unit, while Max, a vivacious con woman, has been living a transient life, conning everyone she meets. When Max is arrested and ends up helping Ellis solve a local crime, the two are offered the opportunity to redeem themselves, with Ellis going back to detective and Max staying out of jail. The catch? They have to work together, each using their unique skills to solve crimes.",
+    "elenco": [
+      "Vanessa Morgan",
+      "Giacomo Gianniotti",
+      "Jason Priestley"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Crime",
+      "Drama"
+    ],
+    "calificacion": 7.2,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - The Infinity Thief",
+            "sinopsis": "After con woman Max Mitchell is surprisingly arrested, she's given a choice: help solve a crime or go to jail. She agrees to help demoted detective Cole Ellis, and together they work on a jewellery heist case.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Show Me the Murder",
+            "sinopsis": "Max and Ellis investigate the murder of a wealthy philanthropist who was scammed by a dating app fraudster. Meanwhile, Max's mother, an experienced con artist, pays an unexpected visit.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - How to Lose a Guy in 10 Knots",
+            "sinopsis": "While going undercover on a luxury yacht to investigate a murder, Max and Ellis pretend to be a newly engaged couple. Ellis is forced to confront some of his past trauma.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Strangers on a Wave",
+            "sinopsis": "A dead surfer, a stolen drone, and a fancy new wetsuit lead Max and Ellis to a case that is more than meets the eye. When Ellis is forced to go surfing undercover, Max is there to help.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - The Accountant of Monte Cristo",
+            "sinopsis": "Max and Ellis investigate the murder of an accountant who has a surprisingly large number of enemies. Max hunts for a new apartment and gets some help from an unexpected ally.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Dead of Night",
+            "sinopsis": "Max and Ellis investigate the murder of a popular horror author. Max is forced to deal with her mother, who is in more trouble than ever.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/1/6"
+            ]
+          },
+          {
+            "titulo": "T1:E7 - Con with the Wind",
+            "sinopsis": "When Max is taken hostage during a bank robbery, Ellis is determined to ensure her safety. Max puts her con skills to the test, but will it be enough to save herself and the other hostages?",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=1&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/1/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/1/7"
+            ]
+          },
+          {
+            "titulo": "T1:E8 - Eternal Sunshine of the Therapized Mind",
+            "sinopsis": "Max and Ellis investigate the murder of a therapist who was known for her unconventional methods. Ellis goes to therapy and is surprised by what he learns.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=1&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/1/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/1/8"
+            ]
+          },
+          {
+            "titulo": "T1:E9 - Inside Man",
+            "sinopsis": "Max and Ellis go undercover as a married couple to take down a notorious criminal and recover a stolen diamond. Ellis is jealous when he sees Max with an old flame.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=1&episode=9",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/1/9?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/1/9"
+            ]
+          },
+          {
+            "titulo": "T1:E10 - Romancing the Egg",
+            "sinopsis": "Max and Ellis investigate the theft of a multi-million-dollar Fabergé egg. Max is forced to confront her mother, who might be involved.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=1&episode=10",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/1/10?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/1/10"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "titulo": "T2:E1 - Season 2 Premiere",
+            "sinopsis": "Max and Ellis return to tackle new mysteries and cons in the anticipated second season premiere.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/1"
+            ]
+          },
+          {
+            "titulo": "T2:E2 - Episode 2",
+            "sinopsis": "The duo investigates another challenging case, testing their unique partnership.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/2"
+            ]
+          },
+          {
+            "titulo": "T2:E3 - Episode 3",
+            "sinopsis": "A new crime unfolds, pushing Max and Ellis to use all their skills to uncover the truth.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/3"
+            ]
+          },
+          {
+            "titulo": "T2:E4 - Episode 4",
+            "sinopsis": "Max's unconventional methods and Ellis's detective work are put to the test once more.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/4"
+            ]
+          },
+          {
+            "titulo": "T2:E5 - Episode 5",
+            "sinopsis": "The stakes get higher as Max and Ellis delve deeper into the city's criminal underworld.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/5"
+            ]
+          },
+          {
+            "titulo": "T2:E6 - Episode 6",
+            "sinopsis": "A complex case requires Max and Ellis to navigate a web of deceit and danger.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/6"
+            ]
+          },
+          {
+            "titulo": "T2:E7 - Episode 7",
+            "sinopsis": "Personal challenges intertwine with professional duties for Max and Ellis.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/7"
+            ]
+          },
+          {
+            "titulo": "T2:E8 - Episode 8",
+            "sinopsis": "As the season progresses, Max and Ellis face increasingly formidable adversaries.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/8"
+            ]
+          },
+          {
+            "titulo": "T2:E9 - Episode 9",
+            "sinopsis": "Nearing the season's end, a critical case brings new revelations and tensions.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=9",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/9?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/9"
+            ]
+          },
+          {
+            "titulo": "T2:E10 - Episode 10",
+            "sinopsis": "The partnership of Max and Ellis is tested as they approach a significant turning point.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=10",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/10?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/10"
+            ]
+          },
+          {
+            "titulo": "T2:E11 - Episode 11",
+            "sinopsis": "A surprising twist in a new case challenges Max and Ellis in unexpected ways.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=11",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/11?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/11"
+            ]
+          },
+          {
+            "titulo": "T2:E12 - Episode 12",
+            "sinopsis": "With the season finale approaching, Max and Ellis work to solve one of their most intricate cases yet.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=12",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/12?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/12"
+            ]
+          },
+          {
+            "titulo": "T2:E13 - Season 2 Finale",
+            "sinopsis": "The second season concludes with a dramatic case that will set the stage for future events and leave viewers in suspense.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29780951&season=2&episode=13",
+              "https://vidsrc.cc/v2/embed/tv/tt29780951/2/13?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29780951/2/13"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_029",
+    "titulo": "The Prison Confessions of Gypsy Rose Blanchard",
+    "sinopsis": "After a lifetime of abuse, Gypsy Rose Blanchard is free and finally telling her story. This docu-series features unprecedented access to Gypsy Rose in prison as she shares shocking revelations and unearths secrets from her past.",
+    "elenco": [
+      "Gypsy-Rose Blanchard",
+      "Rod Blanchard",
+      "Kristy Blanchard"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Documentary",
+      "Crime"
+    ],
+    "calificacion": 6.3,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Born a Prisoner",
+            "sinopsis": "Gypsy Rose Blanchard is released from prison. In her first moments of freedom, Gypsy recounts her earliest childhood memories of the medical conditions and physical ailments her mother, Dee Dee, claimed she had, and the near-fatal consequences.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29484940&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt29484940/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29484940/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - On the Run",
+            "sinopsis": "As Gypsy's supposed medical conditions worsen, she and Dee Dee are uprooted by Hurricane Katrina and relocate to Missouri, where Dee Dee continues to tighten her grip on Gypsy; Gypsy tries to rebel, but her mother retaliates with physical abuse.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29484940&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt29484940/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29484940/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - I, Witness",
+            "sinopsis": "Gypsy's desperate attempts to escape her mother's control are thwarted when Dee Dee discovers her secret internet romance; the young woman must make a virtual appearance in court to answer for her role in her mother's murder.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29484940&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt29484940/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29484940/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - The Awakening",
+            "sinopsis": "Gypsy recalls the days leading up to her mother's murder and her then-boyfriend Nick Godejohn's arrival in Missouri; she details their plan and how it went awry, leading to her arrest.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29484940&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt29484940/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29484940/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - I Do, or I Don't?",
+            "sinopsis": "Gypsy details her personal journey of self-discovery and confronts the secrets she's been keeping, all while she prepares to marry Ryan Anderson. As her wedding day approaches, Gypsy is forced to make a difficult decision.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29484940&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt29484940/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29484940/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Only Way Out Is Down",
+            "sinopsis": "With her release from prison approaching, Gypsy is ready to start her new life with Ryan but is she prepared for the public scrutiny and life in the spotlight that awaits? Gypsy reveals a final, shocking secret she's been holding onto for years.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt29484940&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt29484940/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt29484940/1/6"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_030",
+    "titulo": "22 Kids and Counting",
+    "sinopsis": "Observational documentary series following Britain's biggest family, the Radfords, as they welcome new additions to their brood and navigate the ups and downs of life in a supersized household.",
+    "elenco": [
+      "Sue Radford",
+      "Noel Radford",
+      "Chloe Radford",
+      "Millie Radford",
+      "Luke Radford",
+      "Sophie Radford"
+    ],
+    "anio": 2021,
+    "genero": [
+      "Reality-TV",
+      "Documentary"
+    ],
+    "calificacion": 6.9,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - The Big Reveal",
+            "sinopsis": "Sue and Noel Radford, parents of Britain's biggest family, are about to become grandparents for the sixth time as daughter Millie is expecting her first baby.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - The Gender Reveal",
+            "sinopsis": "The Radford family prepares for Millie's gender reveal party. Noel decides to take up a new hobby, and Sue plans a romantic meal for two.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - A Grand Day Out",
+            "sinopsis": "The family plans a grand day out at a theme park, but getting everyone organized proves to be a challenge. Millie prepares for the arrival of her baby.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Baby On Board",
+            "sinopsis": "Millie goes into labour, and the family eagerly awaits the arrival of the new baby. Sue reflects on her own experiences of childbirth.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/1/4"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "titulo": "T2:E1 - A Pie-Fect Holiday",
+            "sinopsis": "The Radfords embark on a much-needed family holiday to Scotland, but travelling with such a large group presents its own set of unique challenges.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=2&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/2/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/2/1"
+            ]
+          },
+          {
+            "titulo": "T2:E2 - Back To School",
+            "sinopsis": "It's back to school time for the Radford children, and Sue faces the annual mammoth task of getting everyone ready and kitted out in new uniforms.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=2&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/2/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/2/2"
+            ]
+          },
+          {
+            "titulo": "T2:E3 - A Dog's Life",
+            "sinopsis": "The family considers getting a new dog, leading to a debate about the responsibilities involved. Noel and Sue also look into expanding their pie business.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=2&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/2/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/2/3"
+            ]
+          },
+          {
+            "titulo": "T2:E4 - Halloween Hijinks",
+            "sinopsis": "Halloween is approaching, and the Radfords are getting into the spooky spirit with pumpkin carving, costume making, and a family Halloween party.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=2&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/2/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/2/4"
+            ]
+          },
+          {
+            "titulo": "T2:E5 - Birthday Bonanza",
+            "sinopsis": "It's a busy time for birthdays in the Radford household, with several children celebrating. Sue and Noel try to make each one special.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=2&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/2/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/2/5"
+            ]
+          },
+          {
+            "titulo": "T2:E6 - Christmas Countdown",
+            "sinopsis": "The countdown to Christmas begins, and the Radfords start their extensive preparations, from decorating the house to planning the festive feast.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=2&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/2/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/2/6"
+            ]
+          },
+          {
+            "titulo": "T2:E7 - A Very Radford Christmas",
+            "sinopsis": "Christmas Day arrives, and the Radfords celebrate in their own unique, bustling style, filled with presents, food, and family traditions.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=2&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/2/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/2/7"
+            ]
+          },
+          {
+            "titulo": "T2:E8 - New Year, New Challenges",
+            "sinopsis": "As the New Year begins, the Radfords reflect on the past year and look ahead to new challenges and adventures for their ever-growing family.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=2&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/2/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/2/8"
+            ]
+          },
+          {
+            "titulo": "T2:E9 - Business And Babies",
+            "sinopsis": "Noel focuses on expanding the family's pie business, while Sue juggles household duties and the needs of the younger children. Another Radford grandchild is on the way.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=2&episode=9",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/2/9?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/2/9"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "episodios": [
+          {
+            "titulo": "T3:E1 - The Heat Is On",
+            "sinopsis": "The Radfords cope with a summer heatwave. Noel and Sue consider a big decision about their home, and the family plans a summer barbecue.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=3&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/3/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/3/1"
+            ]
+          },
+          {
+            "titulo": "T3:E2 - A Trip To The Lakes",
+            "sinopsis": "The family enjoys a day trip to the Lake District. Back home, some of the older children are thinking about their future plans and independence.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=3&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/3/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/3/2"
+            ]
+          },
+          {
+            "titulo": "T3:E3 - Pie Shop Problems",
+            "sinopsis": "Noel faces some challenges at the pie shop, requiring him to find solutions to keep the business running smoothly. Sue deals with teenage dramas.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=3&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/3/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/3/3"
+            ]
+          },
+          {
+            "titulo": "T3:E4 - Chloe's Big News",
+            "sinopsis": "Chloe shares some exciting news with the family. The Radfords also prepare for another family birthday celebration.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=3&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/3/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/3/4"
+            ]
+          },
+          {
+            "titulo": "T3:E5 - A French Adventure?",
+            "sinopsis": "The Radfords contemplate a family holiday to France, weighing the logistics and costs of taking such a large group abroad.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=3&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/3/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/3/5"
+            ]
+          },
+          {
+            "titulo": "T3:E6 - The Radfords Go To France",
+            "sinopsis": "The family's French holiday plans become a reality. They navigate ferry travel and French culture, aiming for a memorable trip for everyone.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=3&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/3/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/3/6"
+            ]
+          },
+          {
+            "titulo": "T3:E7 - Home Sweet Home",
+            "sinopsis": "Back from France, it's straight back to the usual busy Radford routine. Sue and Noel discuss potential renovations for their home.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=3&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/3/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/3/7"
+            ]
+          },
+          {
+            "titulo": "T3:E8 - An Extra Special Christmas",
+            "sinopsis": "The Radfords prepare for an extra special Christmas with new family members and cherished traditions, aiming to make it the best one yet.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=3&episode=8",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/3/8?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/3/8"
+            ]
+          },
+          {
+            "titulo": "T3:E9 - A New Arrival",
+            "sinopsis": "The family eagerly anticipates the arrival of another Radford baby. Sue supports one of her daughters through pregnancy and childbirth.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=3&episode=9",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/3/9?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/3/9"
+            ]
+          },
+          {
+            "titulo": "T3:E10 - Moving On Up?",
+            "sinopsis": "With the house feeling more crowded than ever, Sue and Noel seriously consider moving to a bigger home to accommodate their growing family.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=3&episode=10",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/3/10?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/3/10"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "episodios": [
+          {
+            "titulo": "T4:E1 - Florida Dreams",
+            "sinopsis": "The Radfords plan their biggest family holiday yet – a trip to Florida. The logistics of passports, packing, and travel for 24 people are immense.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=4&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/4/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/4/1"
+            ]
+          },
+          {
+            "titulo": "T4:E2 - The Florida Adventure Begins",
+            "sinopsis": "The Radfords finally arrive in Florida. They navigate theme parks, villa life, and try to make the most of their dream holiday despite the challenges.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=4&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/4/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/4/2"
+            ]
+          },
+          {
+            "titulo": "T4:E3 - Birthday Surprises in the Sunshine State",
+            "sinopsis": "While in Florida, the family celebrates a special birthday. Sue and Noel try to balance group activities with individual wishes.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=4&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/4/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/4/3"
+            ]
+          },
+          {
+            "titulo": "T4:E4 - Back To Reality",
+            "sinopsis": "The Florida holiday comes to an end, and it's back to the reality of Morecambe. The family readjusts to school runs and pie shop demands.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=4&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/4/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/4/4"
+            ]
+          },
+          {
+            "titulo": "T4:E5 - A New Chapter for Chloe",
+            "sinopsis": "Chloe prepares for a new chapter in her life as she plans to move out of the family home with her partner and baby.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=4&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/4/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/4/5"
+            ]
+          },
+          {
+            "titulo": "T4:E6 - The Christening",
+            "sinopsis": "The Radfords gather for the christening of one of the newest grandchildren. It's a day of family celebration and reflection.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=4&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/4/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/4/6"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "episodios": [
+          {
+            "titulo": "T5:E1 - A Royal Occasion",
+            "sinopsis": "The Radfords get caught up in the excitement of a national royal event, planning their own celebrations to mark the occasion.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=5&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/5/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/5/1"
+            ]
+          },
+          {
+            "titulo": "T5:E2 - The Big House Hunt",
+            "sinopsis": "The search for a new, larger family home intensifies. Sue and Noel view potential properties, but finding the perfect place is proving difficult.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=5&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/5/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/5/2"
+            ]
+          },
+          {
+            "titulo": "T5:E3 - A Motorhome Adventure",
+            "sinopsis": "To test out a different kind of family holiday, the Radfords hire a motorhome and embark on a UK road trip adventure.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=5&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/5/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/5/3"
+            ]
+          },
+          {
+            "titulo": "T5:E4 - Puppy Love",
+            "sinopsis": "The family decides it's finally time to get a puppy, bringing new levels of chaos and cuteness to the Radford household.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=5&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/5/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/5/4"
+            ]
+          },
+          {
+            "titulo": "T5:E5 - Noel's Big Birthday",
+            "sinopsis": "It's Noel's milestone birthday, and Sue and the kids plan a series of surprises to celebrate the patriarch of the Radford clan.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=5&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/5/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/5/5"
+            ]
+          },
+          {
+            "titulo": "T5:E6 - Halloween and Half Term",
+            "sinopsis": "The Radfords tackle half-term holidays and Halloween preparations simultaneously, ensuring plenty of fun and frights for the kids.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=5&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/5/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/5/6"
+            ]
+          },
+          {
+            "titulo": "T5:E7 - Christmas Is Coming",
+            "sinopsis": "With Christmas fast approaching, the Radfords dive into their festive preparations, from shopping for gifts to planning their massive Christmas dinner.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=5&episode=7",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/5/7?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/5/7"
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "episodios": [
+          {
+            "titulo": "T6:E1 - New Year, New Ventures",
+            "sinopsis": "The Radfords ring in the New Year and discuss their plans and resolutions. Noel explores a new potential venture for the pie business.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=6&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/6/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/6/1"
+            ]
+          },
+          {
+            "titulo": "T6:E2 - A Day At The Farm",
+            "sinopsis": "The family enjoys a day out at a local farm, giving the younger children a chance to interact with animals and enjoy the countryside.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=6&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/6/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/6/2"
+            ]
+          },
+          {
+            "titulo": "T6:E3 - Renovations and Revelations",
+            "sinopsis": "Sue and Noel finally decide on some home renovations to make more space. Meanwhile, one of the older children has some surprising news.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=6&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/6/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/6/3"
+            ]
+          },
+          {
+            "titulo": "T6:E4 - Future Plans",
+            "sinopsis": "As the season concludes, the Radfords reflect on their recent experiences and look towards the future, discussing holidays, home life, and family milestones.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt14139100&season=6&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt14139100/6/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt14139100/6/4"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "serie_031",
+    "titulo": "The Bequeathed",
+    "sinopsis": "After the death of an unknown uncle, a woman inherits her family's burial ground and finds herself in the middle of a string of murders and dark secrets connecting her past and present.",
+    "elenco": [
+      "Kim Hyun-joo",
+      "Park Hee-soon",
+      "Park Byeong-eun",
+      "Ryu Kyung-soo"
+    ],
+    "anio": 2024,
+    "genero": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "calificacion": 6.2,
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "titulo": "T1:E1 - Episode 1",
+            "sinopsis": "Yoon Seo-ha gets a call about her forgotten uncle's death. She later attends his funeral and learns that she is the sole successor to the family's burial ground.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt28225048&season=1&episode=1",
+              "https://vidsrc.cc/v2/embed/tv/tt28225048/1/1?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt28225048/1/1"
+            ]
+          },
+          {
+            "titulo": "T1:E2 - Episode 2",
+            "sinopsis": "Kim Yeong-ho appears before Seo-ha, claiming to be her half-brother and demanding his share of the inheritance. Another death occurs around the burial ground.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt28225048&season=1&episode=2",
+              "https://vidsrc.cc/v2/embed/tv/tt28225048/1/2?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt28225048/1/2"
+            ]
+          },
+          {
+            "titulo": "T1:E3 - Episode 3",
+            "sinopsis": "Detective Choi Seong-jun, sensing that the recent deaths in the village are not accidental, delves into the case. Seo-ha is engulfed in chaos due to the continuous unsettling events.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt28225048&season=1&episode=3",
+              "https://vidsrc.cc/v2/embed/tv/tt28225048/1/3?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt28225048/1/3"
+            ]
+          },
+          {
+            "titulo": "T1:E4 - Episode 4",
+            "sinopsis": "Seong-jun and his junior detective, Park Sang-min, focus on the victims' connection to the burial ground during their investigation. Shocking truths from the past begin to surface.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt28225048&season=1&episode=4",
+              "https://vidsrc.cc/v2/embed/tv/tt28225048/1/4?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt28225048/1/4"
+            ]
+          },
+          {
+            "titulo": "T1:E5 - Episode 5",
+            "sinopsis": "All the deeply concealed secrets surrounding the burial ground are revealed. Seong-jun and Sang-min piece together the evidence to get closer to the perpetrator.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt28225048&season=1&episode=5",
+              "https://vidsrc.cc/v2/embed/tv/tt28225048/1/5?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt28225048/1/5"
+            ]
+          },
+          {
+            "titulo": "T1:E6 - Episode 6",
+            "sinopsis": "The tragic and intertwined fates of the characters surrounding the burial ground come to light, along with the full story of the incident.",
+            "iframes": [
+              "https://vidsrc.xyz/embed/tv?imdb=tt28225048&season=1&episode=6",
+              "https://vidsrc.cc/v2/embed/tv/tt28225048/1/6?autoPlay=false",
+              "https://vidsrc.icu/embed/tv/tt28225048/1/6"
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]
