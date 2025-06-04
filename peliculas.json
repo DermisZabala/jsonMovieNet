@@ -3293,7 +3293,7 @@
     "anio": 2023,
     "genero": ["Family", "Adventure"],
     "calificacion": 6.9,
-    "cover": "https://image.tmdb.org/t/p/w780/94YmbL99eumC2v76f4KM2pViv2G.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdiNTc1MmEtOTBkMy00MjMzLThkOWYtZTZkODQ2YTNiNjRjXkEyXkFqcGc@._V1_QL75_UX145_.jpg",
     "iframes": [
       "https://vidsrc.xyz/embed/movie?imdb=tt15097144",
       "https://vidsrc.cc/v2/embed/movie/tt15097144?autoPlay=false",
@@ -3710,6 +3710,7 @@
     "anio": 1974,
     "genero": ["Crime", "Thriller", "Drama"],
     "calificacion": 7.2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NTA2MDExOF5BMl5BanBnXkFtZTcwOTE4ODM0MQ@@._V1_QL75_UX152_.jpg",
     "iframes": [
       "https://vidsrc.xyz/embed/movie?imdb=tt0071275",
       "https://vidsrc.cc/v2/embed/movie/tt0071275?autoPlay=false",
@@ -4018,6 +4019,7 @@
     "anio": 2023,
     "genero": ["Thriller", "Drama"],
     "calificacion": 5.1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzI4OTg1YzAtNTBmZS00MjRhLWEwNTQtNDUzNjVlM2U0NTRkXkEyXkFqcGc@._V1_QL75_UX96_.jpg",
     "iframes": [
       "https://vidsrc.xyz/embed/movie?imdb=tt22853784",
       "https://vidsrc.cc/v2/embed/movie/tt22853784?autoPlay=false",
